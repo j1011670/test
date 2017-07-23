@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<InstallationLog>
+	<ProductName>JDA_MfgFoundation_2017.1</ProductName>
+	<Creator>Installed by InstallAnywhere 10.0 Enterprise Build 3783</Creator>
+	<InstallationDirectory>C:\JDA\FP2017</InstallationDirectory>
+	<StartupInfo>
+		<FreeMemory>35774 kB</FreeMemory>
+		<TotalMemory>87552 kB</TotalMemory>
+		<CommandLineArgs/>
+		<StartupPath name="java.class.path">
+			<PathElement>C:\Users\j1011670\AppData\Local\Temp\I1499757111\InstallerData\IAClasses.zip</PathElement>
+			<PathElement>C:\Users\j1011670\AppData\Local\Temp\I1499757111\InstallerData\Execute.zip</PathElement>
+			<PathElement>C:\Users\j1011670\AppData\Local\Temp\I1499757111\Windows\InstallerData\Execute.zip</PathElement>
+			<PathElement>C:\Users\j1011670\AppData\Local\Temp\I1499757111\InstallerData\Resource1.zip</PathElement>
+			<PathElement>C:\Users\j1011670\AppData\Local\Temp\I1499757111\Windows\InstallerData\Resource1.zip</PathElement>
+			<PathElement>C:\Users\j1011670\AppData\Local\Temp\I1499757111\InstallerData</PathElement>
+			<PathElement>C:\Users\j1011670\AppData\Local\Temp\I1499757111\Windows\InstallerData</PathElement>
+		</StartupPath>
+		<StartupPath name="ZGUtil.CLASS_PATH">
+			<PathElement>C:\Users\j1011670\AppData\Local\Temp\I1499757111\InstallerData\IAClasses.zip</PathElement>
+			<PathElement>C:\Users\j1011670\AppData\Local\Temp\I1499757111\InstallerData\Execute.zip</PathElement>
+			<PathElement>C:\Users\j1011670\AppData\Local\Temp\I1499757111\InstallerData</PathElement>
+		</StartupPath>
+		<StartupPath name="sun.boot.class.path">
+			<PathElement>C:\Users\j1011670\AppData\Local\Temp\I1499757111\Windows\resource\jre\lib\resources.jar</PathElement>
+			<PathElement>C:\Users\j1011670\AppData\Local\Temp\I1499757111\Windows\resource\jre\lib\rt.jar</PathElement>
+			<PathElement>C:\Users\j1011670\AppData\Local\Temp\I1499757111\Windows\resource\jre\lib\sunrsasign.jar</PathElement>
+			<PathElement>C:\Users\j1011670\AppData\Local\Temp\I1499757111\Windows\resource\jre\lib\jsse.jar</PathElement>
+			<PathElement>C:\Users\j1011670\AppData\Local\Temp\I1499757111\Windows\resource\jre\lib\jce.jar</PathElement>
+			<PathElement>C:\Users\j1011670\AppData\Local\Temp\I1499757111\Windows\resource\jre\lib\charsets.jar</PathElement>
+			<PathElement>C:\Users\j1011670\AppData\Local\Temp\I1499757111\Windows\resource\jre\lib\jfr.jar</PathElement>
+			<PathElement>C:\Users\j1011670\AppData\Local\Temp\I1499757111\Windows\resource\jre\classes</PathElement>
+		</StartupPath>
+		<StartupPath name="java.ext.dirs">
+			<PathElement>C:\Users\j1011670\AppData\Local\Temp\I1499757111\Windows\resource\jre\lib\ext</PathElement>
+			<PathElement>C:\WINDOWS\Sun\Java\lib\ext</PathElement>
+		</StartupPath>
+		<SystemProperty name="java.version">1.8.0_51 (Java 1)</SystemProperty>
+		<SystemProperty name="java.vm.name">Java HotSpot(TM) 64-Bit Server VM</SystemProperty>
+		<SystemProperty name="java.vm.vendor">Oracle Corporation</SystemProperty>
+		<SystemProperty name="java.vm.version">25.51-b03</SystemProperty>
+		<SystemProperty name="java.vm.specification.name">Java Virtual Machine Specification</SystemProperty>
+		<SystemProperty name="java.vm.specification.vendor">Oracle Corporation</SystemProperty>
+		<SystemProperty name="java.vm.specification.version">1.8</SystemProperty>
+		<SystemProperty name="java.specfication.name"/>
+		<SystemProperty name="java.specification.vendor">Oracle Corporation</SystemProperty>
+		<SystemProperty name="java.specification.version">1.8</SystemProperty>
+		<SystemProperty name="java.vendor">Oracle Corporation</SystemProperty>
+		<SystemProperty name="java.vendor.url">http://java.oracle.com/</SystemProperty>
+		<SystemProperty name="java.class.version">52.0</SystemProperty>
+		<SystemProperty name="java.compiler"/>
+		<SystemProperty name="java.home">C:\Users\j1011670\AppData\Local\Temp\I1499757111\Windows\resource\jre</SystemProperty>
+		<SystemProperty name="java.io.tmpdir">C:\Users\j1011670\AppData\Local\Temp\</SystemProperty>
+		<SystemProperty name="os.name">Windows 7</SystemProperty>
+		<SystemProperty name="os.arch">amd64</SystemProperty>
+		<SystemProperty name="os.version">6.1</SystemProperty>
+		<SystemProperty name="path.separator">;</SystemProperty>
+		<SystemProperty name="file.separator">\</SystemProperty>
+		<SystemProperty name="file.encoding">Cp1252</SystemProperty>
+		<SystemProperty name="user.name">j1011670</SystemProperty>
+		<SystemProperty name="user.home">C:\Users\j1011670</SystemProperty>
+		<SystemProperty name="user.dir">C:\Users\j1011670\AppData\Local\Temp\I1499757111\Windows</SystemProperty>
+		<SystemProperty name="user.language">en</SystemProperty>
+		<SystemProperty name="user.region"/>
+	</StartupInfo>
+	<UserInteractions>
+		<InteractionGroup name="Platform installation directory">
+			<InteractionVariable name="USER_INSTALL_DIR">C:\JDA\FP2017</InteractionVariable>
+			<InteractionVariable name="PLATFORM_INSTALL_OPT">1</InteractionVariable>
+		</InteractionGroup>
+		<InteractionGroup name="License File Location">
+			<InteractionVariable name="LICENSE_FILE_NAME">lic-2017.1-ALL.LIC</InteractionVariable>
+			<InteractionVariable name="PRENT_LICENSE_PATH">E:\tmp\</InteractionVariable>
+		</InteractionGroup>
+		<InteractionGroup name="Enter the Java Home Folder for FP installalation">
+			<InteractionVariable name="FP_JAVA_HOME">E:\tools\jdk1.8.0_77</InteractionVariable>
+		</InteractionGroup>
+		<InteractionGroup name="Enter the Oracle Home Folder for FP installalation">
+			<InteractionVariable name="FP_ORACLE_HOME">E:\oralce\product\11.2.0\dbhome_1</InteractionVariable>
+		</InteractionGroup>
+		<InteractionGroup name="Choose Schema for FP TMAPI Adapters">
+			<InteractionVariable name="USER_TMAPI_RESULT">"","","None"</InteractionVariable>
+			<InteractionVariable name="USER_TMAPI_RESULT_1"></InteractionVariable>
+			<InteractionVariable name="USER_TMAPI_RESULT_2"></InteractionVariable>
+			<InteractionVariable name="USER_TMAPI_RESULT_3">None</InteractionVariable>
+			<InteractionVariable name="USER_TMAPI_RESULT_BOOLEAN_1">0</InteractionVariable>
+			<InteractionVariable name="USER_TMAPI_RESULT_BOOLEAN_2">0</InteractionVariable>
+			<InteractionVariable name="USER_TMAPI_RESULT_BOOLEAN_3">1</InteractionVariable>
+		</InteractionGroup>
+		<InteractionGroup name="FP Engine: Application Manager Configuration: FP Engine Information">
+			<InteractionVariable name="FP_ENGINE_VAR">"J1011670W7LT","6163","fp_J1011670W7LT_tmapi_launcher"</InteractionVariable>
+			<InteractionVariable name="FP_ENGINE_VAR_1">J1011670W7LT</InteractionVariable>
+			<InteractionVariable name="FP_ENGINE_VAR_2">6163</InteractionVariable>
+			<InteractionVariable name="FP_ENGINE_VAR_3">fp_J1011670W7LT_tmapi_launcher</InteractionVariable>
+			<InteractionVariable name="FP_ENGINE_VAR_BOOLEAN_1"></InteractionVariable>
+			<InteractionVariable name="FP_ENGINE_VAR_BOOLEAN_2"></InteractionVariable>
+			<InteractionVariable name="FP_ENGINE_VAR_BOOLEAN_3"></InteractionVariable>
+		</InteractionGroup>
+		<InteractionGroup name="FP Engine: Web Service Port">
+			<InteractionVariable name="WEBSERVICE_PORT">"6164"</InteractionVariable>
+			<InteractionVariable name="WEBSERVICE_PORT_1">6164</InteractionVariable>
+			<InteractionVariable name="WEBSERVICE_PORT_BOOLEAN_1"></InteractionVariable>
+		</InteractionGroup>
+		<InteractionGroup name="ABPP Database Details">
+			<InteractionVariable name="ABPP_USERID"></InteractionVariable>
+			<InteractionVariable name="ABPP_DB_PASSWORD"></InteractionVariable>
+			<InteractionVariable name="ABPP_CONFIRM_PASSWORD"></InteractionVariable>
+			<InteractionVariable name="DB_PORT"></InteractionVariable>
+			<InteractionVariable name="DB_NAME"></InteractionVariable>
+			<InteractionVariable name="DB_HOST"></InteractionVariable>
+		</InteractionGroup>
+	</UserInteractions>
+	<InstallationSummary status="Installation: Cancelledduring pre-install.">
+		<status>INSTALLATION WAS CANCELLED BY USER DURING PRE-INSTALLATION</status>
+	</InstallationSummary>
+	<InstallDuration begin="Tue Jul 11 12:42:18 IST 2017" end="Tue Jul 11 12:44:37 IST 2017"/>
+	<ActionsSummary>
+		<Successes>23</Successes>
+		<Warnings>0</Warnings>
+		<NonFatalErrors>0</NonFatalErrors>
+		<FatalErrors>0</FatalErrors>
+		<ActionNotes>None</ActionNotes>
+	</ActionsSummary>
+	<InstallLogDetails>
+		<action name="Install Action" status="successful"/>
+		<action name="Custom Action" target="com.jda.mfgsuite.install.GetHostName" status="successful"/>
+		<action name="Get Registry Entry" status="successful"/>
+		<action name="Install Action" status="successful"/>
+		<action name="Custom Action" target="com.jda.mfgsuite.install.LicenseValidationWithoutPlatform" status="successful"/>
+		<action name="Custom Action" target="com.jda.mfgsuite.install.Entitlement" status="successful"/>
+		<action name="Install Action" status="successful"/>
+		<action name="Install Action" status="successful"/>
+		<action name="Custom Action" target="com.manu.webservices.install.EncryptPassword" status="successful"/>
+		<action name="Install Action" status="successful"/>
+		<action name="Install Action" status="successful"/>
+		<action name="Install Action" status="successful"/>
+		<action name="Install Action" status="successful"/>
+		<action name="Custom Action" target="com.manu.webservices.install.EncryptPassword" status="successful"/>
+		<action name="Install Action" status="successful"/>
+		<action name="Install Action" status="successful"/>
+	</InstallLogDetails>
+</InstallationLog>
