@@ -1,0 +1,62 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State
+  TCP    0.0.0.0:135            MD1NPDVBUILD78:0       LISTENING
+  TCP    0.0.0.0:445            MD1NPDVBUILD78:0       LISTENING
+  TCP    0.0.0.0:1521           MD1NPDVBUILD78:0       LISTENING
+  TCP    0.0.0.0:3389           MD1NPDVBUILD78:0       LISTENING
+  TCP    0.0.0.0:5985           MD1NPDVBUILD78:0       LISTENING
+  TCP    0.0.0.0:8081           MD1NPDVBUILD78:0       LISTENING
+  TCP    0.0.0.0:47001          MD1NPDVBUILD78:0       LISTENING
+  TCP    0.0.0.0:49152          MD1NPDVBUILD78:0       LISTENING
+  TCP    0.0.0.0:49153          MD1NPDVBUILD78:0       LISTENING
+  TCP    0.0.0.0:49154          MD1NPDVBUILD78:0       LISTENING
+  TCP    0.0.0.0:49155          MD1NPDVBUILD78:0       LISTENING
+  TCP    0.0.0.0:49173          MD1NPDVBUILD78:0       LISTENING
+  TCP    0.0.0.0:49189          MD1NPDVBUILD78:0       LISTENING
+  TCP    0.0.0.0:49213          MD1NPDVBUILD78:0       LISTENING
+  TCP    0.0.0.0:49214          MD1NPDVBUILD78:0       LISTENING
+  TCP    10.0.26.7:139          MD1NPDVBUILD78:0       LISTENING
+  TCP    10.0.26.7:445          gywgq72j:58213         ESTABLISHED
+  TCP    10.0.26.7:3389         j1011670w7lt:50171     ESTABLISHED
+  TCP    10.0.26.7:49192        md1npdvlnxjen01:47116  ESTABLISHED
+  TCP    10.0.26.7:49243        md1prdsmb01:microsoft-ds  ESTABLISHED
+  TCP    10.0.26.7:49860        md1prdfs01:microsoft-ds  ESTABLISHED
+  TCP    127.0.0.1:13205        MD1NPDVBUILD78:0       LISTENING
+  TCP    127.0.0.1:49183        MD1NPDVBUILD78:49184   ESTABLISHED
+  TCP    127.0.0.1:49184        MD1NPDVBUILD78:49183   ESTABLISHED
+  TCP    [::]:135               MD1NPDVBUILD78:0       LISTENING
+  TCP    [::]:445               MD1NPDVBUILD78:0       LISTENING
+  TCP    [::]:1521              MD1NPDVBUILD78:0       LISTENING
+  TCP    [::]:3389              MD1NPDVBUILD78:0       LISTENING
+  TCP    [::]:5985              MD1NPDVBUILD78:0       LISTENING
+  TCP    [::]:8081              MD1NPDVBUILD78:0       LISTENING
+  TCP    [::]:47001             MD1NPDVBUILD78:0       LISTENING
+  TCP    [::]:49152             MD1NPDVBUILD78:0       LISTENING
+  TCP    [::]:49153             MD1NPDVBUILD78:0       LISTENING
+  TCP    [::]:49154             MD1NPDVBUILD78:0       LISTENING
+  TCP    [::]:49155             MD1NPDVBUILD78:0       LISTENING
+  TCP    [::]:49173             MD1NPDVBUILD78:0       LISTENING
+  TCP    [::]:49189             MD1NPDVBUILD78:0       LISTENING
+  TCP    [::]:49213             MD1NPDVBUILD78:0       LISTENING
+  TCP    [::]:49214             MD1NPDVBUILD78:0       LISTENING
+  TCP    [::1]:49193            MD1NPDVBUILD78:0       LISTENING
+  UDP    0.0.0.0:123            *:*                    
+  UDP    0.0.0.0:500            *:*                    
+  UDP    0.0.0.0:3389           *:*                    
+  UDP    0.0.0.0:4500           *:*                    
+  UDP    0.0.0.0:5355           *:*                    
+  UDP    0.0.0.0:8082           *:*                    
+  UDP    10.0.26.7:137          *:*                    
+  UDP    10.0.26.7:138          *:*                    
+  UDP    127.0.0.1:55201        *:*                    
+  UDP    127.0.0.1:56085        *:*                    
+  UDP    127.0.0.1:60122        *:*                    
+  UDP    127.0.0.1:60874        *:*                    
+  UDP    [::]:123               *:*                    
+  UDP    [::]:500               *:*                    
+  UDP    [::]:3389              *:*                    
+  UDP    [::]:4500              *:*                    
+  UDP    [::]:5355              *:*                    
+  UDP    [::]:8082              *:*                    
