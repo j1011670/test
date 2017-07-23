@@ -1,0 +1,3054 @@
+cwd: C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows
+cmd: "C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\bin\java.exe" -Xms51200000 -Xmx204800000 -classpath "C:\Users\j1013674\AppData\Local\Temp\I1500361785\InstallerData\IAClasses.zip;C:\Users\j1013674\AppData\Local\Temp\I1500361785\InstallerData\Execute.zip;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\InstallerData\Execute.zip;C:\Users\j1013674\AppData\Local\Temp\I1500361785\InstallerData\Resource1.zip;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\InstallerData\Resource1.zip;C:\Users\j1013674\AppData\Local\Temp\I1500361785\InstallerData;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\InstallerData;" com.zerog.lax.LAX "C:/Users/j1013674/AppData/Local/Temp/I1500361785/Windows/installMfgFoundation.lax" "C:/Users/j1013674/AppData/Local/Temp/lax8344.tmp"
+LAX Version = 10.0
+IAResourceBundle: create resource bundle: en
+__________________________________________________________________________
+
+InstallAnywhere 2009
+Version: 10.0
+__________________________________________________________________________
+
+Tue Jul 18 12:40:06 IST 2017
+
+Free Memory: 40651 kB
+Total Memory: 49152 kB
+
+No Arguments
+
+java.class.path:
+    C:\Users\j1013674\AppData\Local\Temp\I1500361785\InstallerData\IAClasses.zip
+    C:\Users\j1013674\AppData\Local\Temp\I1500361785\InstallerData\Execute.zip
+    C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\InstallerData\Execute.zip
+    C:\Users\j1013674\AppData\Local\Temp\I1500361785\InstallerData\Resource1.zip
+    C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\InstallerData\Resource1.zip
+    C:\Users\j1013674\AppData\Local\Temp\I1500361785\InstallerData
+    C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\InstallerData
+
+ZGUtil.CLASS_PATH:
+    C:\Users\j1013674\AppData\Local\Temp\I1500361785\InstallerData\IAClasses.zip
+    C:\Users\j1013674\AppData\Local\Temp\I1500361785\InstallerData\Execute.zip
+    C:\Users\j1013674\AppData\Local\Temp\I1500361785\InstallerData
+
+sun.boot.class.path:
+    C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\resources.jar
+    C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\rt.jar
+    C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\sunrsasign.jar
+    C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\jsse.jar
+    C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\jce.jar
+    C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\charsets.jar
+    C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\jfr.jar
+    C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\classes
+
+java.ext.dirs:
+    C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\ext
+    C:\Windows\Sun\Java\lib\ext
+
+java.version                  == 1.8.0_51 (Java 1)
+java.vm.name                  == Java HotSpot(TM) 64-Bit Server VM
+java.vm.vendor                == Oracle Corporation
+java.vm.version               == 25.51-b03
+java.vm.specification.name    == Java Virtual Machine Specification
+java.vm.specification.vendor  == Oracle Corporation
+java.vm.specification.version == 1.8
+java.specification.name       == Java Platform API Specification
+java.specification.vendor     == Oracle Corporation
+java.specification.version    == 1.8
+java.vendor                   == Oracle Corporation
+java.vendor.url               == http://java.oracle.com/
+java.class.version            == 52.0
+java.compiler                 == null
+java.home                     == C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre
+java.io.tmpdir                == C:\Users\j1013674\AppData\Local\Temp\
+os.name                       == Windows 8.1
+os.arch                       == amd64
+os.version                    == 6.3
+path.separator                == ;
+file.separator                == \
+file.encoding                 == Cp1252
+user.name                     == j1013674
+user.home                     == C:\Users\j1013674
+user.dir                      == C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows
+user.language                 == en
+user.region                   == null
+__________________________________________________________________________
+
+
+
+
+Loading externalized properties
+
+
+
+Installer UI: SWING
+
+JAVA_HOME :C:\jdk1.80.112
+
+JAVA_EXECUTABLE : C:\jdk1.80.112\bin\java.exe
+
+JAVA_DOT_HOME : C:\jdk1.80.112\jre
+Getting host information...
+        fully qualified domain name: 4NV9JC2J.jda.corp.local
+        host name: 4NV9JC2J
+        domain name: jda.corp.local
+Value of variable PLATFORM_INSTALL_CON
+
+PLATFORM_INSTALL_CON::
+Value of variable PLATFORM_INSTALL_OPT
+
+PLATFORM_INSTALL_OPT:: 0
+LoadPropertyFile: In getInstallStatusMessage()
+LoadPropertyFile: In install()
+LoadPropertiesFile: configFile = C:\Products\JDA2017\install\installer.properties
+Variable: name = USER_INSTALL_DIR, value = C:\Products\JDA2017
+Variable: name = USER_SHORTCUTS, value = C:\Users\j1013674\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\JDA 2017.1
+Variable: name = APPSERVER, value = weblogic
+Variable: name = JDA_JVM_BIT, value = 64
+Variable: name = JDA_WINOS_TYPE, value = windows64
+Variable: name = BEA_HOME, value = C:\Oracle\Middleware\Oracle_Home
+Variable: name = WEBLOGIC_HOME, value = C:\Oracle\Middleware\Oracle_Home\wlserver
+Variable: name = WAS_HOME, value =
+Variable: name = WEBWORKS_JAVA_HOME, value = C:\jdk1.80.112
+Variable: name = UNINSTALLER_JAVA_HOME, value = C:\Products\JDA2017\jre
+Variable: name = SERVER_HOST_NAME, value = 4nv9jc2j
+Variable: name = SERVER_STANDARD_PORT, value = 7001
+Variable: name = SERVER_SSL_PORT, value = 7002
+Variable: name = SERVER_ORB_PORT, value = 7001
+Variable: name = SERVER_SOAP_PORT, value =
+Variable: name = SERVER_CONFIG_NAME, value =
+Variable: name = APP_CONFIG_NAME, value =
+Variable: name = SERVER_PROFILE_NAME, value =
+Variable: name = SYSTEM_DB_NAME, value = SURESH6_JDA
+Variable: name = ORACLE_HOME, value = C:\Oracle\client
+Variable: name = LICENSE_FILE, value = C:\licenses\lic-2017.1-ALL.lic
+Variable: name = MONITOR_INSTALLED, value = no
+Variable: name = DB_HOST, value = in2npdlnxdb16
+Variable: name = DB_PORT, value = 1521
+Variable: name = DB_NAME, value = o11ut14
+Variable: name = DB_USERID, value = SURESH6_WWF
+Variable: name = DB_URL, value = //in2npdlnxdb16:1521/o11ut14
+Variable: name = DB_ENCRYPTED_PASSWORD, value = {E:AES}b3b88173a981d25d3286dbeba4db09c8
+Variable: name = ABPP_USERID, value = suresh6_abpp
+Variable: name = ABPP_ENCRYPTED_PASSWORD, value = {E:AES}cc65894a8ec03669f0a114cda7696999
+Variable: name = MONITOR_USERID, value = SURESH6_WWF
+Variable: name = CONNECTION_POOL_INITIAL, value = 5
+Variable: name = CONNECTION_POOL_MAX, value = 30
+Variable: name = CONNECTION_POOL_INCREMENT, value = 5
+Variable: name = HOST_ENTERPRISE, value = Company Name
+Variable: name = HOST_ENTERPRISE_ESCAPED, value = Company Name
+Variable: name = SUPPORTED_LANGUAGES, value = en
+Variable: name = EMAIL_SYSADMIN_ADDRESS, value =
+Variable: name = EMAIL_SYSTEM_ADDRESS, value =
+Variable: name = EMAIL_SMTP_HOST, value =
+Variable: name = CONTEXT_ROOT, value = jda
+Variable: name = FLEXIBLE_EDITOR_TABLESPACE, value = WWFDATA
+AppID = 1002810000
+AppName = JDA Platform - Runtime
+AppVersion = 2017.1.x
+
+
+AppID = 1002811001
+AppName = JDA Platform - Developer
+AppVersion = 2017.1.x
+
+
+AppID = 1002330000
+AppName = JDA Monitor
+AppVersion = 2017.1.x
+
+
+AppID = 1002320000
+AppName = JDA Reporting
+AppVersion = 2017.1.x
+
+
+AppID = 1002310000
+AppName = JDA Analytics
+AppVersion = 2017.1.x
+
+
+AppID = 1002321001
+AppName = JDA Business Analysis
+AppVersion = 2017.1.x
+
+
+AppID = 1002010000
+AppName = JDA Demand
+AppVersion = 2017.1.x
+
+
+AppID = 1002011005
+AppName = JDA Demand 360
+AppVersion = 2017.1.x
+
+
+AppID = 1002011000
+AppName = JDA Demand Classification
+AppVersion = 2017.1.x
+
+
+AppID = 1002110000
+AppName = JDA Fulfillment
+AppVersion = 2017.1.x
+
+
+AppID = 1002111003
+AppName = JDA Fulfillment-Material Alloc
+AppVersion = 2017.1.x
+
+
+AppID = 1002111002
+AppName = JDA Fulfillment - Production
+AppVersion = 2017.1.x
+
+
+AppID = 1002170000
+AppName = JDA Fulfillment - Allocation
+AppVersion = 2017.1.x
+
+
+AppID = 1002190000
+AppName = JDA Predictive Analytics and New Product Intelligence
+AppVersion = 2017.1.x
+
+
+AppID = 1002200000
+AppName = JDA Slow Mover Forecasting and Replenishment
+AppVersion = 2017.1.x
+
+
+AppID = 1002150000
+AppName = JDA Dynamic Demand Response
+AppVersion = 2017.1.x
+
+
+AppID = 1002160000
+AppName = JDA Order Optimization
+AppVersion = 2017.1.x
+
+
+AppID = 1002161001
+AppName = JDA Order Optimization Forward Buy
+AppVersion = 2017.1.x
+
+
+AppID = 1002161002
+AppName = JDA Replenishment Interval Optimization
+AppVersion = 2017.1.x
+
+
+AppID = 1002180000
+AppName = JDA Flowcasting
+AppVersion = 2017.1.x
+
+
+AppID = 1002020000
+AppName = JDA Markdown Optimization
+AppVersion = 2017.1.x
+
+
+AppID = 1000450000
+AppName = JDA Promotions Management
+AppVersion = 2017.1.x
+
+
+AppID = 1002030000
+AppName = JDA Promotions Optimization
+AppVersion = 2017.1.x
+
+
+AppID = 1002080000
+AppName = JDA Demand Management Foundation
+AppVersion = 2017.1.x
+
+
+AppID = 1002050000
+AppName = JDA Strategic Pricing
+AppVersion = 2017.1.x
+
+
+AppID = 1002590000
+AppName = JDA Travel Price Optimization
+AppVersion = 2017.1.x
+
+
+AppID = 1002570000
+AppName = JDA Revenue Mgmt Foundation
+AppVersion = 2017.1.x
+
+
+AppID = 1003260000
+AppName = JDA Enterprise Supply Planning
+AppVersion = 2017.1.x
+
+
+AppID = 1003261002
+AppName = JDA Enterprise Supply Planning with LPOpt
+AppVersion = 2017.1.x
+
+
+AppID = 1002130000
+AppName = JDA Production and Sourcing Opt
+AppVersion = 2017.1.x
+
+
+AppID = 1003620002
+AppName = JDA Inventory Optimization
+AppVersion = 2017.1.x
+
+
+AppID = 1003730000
+AppName = JDA Sales and Operations Planning
+AppVersion = 2017.1.x
+
+
+AppID = 1002370000
+AppName = JDA Collaborate
+AppVersion = 2017.1.x
+
+
+AppID = 1002380000
+AppName = JDA Market Manager
+AppVersion = 2017.1.x
+
+
+AppID = 1002381001
+AppName = JDA Market Manager - Multi-Enterprise
+AppVersion = 2017.1.x
+
+
+AppID = 1003310000
+AppName = JDA Order Promiser
+AppVersion = 2017.1.x
+
+
+AppID = 1003020000
+AppName = JDA Supply Chain Planner
+AppVersion = 2017.1.x
+
+
+AppID = 1003021023
+AppName = JDA Supply Chain Planner with LpOPT Extension
+AppVersion = 2017.1.x
+
+
+AppID = 1003021020
+AppName = JDA Supply Chain Planner with lpathfinder
+AppVersion = 2017.1.x
+
+
+AppID = 1003810002
+AppName = JDA Manufacturing ABPP
+AppVersion = 2017.1.x
+
+
+AppID = 1003010000
+AppName = JDA Factory Planner
+AppVersion = 2017.1.x
+
+
+AppID = 1003610000
+AppName = JDA Supply Chain Strategist
+AppVersion = 2017.1.x
+
+
+AppID = 1003611004
+AppName = JDA Supply Chain Strategist Analyzer
+AppVersion = 2017.1.x
+
+
+AppID = 1002800001
+AppName = JDA Sequencing
+AppVersion = 2017.1.x
+
+
+AppID = 1002801001
+AppName = JDA Sequencing Advanced Optimization
+AppVersion = 2017.1.x
+
+
+AppID = 1003080001
+AppName = JDA Order Sequencing and Slotting
+AppVersion = 2017.1.x
+
+
+AppID = 1000630002
+AppName = JDA Assortment
+AppVersion = 2017.1.x
+
+
+AppID = 1000490010
+AppName = JDA Advertising
+AppVersion = 2017.1.x
+
+
+AppID = 1003240000
+AppName = JDA Logistics Procurement
+AppVersion = 2017.1.x
+
+
+AppID = 1003220000
+AppName = JDA Transportation Modeler
+AppVersion = 2017.1.x
+
+
+AppID = 1003210000
+AppName = JDA Transportation Manager
+AppVersion = 2017.1.x
+
+
+AppID = 1003230000
+AppName = JDA Transportation Planner
+AppVersion = 2017.1.x
+
+
+AppID = 1003210001
+AppName = JDA Transportation Manager Proactive Monitoring
+AppVersion = 2017.1.x
+
+
+AppID = 1002210000
+AppName = JDA Transportation Planning
+AppVersion = 2017.1.x
+
+
+AppID = 1002240000
+AppName = JDA Freight Audit and Payment
+AppVersion = 2017.1.x
+
+
+AppID = 1002230000
+AppName = JDA Freight Order Management
+AppVersion = 2017.1.x
+
+
+AppID = 1002250000
+AppName = JDA Shipment Execution
+AppVersion = 2017.1.x
+
+
+AppID = 1002550000
+AppName = JDA Tour Revenue Optimizer
+AppVersion = 2017.1.x
+
+
+AppID = 1002520000
+AppName = JDA Rail Revenue Optimization
+AppVersion = 2017.1.x
+
+
+AppID = 1004431012
+AppName = JDA InStock
+AppVersion = 2017.1.x
+
+
+AppID = 1003750000
+AppName = JDA Retail Planning Dashboard
+AppVersion = 2017.1.x
+
+
+AppID = 1003040000
+AppName = JDA Material Allocator
+AppVersion = 2017.1.x
+
+
+AppID = 1002820000
+AppName = JDA Connect
+AppVersion = 2017.1.x
+
+
+AppID = 1002820001
+AppName = JDA Connect for SAP HANA (TM)
+AppVersion = 2017.1.x
+
+
+AppID = 1003110000
+AppName = JDA Product Sourcing
+AppVersion = 2017.1.x
+
+
+AppID = 1003110004
+AppName = JDA Contract Management
+AppVersion = 2017.1.x
+
+
+AppID = 1003140000
+AppName = JDA Strategic Sourcing
+AppVersion = 2017.1.x
+
+
+AppID = 1003160000
+AppName = JDA Compoonent Suplier Management
+AppVersion = 2017.1.x
+
+
+AppID = 1003161001
+AppName = JDA CSM - Part Navigator
+AppVersion = 2017.1.x
+
+
+AppID = 1004560000
+AppName = JDA Warehouse Management
+AppVersion = 2017.1.x
+
+
+AppID = 1004610000
+AppName = JDA Warehouse Labor Management
+AppVersion = 2017.1.x
+
+
+AppID = 1004611005
+AppName = JDA Workforce Modeling
+AppVersion = 2017.1.x
+
+
+AppID = 1004611004
+AppName = JDA Time and Incentives
+AppVersion = 2017.1.x
+
+
+AppID = 1004720000
+AppName = JDA Track and Trace
+AppVersion = 2017.1.x
+
+
+AppID = 1004571006
+AppName = JDA Integrator for Dispatcher
+AppVersion = 2017.1.x
+
+
+AppID = 1004571005
+AppName = JDA EMS-Event Mgmt for Dispatcher
+AppVersion = 2017.1.x
+
+
+AppID = 1004570000
+AppName = JDA Dispatcher WMS
+AppVersion = 2017.1.x
+
+
+AppID = 1004750000
+AppName = JDA Third Party Billing
+AppVersion = 2017.1.x
+
+
+AppID = 1004571004
+AppName = JDA Extended Yard Management
+AppVersion = 2017.1.x
+
+
+AppID = 1002320002
+AppName = JDA Business Analysis for Store Operations
+AppVersion = 2017.1.x
+
+
+AppID = 1002320003
+AppName = JDA Business Analysis for Transportation
+AppVersion = 2017.1.x
+
+
+
+lic validation outputs post lic validation call:
+
+PRODUCT_ID : 1002810000
+PRODUCT_RELEASE: 2017.1.x
+
+CUSTOMER :JDA
+ENTITLEMENT_IDS: 1002810000,1002811001,1002330000,1002320000,1002310000,1002321001,1002010000,1002011005,1002011000,1002110000,1002111003,1002111002,1002170000,1002190000,1002200000,1002150000,1002160000,1002161001,1002161002,1002180000,1002020000,1000450000,1002030000,1002080000,1002050000,1002590000,1002570000,1003260000,1003261002,1002130000,1003620002,1003730000,1002370000,1002380000,1002381001,1003310000,1003020000,1003021023,1003021020,1003810002,1003010000,1003610000,1003611004,1002800001,1002801001,1003080001,1000630002,1000490010,1003240000,1003220000,1003210000,1003230000,1003210001,1002210000,1002240000,1002230000,1002250000,1002550000,1002520000,1004431012,1003750000,1003040000,1002820000,1002820001,1003110000,1003110004,1003140000,1003160000,1003161001,1004560000,1004610000,1004611005,1004611004,1004720000,1004571006,1004571005,1004570000,1004750000,1004571004,1002320002,1002320003
+ENTITLEMENT_NAMES: JDA Platform - Runtime,JDA Platform - Developer,JDA Monitor,JDA Reporting,JDA Analytics,JDA Business Analysis,JDA Demand,JDA Demand 360,JDA Demand Classification,JDA Fulfillment,JDA Fulfillment-Material Alloc,JDA Fulfillment - Production,JDA Fulfillment - Allocation,JDA Predictive Analytics and New Product Intelligence,JDA Slow Mover Forecasting and Replenishment,JDA Dynamic Demand Response,JDA Order Optimization,JDA Order Optimization Forward Buy,JDA Replenishment Interval Optimization,JDA Flowcasting,JDA Markdown Optimization,JDA Promotions Management,JDA Promotions Optimization,JDA Demand Management Foundation,JDA Strategic Pricing,JDA Travel Price Optimization,JDA Revenue Mgmt Foundation,JDA Enterprise Supply Planning,JDA Enterprise Supply Planning with LPOpt,JDA Production and Sourcing Opt,JDA Inventory Optimization,JDA Sales and Operations Planning,JDA Collaborate,JDA Market Manager,JDA Market Manager - Multi-Enterprise,JDA Order Promiser,JDA Supply Chain Planner,JDA Supply Chain Planner with LpOPT Extension,JDA Supply Chain Planner with lpathfinder,JDA Manufacturing ABPP,JDA Factory Planner,JDA Supply Chain Strategist,JDA Supply Chain Strategist Analyzer,JDA Sequencing,JDA Sequencing Advanced Optimization,JDA Order Sequencing and Slotting,JDA Assortment,JDA Advertising,JDA Logistics Procurement,JDA Transportation Modeler,JDA Transportation Manager,JDA Transportation Planner,JDA Transportation Manager Proactive Monitoring,JDA Transportation Planning,JDA Freight Audit and Payment,JDA Freight Order Management,JDA Shipment Execution,JDA Tour Revenue Optimizer,JDA Rail Revenue Optimization,JDA InStock,JDA Retail Planning Dashboard,JDA Material Allocator,JDA Connect,JDA Connect for SAP HANA (TM),JDA Product Sourcing,JDA Contract Management,JDA Strategic Sourcing,JDA Compoonent Suplier Management,JDA CSM - Part Navigator,JDA Warehouse Management,JDA Warehouse Labor Management,JDA Workforce Modeling,JDA Time and Incentives,JDA Track and Trace,JDA Integrator for Dispatcher,JDA EMS-Event Mgmt for Dispatcher,JDA Dispatcher WMS,JDA Third Party Billing,JDA Extended Yard Management,JDA Business Analysis for Store Operations,JDA Business Analysis for Transportation
+LICENSE_VALID: Yes
+LICENSE_VALIDATION_MSG: License validation succeeded. There are 438 days left before license expires.
+*** Selected Products ***
+
+UI:
+MfgABPP value is true
+FP value is true
+
+Engine:
+
+FP value is true
+
+*** Selected Products ***
+
+UI:
+MfgABPP value is true
+FP value is true
+
+Engine:
+
+FP value is true
+
+Password after Encryption
+ABPP_DB_PWD : suresh6_abpp
+ABPP_DB_PWD_ENCRYPTED : 000012137039244125154131050144022130065052054145175225
+ABPP_DB_PWD_ENCRYPTED_XOR : rtsdri7^`cqq
+***** 3 ReplayVariables for CreateDialog named USER_TMAPI_RESULT
+Password after Encryption
+SCPO_PASSWORD : win-scpo2017
+SCPO_PASSWORD_ENCRYPTED : 000012237205152093107045196120126173136078116065021220
+SCPO_PASSWORD_ENCRYPTED_XOR : vho,rbqn3106
+***** 3 ReplayVariables for CreateDialog named FP_ENGINE_VAR
+***** 2 ReplayVariables for CreateDialog named BATCH_RESULTS
+***** 1 ReplayVariables for CreateDialog named WEBSERVICE_PORT
+DumpDebugInfo C:\Products\JDA2017\mfgsuite-install-debug.txt
+Tue Jul 18 12:42:05 IST 2017
+
+
+InstallAnywhere Variables:
+/=$prop.file.separator$
+:=$prop.path.separator$
+;=$prop.path.separator$
+\=$prop.file.separator$
+ABPP_CONFIRM_PASSWORD=suresh6_abpp
+ABPP_DB_PASSWORD=suresh6_abpp
+ABPP_DB_PWD=suresh6_abpp
+ABPP_DB_PWD_CONFIRM=suresh6_abpp
+ABPP_DB_PWD_ENCRYPTED=000012137039244125154131050144022130065052054145175225
+ABPP_DB_PWD_ENCRYPTED_XOR=rtsdri7^`cqq
+ABPP_DB_TNS=o11ut14
+ABPP_DB_USER=suresh6_abpp
+ABPP_DB_VAR_1=suresh6_abpp
+ABPP_DB_VAR_3=o11ut14
+ABPP_ENCRYPTED_PASSWORD={E:AES}cc65894a8ec03669f0a114cda7696999
+ABPP_USERID=suresh6_abpp
+APP_CONFIG_NAME=
+APPSERVER=weblogic
+BATCH_RESULTS="Yes",""
+BATCH_RESULTS_1=Yes
+BATCH_RESULTS_2=
+BATCH_RESULTS_BOOLEAN_1=1
+BATCH_RESULTS_BOOLEAN_2=0
+BEA_HOME=C:\Oracle\Middleware\Oracle_Home
+CHOSEN_DIALOG_BUTTON=0
+CHOSEN_FEATURE_1=MfgSuite
+CHOSEN_FEATURE_LIST=MfgSuite
+CHOSEN_FEATURE_NUM=1
+CHOSEN_INSTALL_BUNDLE_1=MfgSuite
+CHOSEN_INSTALL_BUNDLE_LIST=MfgSuite
+CHOSEN_INSTALL_BUNDLE_NUM=1
+CHOSEN_INSTALL_FEATURE_1=MfgSuite
+CHOSEN_INSTALL_FEATURE_LIST=MfgSuite
+CHOSEN_INSTALL_FEATURE_NUM=1
+CHOSEN_INSTALL_SET=Typical
+CLEAR_TEXT_PASSWORD=suresh6_abpp
+COMMA=,
+COMPUTERNAME=4NV9JC2J
+CONNECTION_POOL_INCREMENT=5
+CONNECTION_POOL_INITIAL=5
+CONNECTION_POOL_MAX=30
+CONTEXT_ROOT=jda
+CUSTOMER=JDA
+DATABASE_INFO_6=o11ut14
+DB_ENCRYPTED_PASSWORD={E:AES}b3b88173a981d25d3286dbeba4db09c8
+DB_HOST=in2npdlnxdb16
+DB_NAME=o11ut14
+DB_PORT=1521
+DB_URL=//in2npdlnxdb16:1521/o11ut14
+DB_USERID=SURESH6_WWF
+DEBUG=1
+DESKTOP=C:\Users\j1013674\Desktop
+DO_NOT_INSTALL=Do Not Install
+DOLLAR=$
+EMAIL_SMTP_HOST=
+EMAIL_SYSADMIN_ADDRESS=
+EMAIL_SYSTEM_ADDRESS=
+EMPTY_STRING=
+ENCRYPTED_PASSWORD={E:AES}cc65894a8ec03669f0a114cda7696999
+ENG_CHECK=false
+ENTITLEMENT_IDS=1002810000,1002811001,1002330000,1002320000,1002310000,1002321001,1002010000,1002011005,1002011000,1002110000,1002111003,1002111002,1002170000,1002190000,1002200000,1002150000,1002160000,1002161001,1002161002,1002180000,1002020000,1000450000,1002030000,1002080000,1002050000,1002590000,1002570000,1003260000,1003261002,1002130000,1003620002,1003730000,1002370000,1002380000,1002381001,1003310000,1003020000,1003021023,1003021020,1003810002,1003010000,1003610000,1003611004,1002800001,1002801001,1003080001,1000630002,1000490010,1003240000,1003220000,1003210000,1003230000,1003210001,1002210000,1002240000,1002230000,1002250000,1002550000,1002520000,1004431012,1003750000,1003040000,1002820000,1002820001,1003110000,1003110004,1003140000,1003160000,1003161001,1004560000,1004610000,1004611005,1004611004,1004720000,1004571006,1004571005,1004570000,1004750000,1004571004,1002320002,1002320003
+ENTITLEMENT_NAMES=JDA Platform - Runtime,JDA Platform - Developer,JDA Monitor,JDA Reporting,JDA Analytics,JDA Business Analysis,JDA Demand,JDA Demand 360,JDA Demand Classification,JDA Fulfillment,JDA Fulfillment-Material Alloc,JDA Fulfillment - Production,JDA Fulfillment - Allocation,JDA Predictive Analytics and New Product Intelligence,JDA Slow Mover Forecasting and Replenishment,JDA Dynamic Demand Response,JDA Order Optimization,JDA Order Optimization Forward Buy,JDA Replenishment Interval Optimization,JDA Flowcasting,JDA Markdown Optimization,JDA Promotions Management,JDA Promotions Optimization,JDA Demand Management Foundation,JDA Strategic Pricing,JDA Travel Price Optimization,JDA Revenue Mgmt Foundation,JDA Enterprise Supply Planning,JDA Enterprise Supply Planning with LPOpt,JDA Production and Sourcing Opt,JDA Inventory Optimization,JDA Sales and Operations Planning,JDA Collaborate,JDA Market Manager,JDA Market Manager - Multi-Enterprise,JDA Order Promiser,JDA Supply Chain Planner,JDA Supply Chain Planner with LpOPT Extension,JDA Supply Chain Planner with lpathfinder,JDA Manufacturing ABPP,JDA Factory Planner,JDA Supply Chain Strategist,JDA Supply Chain Strategist Analyzer,JDA Sequencing,JDA Sequencing Advanced Optimization,JDA Order Sequencing and Slotting,JDA Assortment,JDA Advertising,JDA Logistics Procurement,JDA Transportation Modeler,JDA Transportation Manager,JDA Transportation Planner,JDA Transportation Manager Proactive Monitoring,JDA Transportation Planning,JDA Freight Audit and Payment,JDA Freight Order Management,JDA Shipment Execution,JDA Tour Revenue Optimizer,JDA Rail Revenue Optimization,JDA InStock,JDA Retail Planning Dashboard,JDA Material Allocator,JDA Connect,JDA Connect for SAP HANA (TM),JDA Product Sourcing,JDA Contract Management,JDA Strategic Sourcing,JDA Compoonent Suplier Management,JDA CSM - Part Navigator,JDA Warehouse Management,JDA Warehouse Labor Management,JDA Workforce Modeling,JDA Time and Incentives,JDA Track and Trace,JDA Integrator for Dispatcher,JDA EMS-Event Mgmt for Dispatcher,JDA Dispatcher WMS,JDA Third Party Billing,JDA Extended Yard Management,JDA Business Analysis for Store Operations,JDA Business Analysis for Transportation
+EXTRACTOR_DIR=C:\Products
+EXTRACTOR_EXECUTABLE=C:\Products\installMfgFoundation.exe
+FLEXIBLE_EDITOR_TABLESPACE=WWFDATA
+FONTS=C:\Windows\Fonts
+FP_ENG=true
+FP_ENG1=true
+FP_ENGINE_VAR="4NV9JC2J","6163","fp_4NV9JC2J_tmapi_launcher"
+FP_ENGINE_VAR_1=4NV9JC2J
+FP_ENGINE_VAR_2=6163
+FP_ENGINE_VAR_3=fp_4NV9JC2J_tmapi_launcher
+FP_ENGINE_VAR_BOOLEAN_1=
+FP_ENGINE_VAR_BOOLEAN_2=
+FP_ENGINE_VAR_BOOLEAN_3=
+FP_NAME=JDA Factory Planner
+FP_PRODUCT_ID=1003010000
+FP_PRODUCT_NAME=JDA Factory Planner
+FP_SERVICE=0
+FP_UI=true
+FP_UI1=true
+HOST_ENTERPRISE=Company Name
+HOST_ENTERPRISE_ESCAPED=Company Name
+I2_DATABASE_TYPE=Oracle
+I2_DATABASE_TYPE_1=Oracle
+I2_DOMAINNAME=jda.corp.local
+I2_ENCRYPTED=true
+I2_FLAG=true
+I2_FQDN=4NV9JC2J.jda.corp.local
+I2_FQDN_NO_DOTS=4NV9JC2J_jda_corp_local
+I2_HOSTNAME=4NV9JC2J
+I2_JDK_HOME=C:\jdk1.80.112
+I2_ORACLE_DRIVER=oracle.jdbc.driver.OracleDriver
+I2_ORACLE_HOST=in2npdlnxdb16
+I2_ORACLE_PORT=1521
+I2_SCENARIO_ENABLED=1
+I2_WEBCLIENT_TYPE=weblogic
+IA_CUSTOM_CODE_ZIP_SIZE=0
+INSTALL_DIR_SET=true
+INSTALL_DRIVE_ROOT=C:\
+INSTALL_SUCCESS=SUCCESS
+INSTALLER_LAUNCH_DIR=C:\Products
+INSTALLER_LOCALE=en
+System's temporary directory = C:\Users\j1013674\AppData\Local\Temp
+INSTALLER_TEMP_DIR=C:\Users\j1013674\AppData\Local\Temp\341614.tmp
+INSTALLER_TITLE=JDA MfgFoundation 2017.1
+INSTALLER_UI=SWING
+INVOPT_ENTITLEMENTS=Replenishment Interval Optimization
+INVOPT_INSTALL_TYPE=
+INVOPT_NAME=JDA Inventory Planner
+INVOPT_NAME_BASIC=Basic
+INVOPT_NAME_IPA=Inventory Performance Analysis
+INVOPT_NAME_RIO=Replenishment Interval Optimization
+INVOPT_PRODUCT_NAME=JDA Inventory Optimization
+INVOPT_PWD=suresh6_abpp
+INVOPT_TNSNAME=o11ut14
+INVOPT_USER=suresh6_abpp
+IO_ENG=true
+IO_PRODUCT_ID_BASIC=2954
+IO_PRODUCT_ID_IPA=3479
+IO_PRODUCT_ID_RIO=1002161002
+IO_TYPE_BASIC=false
+IO_TYPE_IPA=false
+IO_TYPE_RIO=false
+IO_UI=true
+IS_RUNNING_WOW64=NO
+JAVA_DOT_HOME=C:\jdk1.80.112\jre
+JAVA_EXECUTABLE=C:\jdk1.80.112\bin\java.exe
+JAVA_HOME=C:\jdk1.80.112
+JDA_JVM_BIT=64
+JDA_WINOS_TYPE=windows64
+JDK_HOME=C:\jdk1.80.112
+lax.application.name=installMfgFoundation
+lax.class.path=../InstallerData/IAClasses.zip;../InstallerData/Execute.zip;InstallerData/Execute.zip;../InstallerData/Resource1.zip;InstallerData/Resource1.zip;../InstallerData;InstallerData
+lax.command.line.args=$CMD_LINE_ARGUMENTS$
+lax.control-key=true
+lax.installer.win32.internal.property.0=bin\java.exe
+lax.installer.windows.ui.default=GUI
+lax.main.class=com.zerog.ia.installer.Main
+lax.main.method=main
+lax.nl.current.vm=C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\bin\java.exe
+lax.nl.env.__compat_layer=Installer
+lax.nl.env.__COMPAT_LAYER=Installer
+lax.nl.env.ALLUSERSPROFILE=C:\ProgramData
+lax.nl.env.allusersprofile=C:\ProgramData
+lax.nl.env.APPDATA=C:\Users\j1013674\AppData\Roaming
+lax.nl.env.appdata=C:\Users\j1013674\AppData\Roaming
+lax.nl.env.BURN_AUTOPLAY=C:\Program Files (x86)\Roxio\OEM\Roxio Burn\
+lax.nl.env.burn_autoplay=C:\Program Files (x86)\Roxio\OEM\Roxio Burn\
+lax.nl.env.CHASSIS=Laptop
+lax.nl.env.chassis=Laptop
+lax.nl.env.classpath=C:\backup\Oracle\client\jdbc\lib\ojdbc7.jar;C:\backup\Oracle\client\jdbc\lib\ojdbc6.jar
+lax.nl.env.CLASSPATH=C:\backup\Oracle\client\jdbc\lib\ojdbc7.jar;C:\backup\Oracle\client\jdbc\lib\ojdbc6.jar
+lax.nl.env.commonprogramfiles=C:\Program Files (x86)\Common Files
+lax.nl.env.COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+lax.nl.env.COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+lax.nl.env.commonprogramfiles(x86)=C:\Program Files (x86)\Common Files
+lax.nl.env.commonprogramw6432=C:\Program Files\Common Files
+lax.nl.env.COMMONPROGRAMW6432=C:\Program Files\Common Files
+lax.nl.env.COMPUTERNAME=4NV9JC2J
+lax.nl.env.computername=4NV9JC2J
+lax.nl.env.comspec=C:\Windows\system32\cmd.exe
+lax.nl.env.COMSPEC=C:\Windows\system32\cmd.exe
+lax.nl.env.DEFLOGDIR=C:\ProgramData\McAfee\Endpoint Security\Logs
+lax.nl.env.deflogdir=C:\ProgramData\McAfee\Endpoint Security\Logs
+lax.nl.env.emc_autoplay=C:\Program Files (x86)\Common Files\Roxio Shared\OEM\
+lax.nl.env.EMC_AUTOPLAY=C:\Program Files (x86)\Common Files\Roxio Shared\OEM\
+lax.nl.env.exact_case.__COMPAT_LAYER=Installer
+lax.nl.env.exact_case.ALLUSERSPROFILE=C:\ProgramData
+lax.nl.env.exact_case.APPDATA=C:\Users\j1013674\AppData\Roaming
+lax.nl.env.exact_case.BURN_AUTOPLAY=C:\Program Files (x86)\Roxio\OEM\Roxio Burn\
+lax.nl.env.exact_case.chassis=Laptop
+lax.nl.env.exact_case.CLASSPATH=C:\backup\Oracle\client\jdbc\lib\ojdbc7.jar;C:\backup\Oracle\client\jdbc\lib\ojdbc6.jar
+lax.nl.env.exact_case.CommonProgramFiles=C:\Program Files (x86)\Common Files
+lax.nl.env.exact_case.CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+lax.nl.env.exact_case.CommonProgramW6432=C:\Program Files\Common Files
+lax.nl.env.exact_case.COMPUTERNAME=4NV9JC2J
+lax.nl.env.exact_case.ComSpec=C:\Windows\system32\cmd.exe
+lax.nl.env.exact_case.DEFLOGDIR=C:\ProgramData\McAfee\Endpoint Security\Logs
+lax.nl.env.exact_case.EMC_AUTOPLAY=C:\Program Files (x86)\Common Files\Roxio Shared\OEM\
+lax.nl.env.exact_case.HOMEDRIVE=C:
+lax.nl.env.exact_case.HOMEPATH=\Users\j1013674
+lax.nl.env.exact_case.LOCALAPPDATA=C:\Users\j1013674\AppData\Local
+lax.nl.env.exact_case.LOGONSERVER=\\IN2PRDVDC02
+lax.nl.env.exact_case.model=E5470
+lax.nl.env.exact_case.NUMBER_OF_PROCESSORS=8
+lax.nl.env.exact_case.ORACLE_HOME=C:\Oracle
+lax.nl.env.exact_case.OS=Windows_NT
+lax.nl.env.exact_case.Path=C:\oracle1210;C:\Program Files (x86)\IBM\RationalSDLC\common;C:\jdk1.80.112\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\12.0\DLLShared\;C:\Program Files (x86)\Roxio\OEM\AudioCore\;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Program Files (x86)\IBM\RationalSDLC\ClearCase\bin;C:\Strawberry\perl\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\c\bin;C:\Program Files (x86)\WebEx\PTools020000000;C:\Program Files\PuTTY\
+lax.nl.env.exact_case.PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+lax.nl.env.exact_case.PROCESSOR_ARCHITECTURE=x86
+lax.nl.env.exact_case.PROCESSOR_ARCHITEW6432=AMD64
+lax.nl.env.exact_case.PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+lax.nl.env.exact_case.PROCESSOR_LEVEL=6
+lax.nl.env.exact_case.PROCESSOR_REVISION=5e03
+lax.nl.env.exact_case.ProgramData=C:\ProgramData
+lax.nl.env.exact_case.ProgramFiles=C:\Program Files (x86)
+lax.nl.env.exact_case.ProgramFiles(x86)=C:\Program Files (x86)
+lax.nl.env.exact_case.ProgramW6432=C:\Program Files
+lax.nl.env.exact_case.PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+lax.nl.env.exact_case.PUBLIC=C:\Users\Public
+lax.nl.env.exact_case.RATIONAL_ICU4J_DIR=C:\Program Files (x86)\IBM\RationalSDLC\common\java\icu
+lax.nl.env.exact_case.RATIONAL_ICU4J_VERSION=4_8
+lax.nl.env.exact_case.RCAUTOPLAY=C:\Program Files (x86)\Roxio\OEM\Roxio Central 5\
+lax.nl.env.exact_case.serial=4NV9JC2
+lax.nl.env.exact_case.SystemDrive=C:
+lax.nl.env.exact_case.SystemRoot=C:\Windows
+lax.nl.env.exact_case.TEMP=C:\Users\j1013674\AppData\Local\Temp
+lax.nl.env.exact_case.TMP=C:\Users\j1013674\AppData\Local\Temp
+lax.nl.env.exact_case.type=Latitude
+lax.nl.env.exact_case.UATDATA=C:\Windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+lax.nl.env.exact_case.USERDNSDOMAIN=JDA.CORP.LOCAL
+lax.nl.env.exact_case.USERDOMAIN=JDA
+lax.nl.env.exact_case.USERDOMAIN_ROAMINGPROFILE=JDA
+lax.nl.env.exact_case.USERNAME=j1013674
+lax.nl.env.exact_case.USERPROFILE=C:\Users\j1013674
+lax.nl.env.exact_case.VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+lax.nl.env.exact_case.windir=C:\Windows
+lax.nl.env.homedrive=C:
+lax.nl.env.HOMEDRIVE=C:
+lax.nl.env.homepath=\Users\j1013674
+lax.nl.env.HOMEPATH=\Users\j1013674
+lax.nl.env.localappdata=C:\Users\j1013674\AppData\Local
+lax.nl.env.LOCALAPPDATA=C:\Users\j1013674\AppData\Local
+lax.nl.env.LOGONSERVER=\\IN2PRDVDC02
+lax.nl.env.logonserver=\\IN2PRDVDC02
+lax.nl.env.model=E5470
+lax.nl.env.MODEL=E5470
+lax.nl.env.number_of_processors=8
+lax.nl.env.NUMBER_OF_PROCESSORS=8
+lax.nl.env.ORACLE_HOME=C:\Oracle
+lax.nl.env.oracle_home=C:\Oracle
+lax.nl.env.os=Windows_NT
+lax.nl.env.OS=Windows_NT
+lax.nl.env.PATH=C:\oracle1210;C:\Program Files (x86)\IBM\RationalSDLC\common;C:\jdk1.80.112\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\12.0\DLLShared\;C:\Program Files (x86)\Roxio\OEM\AudioCore\;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Program Files (x86)\IBM\RationalSDLC\ClearCase\bin;C:\Strawberry\perl\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\c\bin;C:\Program Files (x86)\WebEx\PTools020000000;C:\Program Files\PuTTY\
+lax.nl.env.path=C:\oracle1210;C:\Program Files (x86)\IBM\RationalSDLC\common;C:\jdk1.80.112\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\12.0\DLLShared\;C:\Program Files (x86)\Roxio\OEM\AudioCore\;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Program Files (x86)\IBM\RationalSDLC\ClearCase\bin;C:\Strawberry\perl\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\c\bin;C:\Program Files (x86)\WebEx\PTools020000000;C:\Program Files\PuTTY\
+lax.nl.env.PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+lax.nl.env.pathext=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+lax.nl.env.PROCESSOR_ARCHITECTURE=x86
+lax.nl.env.processor_architecture=x86
+lax.nl.env.PROCESSOR_ARCHITEW6432=AMD64
+lax.nl.env.processor_architew6432=AMD64
+lax.nl.env.processor_identifier=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+lax.nl.env.PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+lax.nl.env.PROCESSOR_LEVEL=6
+lax.nl.env.processor_level=6
+lax.nl.env.processor_revision=5e03
+lax.nl.env.PROCESSOR_REVISION=5e03
+lax.nl.env.programdata=C:\ProgramData
+lax.nl.env.PROGRAMDATA=C:\ProgramData
+lax.nl.env.PROGRAMFILES=C:\Program Files (x86)
+lax.nl.env.programfiles=C:\Program Files (x86)
+lax.nl.env.programfiles(x86)=C:\Program Files (x86)
+lax.nl.env.PROGRAMFILES(X86)=C:\Program Files (x86)
+lax.nl.env.PROGRAMW6432=C:\Program Files
+lax.nl.env.programw6432=C:\Program Files
+lax.nl.env.psmodulepath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+lax.nl.env.PSMODULEPATH=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+lax.nl.env.PUBLIC=C:\Users\Public
+lax.nl.env.public=C:\Users\Public
+lax.nl.env.rational_icu4j_dir=C:\Program Files (x86)\IBM\RationalSDLC\common\java\icu
+lax.nl.env.RATIONAL_ICU4J_DIR=C:\Program Files (x86)\IBM\RationalSDLC\common\java\icu
+lax.nl.env.RATIONAL_ICU4J_VERSION=4_8
+lax.nl.env.rational_icu4j_version=4_8
+lax.nl.env.rcautoplay=C:\Program Files (x86)\Roxio\OEM\Roxio Central 5\
+lax.nl.env.RCAUTOPLAY=C:\Program Files (x86)\Roxio\OEM\Roxio Central 5\
+lax.nl.env.serial=4NV9JC2
+lax.nl.env.SERIAL=4NV9JC2
+lax.nl.env.systemdrive=C:
+lax.nl.env.SYSTEMDRIVE=C:
+lax.nl.env.systemroot=C:\Windows
+lax.nl.env.SYSTEMROOT=C:\Windows
+lax.nl.env.temp=C:\Users\j1013674\AppData\Local\Temp
+lax.nl.env.TEMP=C:\Users\j1013674\AppData\Local\Temp
+lax.nl.env.tmp=C:\Users\j1013674\AppData\Local\Temp
+lax.nl.env.TMP=C:\Users\j1013674\AppData\Local\Temp
+lax.nl.env.type=Latitude
+lax.nl.env.TYPE=Latitude
+lax.nl.env.uatdata=C:\Windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+lax.nl.env.UATDATA=C:\Windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+lax.nl.env.USERDNSDOMAIN=JDA.CORP.LOCAL
+lax.nl.env.userdnsdomain=JDA.CORP.LOCAL
+lax.nl.env.USERDOMAIN=JDA
+lax.nl.env.userdomain=JDA
+lax.nl.env.USERDOMAIN_ROAMINGPROFILE=JDA
+lax.nl.env.userdomain_roamingprofile=JDA
+lax.nl.env.username=j1013674
+lax.nl.env.USERNAME=j1013674
+lax.nl.env.USERPROFILE=C:\Users\j1013674
+lax.nl.env.userprofile=C:\Users\j1013674
+lax.nl.env.vbox_msi_install_path=C:\Program Files\Oracle\VirtualBox\
+lax.nl.env.VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+lax.nl.env.WINDIR=C:\Windows
+lax.nl.env.windir=C:\Windows
+lax.nl.java.launcher.main.class=com.zerog.lax.LAX
+lax.nl.java.launcher.main.method=main
+lax.nl.java.option.additional=
+lax.nl.java.option.check.source=off
+lax.nl.java.option.java.heap.size.initial=51200000
+lax.nl.java.option.java.heap.size.max=204800000
+lax.nl.java.option.verify.mode=none
+lax.nl.valid.vm.list=1.8+
+lax.nl.win32.i386.microsoft.java.compiler=on
+lax.nl.win32.microsoftvm.min.version=3167
+lax.resource.dir=Windows
+lax.stderr.redirect=console
+lax.stdin.redirect=
+lax.stdout.redirect=console
+lax.user.dir=.
+lax.version=10.0
+LICENSE_FILE=C:\Products\JDA2017\JDAPlatform.lic
+LICENSE_FILE1=PLATFORM_LIC_FILE$
+LICENSE_VALID=Yes
+LICENSE_VALIDATION_MSG=License validation succeeded. There are 438 days left before license expires.
+MAC_APPLE_MENU=
+MAC_CHEWABLE=
+MAC_CONTROL_PANELS=
+MAC_EXTENSIONS=
+MAC_PREFERENCES=
+MACX_DOCK=
+MACX_USER_APPLICATIONS=
+MFGABPP_ENCRYTPED_PASSOWRD={E:AES}cc65894a8ec03669f0a114cda7696999
+MFGABPP_NAME=JDA Manufacturing ABPP
+MFGABPP_PRODUCT_ID=1003810002
+MFGABPP_PRODUCT_ID_BASIC=3444
+MFGABPP_UI=true
+MFGABPP_UI1=true
+MFGABPP_UPLOAD_DIR_1=C:\Products\JDA2017\config\MfgABPP\MfgABPP_upload
+MONITOR_INSTALLED=no
+MONITOR_USERID=SURESH6_WWF
+MS_UPDATE=0
+NULL=
+ODSOSTYPE=NT
+OP_ENG=true
+OP_PRODUCT_ID=1003310000
+OP_UI=true
+ORACLE_HOME=C:\Oracle\client
+OS400_INSTALL_DIR=/JDA MfgFoundation 2017.1
+OVERWRITE_IA_CHMOD=false
+PARENT_LICENSE_PATH=C:\Products\JDA2017\JDAPlatform.lic
+PLATFORM_INSTALL_OPT=0
+PLATFORM_LIC_FILE=JDAPlatform.lic
+PLATFORM_PRODUCT_ID=1002810000
+PRODUCT_ID=1002810000
+PRODUCT_NAME=JDA MfgFoundation 2017.1
+PRODUCT_RELEASE=2017.1.x
+PRODUCT_VERSION_NUMBER=2017.1.0.0
+PROGRAMS_DIR=C:\Program Files
+PROGRAMS_DIR_32=C:\Program Files (x86)
+PROGRAMS_DIR_64=C:\Program Files
+prop.awt.toolkit=sun.awt.windows.WToolkit
+prop.file.encoding=Cp1252
+prop.file.encoding.pkg=sun.io
+prop.file.separator=\
+prop.java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+prop.java.awt.printerjob=sun.awt.windows.WPrinterJob
+prop.java.class.path=C:\Users\j1013674\AppData\Local\Temp\I1500361785\InstallerData\IAClasses.zip;C:\Users\j1013674\AppData\Local\Temp\I1500361785\InstallerData\Execute.zip;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\InstallerData\Execute.zip;C:\Users\j1013674\AppData\Local\Temp\I1500361785\InstallerData\Resource1.zip;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\InstallerData\Resource1.zip;C:\Users\j1013674\AppData\Local\Temp\I1500361785\InstallerData;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\InstallerData;
+prop.java.class.version=52.0
+prop.java.endorsed.dirs=C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\endorsed
+prop.java.ext.dirs=C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\ext;C:\Windows\Sun\Java\lib\ext
+prop.java.home=C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre
+prop.java.io.tmpdir=C:\Users\j1013674\AppData\Local\Temp\
+prop.java.library.path=C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\oracle1210;C:\Program Files (x86)\IBM\RationalSDLC\common;C:\jdk1.80.112\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\12.0\DLLShared\;C:\Program Files (x86)\Roxio\OEM\AudioCore\;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Program Files (x86)\IBM\RationalSDLC\ClearCase\bin;C:\Strawberry\perl\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\c\bin;C:\Program Files (x86)\WebEx\PTools020000000;C:\Program Files\PuTTY\;.
+prop.java.runtime.name=Java(TM) SE Runtime Environment
+prop.java.runtime.version=1.8.0_51-b16
+prop.java.specification.name=Java Platform API Specification
+prop.java.specification.vendor=Oracle Corporation
+prop.java.specification.version=1.8
+prop.java.vendor=Oracle Corporation
+prop.java.vendor.url=http://java.oracle.com/
+prop.java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+prop.java.version=1.8.0_51
+prop.java.vm.info=mixed mode
+prop.java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+prop.java.vm.specification.name=Java Virtual Machine Specification
+prop.java.vm.specification.vendor=Oracle Corporation
+prop.java.vm.specification.version=1.8
+prop.java.vm.vendor=Oracle Corporation
+prop.java.vm.version=25.51-b03
+prop.line.separator=
+
+prop.os.arch=amd64
+prop.os.name=Windows 8.1
+prop.os.version=6.3
+prop.path.separator=;
+prop.sun.arch.data.model=64
+prop.sun.awt.enableExtraMouseButtons=true
+prop.sun.boot.class.path=C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\resources.jar;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\rt.jar;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\sunrsasign.jar;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\jsse.jar;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\jce.jar;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\charsets.jar;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\jfr.jar;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\classes
+prop.sun.boot.library.path=C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\bin
+prop.sun.cpu.endian=little
+prop.sun.cpu.isalist=amd64
+prop.sun.desktop=windows
+prop.sun.io.unicode.encoding=UnicodeLittle
+prop.sun.java.command=com.zerog.lax.LAX C:/Users/j1013674/AppData/Local/Temp/I1500361785/Windows/installMfgFoundation.lax C:/Users/j1013674/AppData/Local/Temp/lax8344.tmp
+prop.sun.java.launcher=SUN_STANDARD
+prop.sun.jnu.encoding=Cp1252
+prop.sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+prop.sun.os.patch.level=
+prop.sun.stderr.encoding=cp437
+prop.sun.stdout.encoding=cp437
+prop.user.country=US
+prop.user.dir=C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows
+prop.user.home=C:\Users\j1013674
+prop.user.language=en
+prop.user.name=j1013674
+prop.user.script=
+prop.user.timezone=Asia/Calcutta
+prop.user.variant=
+PRV_ENCRYPTED_VARS=SCPO_PASSWORD_ENCRYPTED
+PRV_EXPORT_EXTRA_VARS= ABPP_DB_PWD_ENCRYPTED_XOR SCPO_PASSWORD_ENCRYPTED_XOR
+SCP_ENG=true
+SCP_NAME=JDA Supply Chain Planner
+SCP_NAME_BASIC=JDA Supply Chain Planner
+SCP_NAME_IPATH=JDA Supply Chain Planner with Ipathfinder
+SCP_NAME_LPOPT=JDA Supply Chain Planner with LpOPT Extension
+SCP_PRODUCT_ID=1003020000
+SCP_PRODUCT_ID_IPATH=1003021020
+SCP_PRODUCT_ID_LPOPT=1003021023
+SCP_PRODUCT_NAME=JDA Supply Chain Planner with Ipathfinder
+SCP_UI=true
+SCPO_DB_HOST=in2npdlnxdb14
+SCPO_DB_PORT=1521
+SCPO_DB_SID=seq1212a
+SCPO_PASSWORD=win-scpo2017
+SCPO_PASSWORD_CONFIRM=win-scpo2017
+SCPO_PASSWORD_ENCRYPTED=000012237205152093107045196120126173136078116065021220
+SCPO_PASSWORD_ENCRYPTED_XOR=vho,rbqn3106
+SCPO_USER=win_scpo2017
+SERVER_CONFIG_NAME=
+SERVER_HOST_NAME=4nv9jc2j
+SERVER_ORB_PORT=7001
+SERVER_PROFILE_NAME=
+SERVER_SOAP_PORT=
+SERVER_SSL_PORT=7002
+SERVER_STANDARD_PORT=7001
+SHORTCUT_NAME=Shortcut
+SOP_PRODUCT_ID=3139
+SOP_UI=false
+STARTUP=C:\Users\j1013674\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+SUPPORTED_LANGUAGES=en
+SYSTEM=C:\Windows\system32
+SYSTEM_32=C:\Windows\SysWOW64
+SYSTEM_64=C:\Windows\system32
+SYSTEM_DB_NAME=SURESH6_JDA
+SYSTEM_DRIVE_ROOT=C:\
+TEMP_DIR=C:\Users\j1013674\AppData\Local\Temp
+UI_CHECK=false
+UNINSTALLER_JAVA_HOME=C:\Products\JDA2017\jre
+UNIX_OPT=
+UNIX_USER_HOME=C:\Users\j1013674
+UNIX_USR_BIN=
+UNIX_USR_LOCAL_BIN=
+USER_HOME=C:\Users\j1013674
+USER_INSTALL_DIR=C:\Products\JDA2017
+USER_MAGIC_FOLDER_1=
+USER_MAGIC_FOLDER_10=
+USER_MAGIC_FOLDER_2=
+USER_MAGIC_FOLDER_3=
+USER_MAGIC_FOLDER_4=
+USER_MAGIC_FOLDER_5=
+USER_MAGIC_FOLDER_6=
+USER_MAGIC_FOLDER_7=
+USER_MAGIC_FOLDER_8=
+USER_MAGIC_FOLDER_9=
+USER_SHORTCUTS=C:\Users\j1013674\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\JDA 2017.1
+USER_TMAPI_RESULT=SCPO
+USER_TMAPI_RESULT_1=
+USER_TMAPI_RESULT_2=SCPO
+USER_TMAPI_RESULT_3=
+USER_TMAPI_RESULT_BOOLEAN_1=0
+USER_TMAPI_RESULT_BOOLEAN_2=1
+USER_TMAPI_RESULT_BOOLEAN_3=0
+VERIFY_FOLDER_FILE=
+VERIFY_FOLDER_MESSAGE=
+VERIFY_FOLDER_NAME=
+VERIFY_FOLDER_NAME_NO_QUOTE=C:\Products\JDA2017
+WAS_HOME=
+WEBLOGIC_HOME=C:\Oracle\Middleware\Oracle_Home\wlserver
+WEBSERVICE_PORT="6164"
+WEBSERVICE_PORT_1=6164
+WEBSERVICE_PORT_BOOLEAN_1=
+WEBWORKS_JAVA_HOME=C:\jdk1.80.112
+WIN_COMMON_DESKTOP=C:\Users\Public\Desktop
+WIN_COMMON_PROGRAMS_MENU=C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+WIN_COMMON_START_MENU=C:\ProgramData\Microsoft\Windows\Start Menu
+WIN_COMMON_STARTUP=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+WIN_PROGRAMS_MENU=C:\Users\j1013674\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+WIN_QUICK_LAUNCH_BAR=C:\Users\j1013674\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\
+WIN_START_MENU=C:\Users\j1013674\AppData\Roaming\Microsoft\Windows\Start Menu
+WIN_WINDOWS=C:\Windows
+
+Magic Folders:
+Installer Temp Directory ($INSTALLER_TEMP_DIR$)=C:\Users\j1013674\AppData\Local\Temp\341614.tmp
+Temp Directory ($TEMP_DIR$)=C:\Users\j1013674\AppData\Local\Temp
+User Applications Folder ($MACX_USER_APPLICATIONS$)=
+The Dock ($MACX_DOCK$)=
+Windows Directory ($WIN_WINDOWS$)=C:\Windows
+Programs Folder ($PROGRAMS_DIR$)=C:\Program Files
+System Folder ($SYSTEM$)=C:\Windows\system32
+Shortcuts' Destination Folder ($USER_SHORTCUTS$)=C:\Users\j1013674\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\JDA 2017.1
+System Drive Root ($SYSTEM_DRIVE_ROOT$)=C:\
+Installation Drive Root ($INSTALL_DRIVE_ROOT$)=C:\
+User Install Folder ($USER_INSTALL_DIR$)=C:\Products\JDA2017
+Apple Menu Items ($MAC_APPLE_MENU$)=
+Control Panels Folder ($MAC_CONTROL_PANELS$)=
+Extensions Folder ($MAC_EXTENSIONS$)=
+Java Home ($JAVA_HOME$)=C:\jdk1.80.112
+/usr/local/bin ($UNIX_USR_LOCAL_BIN$)=
+Home Directory ($UNIX_USER_HOME$)=C:\Users\j1013674
+DO NOT INSTALL ($DO_NOT_INSTALL$)=Do Not Install
+$USER_MAGIC_FOLDER_1$ ($USER_MAGIC_FOLDER_1$)=
+$USER_MAGIC_FOLDER_2$ ($USER_MAGIC_FOLDER_2$)=
+$USER_MAGIC_FOLDER_3$ ($USER_MAGIC_FOLDER_3$)=
+$USER_MAGIC_FOLDER_4$ ($USER_MAGIC_FOLDER_4$)=
+$USER_MAGIC_FOLDER_5$ ($USER_MAGIC_FOLDER_5$)=
+/opt ($UNIX_OPT$)=
+/usr/bin ($UNIX_USR_BIN$)=
+Clean-Up at Startup Folder ($MAC_CHEWABLE$)=
+Preferences Folder ($MAC_PREFERENCES$)=
+$USER_MAGIC_FOLDER_6$ ($USER_MAGIC_FOLDER_6$)=
+$USER_MAGIC_FOLDER_7$ ($USER_MAGIC_FOLDER_7$)=
+$USER_MAGIC_FOLDER_8$ ($USER_MAGIC_FOLDER_8$)=
+$USER_MAGIC_FOLDER_9$ ($USER_MAGIC_FOLDER_9$)=
+Quick Launch Bar ($WIN_QUICK_LAUNCH_BAR$)=C:\Users\j1013674\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\
+$USER_MAGIC_FOLDER_10$ ($USER_MAGIC_FOLDER_10$)=
+All Users Desktop ($WIN_COMMON_DESKTOP$)=C:\Users\Public\Desktop
+All Users Startup ($WIN_COMMON_STARTUP$)=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+Programs Folder (64-bit) ($PROGRAMS_DIR_64$)=C:\Program Files
+All Users Programs Menu ($WIN_COMMON_PROGRAMS_MENU$)=C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+Programs Folder (32-bit) ($PROGRAMS_DIR_32$)=C:\Program Files (x86)
+All Users Start Menu ($WIN_COMMON_START_MENU$)=C:\ProgramData\Microsoft\Windows\Start Menu
+System Folder (64-bit) ($SYSTEM_64$)=C:\Windows\system32
+System Folder (32-bit) ($SYSTEM_32$)=C:\Windows\SysWOW64
+Fonts Directory ($FONTS$)=C:\Windows\Fonts
+Desktop Folder ($DESKTOP$)=C:\Users\j1013674\Desktop
+Start Menu ($WIN_START_MENU$)=C:\Users\j1013674\AppData\Roaming\Microsoft\Windows\Start Menu
+Startup Folder ($STARTUP$)=C:\Users\j1013674\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+Programs Menu ($WIN_PROGRAMS_MENU$)=C:\Users\j1013674\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+
+Java System Properties:
+-- listing properties --
+lax.nl.env.emc_autoplay=C:\Program Files (x86)\Common Files\R...
+file.encoding.pkg=sun.io
+lax.user.dir=.
+lax.nl.env.HOMEPATH=\Users\j1013674
+lax.resource.dir=Windows
+lax.application.name=installMfgFoundation
+lax.nl.env.TEMP=C:\Users\j1013674\AppData\Local\Temp
+java.home=C:\Users\j1013674\AppData\Local\Temp\...
+lax.nl.env.USERDOMAIN_ROAMINGPROFILE=JDA
+lax.nl.env.programfiles=C:\Program Files (x86)
+lax.nl.env.PROCESSOR_REVISION=5e03
+lax.nl.env.exact_case.Path=C:\oracle1210;C:\Program Files (x86)\...
+lax.nl.env.exact_case.__COMPAT_LAYER=Installer
+lax.nl.env.HOMEDRIVE=C:
+lax.nl.win32.microsoftvm.min.version=3167
+lax.nl.env.exact_case.PROCESSOR_ARCHITECTURE=x86
+lax.nl.env.OS=Windows_NT
+lax.main.class=com.zerog.ia.installer.Main
+java.endorsed.dirs=C:\Users\j1013674\AppData\Local\Temp\...
+lax.stderr.redirect=console
+lax.nl.env.exact_case.RATIONAL_ICU4J_VERSION=4_8
+lax.nl.env.exact_case.BURN_AUTOPLAY=C:\Program Files (x86)\Roxio\OEM\Roxi...
+lax.nl.env.systemroot=C:\Windows
+lax.nl.java.option.java.heap.size.max=204800000
+lax.nl.env.SYSTEMDRIVE=C:
+lax.nl.env.exact_case.ProgramFiles=C:\Program Files (x86)
+lax.nl.env.PROGRAMFILES=C:\Program Files (x86)
+sun.os.patch.level=
+java.vendor.url=http://java.oracle.com/
+lax.nl.env.VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+java.version=1.8.0_51
+lax.nl.env.WINDIR=C:\Windows
+sun.stdout.encoding=cp437
+lax.nl.env.programfiles(x86)=C:\Program Files (x86)
+lax.nl.env.exact_case.USERNAME=j1013674
+lax.nl.java.option.verify.mode=none
+lax.nl.env.__COMPAT_LAYER=Installer
+lax.nl.env.userdomain_roamingprofile=JDA
+lax.nl.env.logonserver=\\IN2PRDVDC02
+java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+lax.nl.java.option.check.source=off
+lax.nl.env.homepath=\Users\j1013674
+lax.nl.env.exact_case.windir=C:\Windows
+lax.nl.env.COMSPEC=C:\Windows\system32\cmd.exe
+lax.nl.env.RATIONAL_ICU4J_DIR=C:\Program Files (x86)\IBM\RationalSD...
+user.name=j1013674
+lax.nl.env.processor_architecture=x86
+sun.io.unicode.encoding=UnicodeLittle
+lax.nl.env.ALLUSERSPROFILE=C:\ProgramData
+sun.jnu.encoding=Cp1252
+java.runtime.name=Java(TM) SE Runtime Environment
+lax.nl.env.model=E5470
+lax.nl.env.USERDOMAIN=JDA
+lax.nl.env.RCAUTOPLAY=C:\Program Files (x86)\Roxio\OEM\Roxi...
+lax.nl.env.exact_case.DEFLOGDIR=C:\ProgramData\McAfee\Endpoint Securi...
+lax.nl.env.SERIAL=4NV9JC2
+lax.nl.env.exact_case.PUBLIC=C:\Users\Public
+java.specification.name=Java Platform API Specification
+user.timezone=Asia/Calcutta
+user.script=
+path.separator=;
+lax.nl.env.exact_case.serial=4NV9JC2
+lax.nl.env.MODEL=E5470
+file.encoding=Cp1252
+lax.nl.env.systemdrive=C:
+lax.nl.env.USERNAME=j1013674
+lax.nl.env.PROGRAMDATA=C:\ProgramData
+lax.nl.env.allusersprofile=C:\ProgramData
+lax.nl.env.processor_revision=5e03
+sun.java.command=com.zerog.lax.LAX C:/Users/j1013674/A...
+lax.nl.env.exact_case.SystemRoot=C:\Windows
+lax.nl.env.exact_case.PSModulePath=C:\Windows\system32\WindowsPowerShell...
+lax.nl.env.vbox_msi_install_path=C:\Program Files\Oracle\VirtualBox\
+lax.nl.env.exact_case.PROCESSOR_ARCHITEW6432=AMD64
+lax.nl.env.commonprogramw6432=C:\Program Files\Common Files
+lax.nl.env.PUBLIC=C:\Users\Public
+lax.version=10.0
+lax.nl.env.USERDNSDOMAIN=JDA.CORP.LOCAL
+lax.nl.env.deflogdir=C:\ProgramData\McAfee\Endpoint Securi...
+lax.nl.env.exact_case.EMC_AUTOPLAY=C:\Program Files (x86)\Common Files\R...
+java.io.tmpdir=C:\Users\j1013674\AppData\Local\Temp\
+lax.nl.env.exact_case.chassis=Laptop
+lax.nl.env.username=j1013674
+lax.nl.env.exact_case.COMPUTERNAME=4NV9JC2J
+user.language=en
+line.separator=
+
+lax.nl.java.launcher.main.class=com.zerog.lax.LAX
+lax.nl.env.appdata=C:\Users\j1013674\AppData\Roaming
+lax.nl.env.exact_case.UATDATA=C:\Windows\CCM\UATData\D9F8C395-CAB8-...
+lax.nl.env.commonprogramfiles(x86)=C:\Program Files (x86)\Common Files
+lax.nl.env.windir=C:\Windows
+lax.nl.env.chassis=Laptop
+lax.command.line.args=$CMD_LINE_ARGUMENTS$
+java.vm.info=mixed mode
+lax.nl.env.exact_case.TMP=C:\Users\j1013674\AppData\Local\Temp
+lax.nl.env.exact_case.USERPROFILE=C:\Users\j1013674
+lax.nl.java.launcher.main.method=main
+sun.desktop=windows
+java.vm.specification.name=Java Virtual Machine Specification
+lax.nl.env.UATDATA=C:\Windows\CCM\UATData\D9F8C395-CAB8-...
+lax.nl.current.vm=C:\Users\j1013674\AppData\Local\Temp\...
+lax.nl.env.exact_case.TEMP=C:\Users\j1013674\AppData\Local\Temp
+lax.nl.env.os=Windows_NT
+lax.nl.env.PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3,...
+lax.nl.env.exact_case.ComSpec=C:\Windows\system32\cmd.exe
+lax.nl.env.commonprogramfiles=C:\Program Files (x86)\Common Files
+lax.nl.env.exact_case.LOCALAPPDATA=C:\Users\j1013674\AppData\Local
+lax.nl.env.serial=4NV9JC2
+lax.nl.env.processor_identifier=Intel64 Family 6 Model 94 Stepping 3,...
+lax.nl.env.SYSTEMROOT=C:\Windows
+lax.nl.env.programdata=C:\ProgramData
+lax.nl.env.exact_case.CLASSPATH=C:\backup\Oracle\client\jdbc\lib\ojdb...
+lax.nl.env.processor_architew6432=AMD64
+lax.nl.env.NUMBER_OF_PROCESSORS=8
+lax.nl.env.rational_icu4j_version=4_8
+lax.nl.env.computername=4NV9JC2J
+java.awt.printerjob=sun.awt.windows.WPrinterJob
+lax.nl.env.classpath=C:\backup\Oracle\client\jdbc\lib\ojdb...
+lax.nl.env.exact_case.VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+lax.nl.env.pathext=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JS...
+lax.stdout.redirect=console
+lax.nl.env.exact_case.ORACLE_HOME=C:\Oracle
+lax.nl.env.exact_case.CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+lax.nl.env.exact_case.USERDOMAIN=JDA
+lax.nl.env.public=C:\Users\Public
+lax.nl.env.exact_case.HOMEDRIVE=C:
+os.name=Windows 8.1
+lax.nl.env.rational_icu4j_dir=C:\Program Files (x86)\IBM\RationalSD...
+java.specification.vendor=Oracle Corporation
+lax.nl.env.exact_case.USERDOMAIN_ROAMINGPROFILE=JDA
+java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+lax.nl.env.localappdata=C:\Users\j1013674\AppData\Local
+lax.nl.env.exact_case.PROCESSOR_REVISION=5e03
+lax.nl.env.homedrive=C:
+sun.awt.enableExtraMouseButtons=true
+lax.nl.env.BURN_AUTOPLAY=C:\Program Files (x86)\Roxio\OEM\Roxi...
+java.library.path=C:\Users\j1013674\AppData\Local\Temp\...
+lax.nl.env.exact_case.SystemDrive=C:
+java.class.version=52.0
+lax.nl.env.COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+lax.nl.env.EMC_AUTOPLAY=C:\Program Files (x86)\Common Files\R...
+lax.nl.env.exact_case.RCAUTOPLAY=C:\Program Files (x86)\Roxio\OEM\Roxi...
+lax.nl.env.exact_case.PROCESSOR_LEVEL=6
+lax.control-key=true
+lax.nl.env.COMPUTERNAME=4NV9JC2J
+lax.nl.env.type=Latitude
+lax.nl.env.COMMONPROGRAMW6432=C:\Program Files\Common Files
+lax.nl.win32.i386.microsoft.java.compiler=on
+lax.nl.env.path=C:\oracle1210;C:\Program Files (x86)\...
+lax.nl.env.TYPE=Latitude
+sun.boot.library.path=C:\Users\j1013674\AppData\Local\Temp\...
+lax.nl.env.number_of_processors=8
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+lax.nl.env.PATH=C:\oracle1210;C:\Program Files (x86)\...
+user.variant=
+java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+lax.nl.env.PROCESSOR_ARCHITECTURE=x86
+lax.nl.env.exact_case.CommonProgramW6432=C:\Program Files\Common Files
+lax.nl.env.TMP=C:\Users\j1013674\AppData\Local\Temp
+lax.nl.env.exact_case.LOGONSERVER=\\IN2PRDVDC02
+lax.nl.env.exact_case.RATIONAL_ICU4J_DIR=C:\Program Files (x86)\IBM\RationalSD...
+lax.class.path=../InstallerData/IAClasses.zip;../Ins...
+lax.nl.env.burn_autoplay=C:\Program Files (x86)\Roxio\OEM\Roxi...
+lax.nl.env.processor_level=6
+lax.nl.env.comspec=C:\Windows\system32\cmd.exe
+lax.nl.env.LOCALAPPDATA=C:\Users\j1013674\AppData\Local
+lax.nl.env.USERPROFILE=C:\Users\j1013674
+lax.nl.env.exact_case.model=E5470
+lax.nl.env.tmp=C:\Users\j1013674\AppData\Local\Temp
+lax.main.method=main
+java.vm.specification.version=1.8
+lax.nl.java.option.additional=
+awt.toolkit=sun.awt.windows.WToolkit
+lax.nl.java.option.java.heap.size.initial=51200000
+sun.cpu.isalist=amd64
+lax.installer.win32.internal.property.0=bin\java.exe
+sun.stderr.encoding=cp437
+java.ext.dirs=C:\Users\j1013674\AppData\Local\Temp\...
+os.version=6.3
+lax.nl.env.DEFLOGDIR=C:\ProgramData\McAfee\Endpoint Securi...
+lax.nl.env.exact_case.OS=Windows_NT
+user.home=C:\Users\j1013674
+lax.nl.env.RATIONAL_ICU4J_VERSION=4_8
+java.vm.vendor=Oracle Corporation
+lax.nl.env.COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+lax.nl.env.exact_case.ProgramData=C:\ProgramData
+lax.nl.env.exact_case.APPDATA=C:\Users\j1013674\AppData\Roaming
+lax.stdin.redirect=
+lax.nl.env.exact_case.CommonProgramFiles=C:\Program Files (x86)\Common Files
+user.dir=C:\Users\j1013674\AppData\Local\Temp\...
+lax.nl.env.psmodulepath=C:\Windows\system32\WindowsPowerShell...
+lax.nl.valid.vm.list=1.8+
+lax.nl.env.__compat_layer=Installer
+lax.nl.env.ORACLE_HOME=C:\Oracle
+sun.cpu.endian=little
+lax.nl.env.APPDATA=C:\Users\j1013674\AppData\Roaming
+java.vm.version=25.51-b03
+lax.nl.env.exact_case.USERDNSDOMAIN=JDA.CORP.LOCAL
+java.class.path=C:\Users\j1013674\AppData\Local\Temp\...
+os.arch=amd64
+lax.installer.windows.ui.default=GUI
+lax.nl.env.userprofile=C:\Users\j1013674
+lax.nl.env.userdnsdomain=JDA.CORP.LOCAL
+lax.nl.env.userdomain=JDA
+lax.nl.env.rcautoplay=C:\Program Files (x86)\Roxio\OEM\Roxi...
+lax.nl.env.PROCESSOR_LEVEL=6
+sun.java.launcher=SUN_STANDARD
+lax.nl.env.PROCESSOR_ARCHITEW6432=AMD64
+lax.nl.env.exact_case.HOMEPATH=\Users\j1013674
+java.vm.specification.vendor=Oracle Corporation
+file.separator=\
+lax.nl.env.uatdata=C:\Windows\CCM\UATData\D9F8C395-CAB8-...
+lax.nl.env.exact_case.PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JS...
+java.runtime.version=1.8.0_51-b16
+sun.boot.class.path=C:\Users\j1013674\AppData\Local\Temp\...
+lax.nl.env.exact_case.ALLUSERSPROFILE=C:\ProgramData
+lax.nl.env.programw6432=C:\Program Files
+lax.nl.env.PSMODULEPATH=C:\Windows\system32\WindowsPowerShell...
+lax.nl.env.exact_case.PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3,...
+user.country=US
+lax.nl.env.CHASSIS=Laptop
+lax.nl.env.PROGRAMFILES(X86)=C:\Program Files (x86)
+lax.nl.env.PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JS...
+lax.nl.env.PROGRAMW6432=C:\Program Files
+lax.nl.env.exact_case.NUMBER_OF_PROCESSORS=8
+lax.nl.env.exact_case.type=Latitude
+lax.nl.env.exact_case.ProgramFiles(x86)=C:\Program Files (x86)
+lax.nl.env.CLASSPATH=C:\backup\Oracle\client\jdbc\lib\ojdb...
+java.vendor=Oracle Corporation
+lax.nl.env.exact_case.ProgramW6432=C:\Program Files
+lax.nl.env.oracle_home=C:\Oracle
+lax.nl.env.LOGONSERVER=\\IN2PRDVDC02
+lax.nl.env.temp=C:\Users\j1013674\AppData\Local\Temp
+java.specification.version=1.8
+sun.arch.data.model=64
+
+Visual Tree:
+-- com.zerog.ia.installer.Installer -- JDA MfgFoundation 2017.1
+   |-- com.zerog.ia.installer.InstallSet -- Typical
+   |-- com.zerog.ia.installer.InstallBundle -- MfgSuite
+   |-- com.zerog.ia.installer.InstallComponent -- Common
+   |-- com.zerog.ia.installer.InstallComponent -- InstallAnywhere Uninstall Component
+   |-- com.zerog.ia.installer.VMComponent -- InstallAnywhere VM Component
+   |-- com.zerog.ia.installer.hosts.OSHost -- Operating System
+   |   |-- com.zerog.ia.installer.GhostDirectory -- JDA2017
+   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- JDA_patent_notices.docx
+   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- install
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- source.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- MfgFoundation_installer.properties
+   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: MfgSuite Version
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- mfgsuite.version
+   |   |   |   |-- com.zerog.ia.installer.actions.MoveFileAction -- Moving File: C:\Products\JDA2017\mfgsuite.version
+   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: MfgABPP
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- config
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- MfgABPP
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- tmp.jar
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_web.war
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_sh.jar
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_oracle.jar
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_custom.jar
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_bat.jar
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_base.war
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP.jar
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- i2ia.jar
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- log
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- temp
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: tmp.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: MfgABPP_bat.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: MfgABPP.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: MfgABPP_custom.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: MfgABPP_sh.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: MfgABPP_oracle.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- Platform_post_install.xml
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\config\MfgABPP\temp\Platform_post_install.xml
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- MfgABPP_install.properties
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: MfgABPP_install.properties
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: switch_odsx_jars.sh
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.AntRunner -- Executing ANT Script...
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.EditVariableTable -- InstallAnywhere Variable
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: set Platform jar into Classpath and call MfgABPP's post install xml file for Win
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.EditVariableTable -- InstallAnywhere Variable
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.Exec -- Execute Command: C:\jdk1.80.112\bin\java.exe -classpath ;../InstallerData/IAClasses.zip;../InstallerData/Execute.zip;InstallerData/Execute.zip;../InstallerData/Resource1.zip;InstallerData/Resource1.zip;../InstallerData;InstallerData org.apache.tools.ant.Main -logfile "C:\Products\JDA2017\config\logs\MfgABPP_Configure.log" -buildfile "C:\Products\JDA2017\config\MfgABPP\temp\tmp\Platform_post_install.xml" create_MfgABPP_jar_for_webworks
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: set Platform jar into Classpath and call MfgABPP's post install xml file for Unix
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.EditVariableTable -- InstallAnywhere Variable
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.Exec -- Execute Command: C:\jdk1.80.112\bin\java -classpath ;../InstallerData/IAClasses.zip;../InstallerData/Execute.zip;InstallerData/Execute.zip;../InstallerData/Resource1.zip;InstallerData/Resource1.zip;../InstallerData;InstallerData org.apache.tools.ant.Main -logfile "C:\Products\JDA2017\config\logs\MfgABPP_Configure.log" -buildfile "C:\Products\JDA2017\config\MfgABPP\temp\tmp\Platform_post_install.xml" create_MfgABPP_jar_for_webworks
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: File/Folder Move from MfgABPP install dir to Platform config dir
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\config\MfgABPP\bin\ods.owb
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.MoveFolderAction -- Moving Folder: C:\Products\JDA2017\config\MfgABPP\bin
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.MoveFolderAction -- Moving Folder: C:\Products\JDA2017\config\MfgABPP\batch
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.MoveFolderAction -- Moving Folder: C:\Products\JDA2017\config\MfgABPP\wsdl
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFolderAction -- Copying Folder: C:\Products\JDA2017\config\MfgABPP\temp\odsx\ODS_staging_scenarioId_enabled
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFolderAction -- Copying Folder: C:\Products\JDA2017\config\MfgABPP\lib
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: ods_ext.xml
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : properties
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Win file modify
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: MfgMDMenv.bat
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : MfgABPP
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : testdata
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Unix file modify
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: MfgMDMenv.sh
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : MfgABPP
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : testdata
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : cfg
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Copy CIS jar to MfgABPP WEB-INF
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\cis\cis-sdk\lib\cis.jar
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\cis\cis-sdk\lib\cis-util.jar
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\cis\cis-sdk\lib\cis-sso-spi.jar
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\cis\cis-sdk\lib\cis-sso.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Del jar file not needed for Platform deploy
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\web\WEB-INF\lib\jaxrpc.jar
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\web\WEB-INF\lib\mdap.jar
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\web\WEB-INF\lib\sajava.jar
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\web\WEB-INF\lib\trove-3.0.2.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Deploying MfgABPP on Platform
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Deploying MfgABPP on Platform
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Deploying MfgABPP on Platform
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\config\bin\platform\configureABPP.log
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.PrintToConsole -- Output Text to Console: ...
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- web
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- WEB-INF
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- lib
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: MfgABPP Version file
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- MfgABPP.version
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.MoveFileAction -- Moving File: C:\Products\JDA2017\config\MfgABPP\MfgABPP.version
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.MoveFileAction -- Moving File: C:\Products\JDA2017\config\MfgABPP\cfg\properties\log4j2-loggers.xml.body.MfgABPP
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Remove MfgABPP installer artifacts
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFolderAction -- Deleting Folder: C:\Products\JDA2017\config\MfgABPP\temp
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\i2ia.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_base.war
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_bat.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_custom.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_install.properties
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_install.properties.backup
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_oracle.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_web.war
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\Platform_post_install.xml
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\tmp.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\bin\MfgABPP\drop_schema.bat
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\bin\MfgABPP\ods_generateMtt.bat
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFolderAction -- Deleting Folder: C:\Products\JDA2017\config\abpp
+   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP UI
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- config
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- bin
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirCont -- FP
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- ear
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- fp
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: fp.war
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- fp
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- fp.war
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- FP
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirCont -- FP
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- FP.version
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.MoveFileAction -- Moving File: C:\Products\JDA2017\config\FP\FP.version
+   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFolderAction -- Copying Folder: C:\Products\JDA2017\config\FP\wsdl
+   |   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: ConfigureABPP Windows
+   |   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Exe of configureABPP for FP
+   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\config\bin\platform\configureABPP.log
+   |   |   |   |   |-- com.zerog.ia.installer.actions.PrintToConsole -- Output Text to Console: Execution of ConfigABPP Server:...
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- install
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- application.xml.body.fp.was
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- application.xml.body.fp
+   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: UDF UI
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- config
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- UDF
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirCont -- UDF
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFolderAction -- Copying Folder: C:\Products\JDA2017\config\UDF\bin
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : UDF
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Exe of configureABPP for UDF
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Exe of configureABPP for UDF
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\config\bin\platform\configureABPP.log
+   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- FP
+LoadPropertyFile: In getInstallStatusMessage()
+   |   |   |   |-- com.zerog.ia.installer.actions.CustomAction -- Post Install File Cleanup
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP Engine With Platform
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- FP_engine.properties
+   |   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: FP_engine.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP Engine Without Platform
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- FP_engine.properties
+   |   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: FP_engine.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP Win engine exe with Platform
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- fp_engine.exe
+   |   |   |   |   |-- com.zerog.ia.installer.actions.Exec -- Execute Command: C:\Products\JDA2017\FP\fp_engine.exe LAX_VM C:\Products\JDA2017\jre\bin\java.exe -f C:\Products\JDA2017\FP\FP_engine.properties
+   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Cleanup exe
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\FP\fp_engine.exe
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP Win engine exe without Platform
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- fp_engine.exe
+   |   |   |   |   |-- com.zerog.ia.installer.actions.Exec -- Execute Command: C:\Products\JDA2017\FP\fp_engine.exe LAX_VM \jre\bin\java.exe -f C:\Products\JDA2017\FP\FP_engine.properties
+   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Cleanup exe
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\FP\fp_engine.exe
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP unix engine bin with Platform
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- fp_engine.bin
+   |   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: changing Enigne file permissions
+   |   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: changing Enigne file permissions
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP unix engine bin without platform
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- fp_engine.bin
+   |   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: changing Enigne file permissions
+   |   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: changing Enigne file permissions
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: with platform
+   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : windows_service
+   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : install
+   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : factory
+   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : config
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: without platform
+   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : windows_service
+   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : config
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\FP\FP_engine.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.PrintToConsole -- Output Text to Console: ...
+   |   |   |-- com.zerog.ia.installer.actions.DeleteFolderAction -- Deleting Folder: FP
+   |   |   |-- com.zerog.ia.installer.actions.DumpDebugInfo -- Output Debug Information
+   |-- com.zerog.ia.installer.Billboard -- installsplash1.jpg
+   |-- com.zerog.ia.installer.Billboard -- installsplash2.jpg
+   |-- com.zerog.ia.installer.Billboard -- installsplash3.jpg
+   |-- com.zerog.ia.installer.Billboard -- installsplash4.jpg
+
+Component Tree:
+-- com.zerog.ia.installer.Installer -- JDA MfgFoundation 2017.1
+   |-- com.zerog.ia.installer.InstallSet -- Typical
+   |   |-- com.zerog.ia.installer.InstallBundle -- MfgSuite
+   |   |   |-- com.zerog.ia.installer.InstallComponent -- Common
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- i2ia.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: tmp.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: MfgABPP.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: MfgABPP_bat.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: MfgABPP_custom.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: MfgABPP_sh.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: MfgABPP_oracle.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- fp_engine.exe
+   |   |   |   |-- com.zerog.ia.installer.actions.PrintToConsole -- Output Text to Console: ...
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_base.war
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_bat.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_custom.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_oracle.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_sh.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_web.war
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- tmp.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: MfgABPP_install.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.Exec -- Execute Command: C:\jdk1.80.112\bin\java.exe -classpath ;../InstallerData/IAClasses.zip;../InstallerData/Execute.zip;InstallerData/Execute.zip;../InstallerData/Resource1.zip;InstallerData/Resource1.zip;../InstallerData;InstallerData org.apache.tools.ant.Main -logfile "C:\Products\JDA2017\config\logs\MfgABPP_Configure.log" -buildfile "C:\Products\JDA2017\config\MfgABPP\temp\tmp\Platform_post_install.xml" create_MfgABPP_jar_for_webworks
+   |   |   |   |-- com.zerog.ia.installer.actions.PrintToConsole -- Output Text to Console: ...
+   |   |   |   |-- com.zerog.ia.installer.actions.AntRunner -- Executing ANT Script...
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\config\MfgABPP\temp\Platform_post_install.xml
+   |   |   |   |-- com.zerog.ia.installer.actions.EditVariableTable -- InstallAnywhere Variable
+   |   |   |   |-- com.zerog.ia.installer.actions.EditVariableTable -- InstallAnywhere Variable
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- MfgABPP_install.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- Platform_post_install.xml
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\config\MfgABPP\bin\ods.owb
+   |   |   |   |-- com.zerog.ia.installer.actions.MoveFolderAction -- Moving Folder: C:\Products\JDA2017\config\MfgABPP\bin
+   |   |   |   |-- com.zerog.ia.installer.actions.MoveFolderAction -- Moving Folder: C:\Products\JDA2017\config\MfgABPP\batch
+   |   |   |   |-- com.zerog.ia.installer.actions.MoveFolderAction -- Moving Folder: C:\Products\JDA2017\config\MfgABPP\wsdl
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFolderAction -- Copying Folder: C:\Products\JDA2017\config\MfgABPP\temp\odsx\ODS_staging_scenarioId_enabled
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFolderAction -- Copying Folder: C:\Products\JDA2017\config\MfgABPP\lib
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirCont -- FP
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFolderAction -- Copying Folder: C:\Products\JDA2017\config\FP\wsdl
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: ConfigureABPP Windows
+   |   |   |   |-- com.zerog.ia.installer.actions.PrintToConsole -- Output Text to Console: Execution of ConfigABPP Server:...
+   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: ods_ext.xml
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- FP_engine.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: FP_engine.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: MfgMDMenv.bat
+   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: MfgMDMenv.sh
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : MfgABPP
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : MfgABPP
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirCont -- UDF
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFolderAction -- Copying Folder: C:\Products\JDA2017\config\UDF\bin
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- config
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- UDF
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : UDF
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Exe of configureABPP for UDF
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : properties
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Deploying MfgABPP on Platform
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\cis\cis-sdk\lib\cis.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\cis\cis-sdk\lib\cis-util.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- lib
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- WEB-INF
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- web
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\cis\cis-sdk\lib\cis-sso.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\cis\cis-sdk\lib\cis-sso-spi.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : testdata
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\web\WEB-INF\lib\jaxrpc.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\web\WEB-INF\lib\mdap.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\web\WEB-INF\lib\sajava.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\web\WEB-INF\lib\trove-3.0.2.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.Exec -- Execute Command: C:\jdk1.80.112\bin\java -classpath ;../InstallerData/IAClasses.zip;../InstallerData/Execute.zip;InstallerData/Execute.zip;../InstallerData/Resource1.zip;InstallerData/Resource1.zip;../InstallerData;InstallerData org.apache.tools.ant.Main -logfile "C:\Products\JDA2017\config\logs\MfgABPP_Configure.log" -buildfile "C:\Products\JDA2017\config\MfgABPP\temp\tmp\Platform_post_install.xml" create_MfgABPP_jar_for_webworks
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Deploying MfgABPP on Platform
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- fp_engine.bin
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Exe of configureABPP for FP
+   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: switch_odsx_jars.sh
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Exe of configureABPP for UDF
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : testdata
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- log
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFolderAction -- Deleting Folder: C:\Products\JDA2017\config\MfgABPP\temp
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\i2ia.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\Platform_post_install.xml
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_web.war
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_oracle.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_install.properties.backup
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_install.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_custom.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_bat.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_base.war
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\tmp.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.EditVariableTable -- InstallAnywhere Variable
+   |   |   |   |-- com.zerog.ia.installer.actions.Exec -- Execute Command: C:\Products\JDA2017\FP\fp_engine.exe LAX_VM C:\Products\JDA2017\jre\bin\java.exe -f C:\Products\JDA2017\FP\FP_engine.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\config\bin\platform\configureABPP.log
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\config\bin\platform\configureABPP.log
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: UDF UI
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\config\bin\platform\configureABPP.log
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- mfgsuite.version
+   |   |   |   |-- com.zerog.ia.installer.actions.MoveFileAction -- Moving File: C:\Products\JDA2017\mfgsuite.version
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFolderAction -- Deleting Folder: C:\Products\JDA2017\config\abpp
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- FP_engine.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\FP\fp_engine.exe
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Cleanup exe
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\FP\FP_engine.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- FP.version
+   |   |   |   |-- com.zerog.ia.installer.actions.MoveFileAction -- Moving File: C:\Products\JDA2017\config\FP\FP.version
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- FP
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP Engine With Platform
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: set Platform jar into Classpath and call MfgABPP's post install xml file for Win
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: set Platform jar into Classpath and call MfgABPP's post install xml file for Unix
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: File/Folder Move from MfgABPP install dir to Platform config dir
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Win file modify
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Copy CIS jar to MfgABPP WEB-INF
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Del jar file not needed for Platform deploy
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP Win engine exe with Platform
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: changing Enigne file permissions
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : cfg
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Unix file modify
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\bin\MfgABPP\drop_schema.bat
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\bin\MfgABPP\ods_generateMtt.bat
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Remove MfgABPP installer artifacts
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: MfgSuite Version
+   |   |   |   |-- com.zerog.ia.installer.actions.DumpDebugInfo -- Output Debug Information
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- MfgABPP.version
+   |   |   |   |-- com.zerog.ia.installer.actions.MoveFileAction -- Moving File: C:\Products\JDA2017\config\MfgABPP\MfgABPP.version
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: MfgABPP Version file
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: changing Enigne file permissions
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP unix engine bin with Platform
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- JDA_patent_notices.docx
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- install
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- source.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- MfgFoundation_installer.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: fp.war
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- install
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- application.xml.body.fp
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- application.xml.body.fp.was
+   |   |   |   |-- com.zerog.ia.installer.actions.MoveFileAction -- Moving File: C:\Products\JDA2017\config\MfgABPP\cfg\properties\log4j2-loggers.xml.body.MfgABPP
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- fp.war
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- fp
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Deploying MfgABPP on Platform
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- temp
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- MfgABPP
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- config
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: MfgABPP
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- fp
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- ear
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- fp_engine.bin
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: changing Enigne file permissions
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: changing Enigne file permissions
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP unix engine bin without platform
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- fp_engine.exe
+   |   |   |   |-- com.zerog.ia.installer.actions.Exec -- Execute Command: C:\Products\JDA2017\FP\fp_engine.exe LAX_VM \jre\bin\java.exe -f C:\Products\JDA2017\FP\FP_engine.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\FP\fp_engine.exe
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Cleanup exe
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP Win engine exe without Platform
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : windows_service
+LoadPropertyFile: In getInstallStatusMessage()
+   |   |   |   |-- com.zerog.ia.installer.actions.CustomAction -- Post Install File Cleanup
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- bin
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirCont -- FP
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- config
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP UI
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : install
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : factory
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : config
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : windows_service
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: with platform
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : config
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: without platform
+   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: FP_engine.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP Engine Without Platform
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- FP
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFolderAction -- Deleting Folder: FP
+   |   |   |-- com.zerog.ia.installer.InstallComponent -- InstallAnywhere Uninstall Component
+   |   |   |-- com.zerog.ia.installer.VMComponent -- InstallAnywhere VM Component
+   |   |   |-- com.zerog.ia.installer.Billboard -- installsplash1.jpg
+   |   |   |-- com.zerog.ia.installer.Billboard -- installsplash2.jpg
+   |   |   |-- com.zerog.ia.installer.Billboard -- installsplash3.jpg
+   |   |   |-- com.zerog.ia.installer.Billboard -- installsplash4.jpg
+   |-- com.zerog.ia.installer.InstallSet -- Advanced
+
+Pre-install Actions:
+com.zerog.ia.installer.actions.EditMultipleVariables -- InstallAnywhere Variables
+com.zerog.ia.installer.actions.ActionGroup -- Action Group
+com.zerog.ia.installer.actions.IntroAction -- Panel: Introduction: Introduction
+com.zerog.ia.installer.actions.IntroActionConsole -- Console: Introduction: Introduction
+com.zerog.ia.installer.actions.PrintToConsole -- Output Text to Console: ...
+com.zerog.ia.installer.actions.LicenseAgrAction -- Panel: License Agreement: License Agreement
+com.zerog.ia.installer.actions.LicenseAgrActionConsole -- Console: License Agreement: License Agreement
+com.zerog.ia.installer.actions.CustomAction -- unnamed Execute Custom Code
+com.zerog.ia.installer.actions.ActionGroup -- Action Group: Platform Installation Group
+com.zerog.ia.installer.actions.Comment -- Comment: Setting IAP variables to true/false based on o/p from ValidateLicenseGetEntitlements Class
+com.zerog.ia.installer.actions.CustomAction -- unnamed Execute Custom Code
+com.zerog.ia.installer.actions.InstallPanelAction -- Panel: Custom Code: com.jda.mfgsuite.install.ChooseProductPanel5
+com.zerog.ia.installer.actions.InstallConsoleAction -- Console: Custom Code: com.jda.mfgsuite.install.ConsoleAction
+com.zerog.ia.installer.actions.ActionGroup -- Action Group: License Validation for Silent Installer
+com.zerog.ia.installer.actions.PrintToConsole -- Output Text to Console: *** Selected Products ***...
+com.zerog.ia.installer.actions.ShowDialogAction -- Message Dialog: Invalid Selection
+com.zerog.ia.installer.actions.ActionGroup -- Action Group
+com.zerog.ia.installer.actions.PrintToConsole -- Output Text to Console: *** Selected Products ***...
+com.zerog.ia.installer.actions.ActionGroup -- Action Group: Database Information
+com.zerog.ia.installer.actions.ActionGroup -- Action Group: MfgABPP Panels
+com.zerog.ia.installer.actions.EditVariableTable -- InstallAnywhere Variable
+com.zerog.ia.installer.actions.ActionGroup -- Action Group: Encrypt MfgABPP Password
+com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP IO Without Platform
+com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP Engine with Platform
+com.zerog.ia.installer.actions.ActionGroup -- Action Group: Microsoft Update
+com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP Engine Service
+com.zerog.ia.installer.actions.DumpDebugInfo -- Output Debug Information
+com.zerog.ia.installer.actions.InstallSummary -- Panel: Pre-Install Summary: Pre-Installation Summary
+com.zerog.ia.installer.actions.InstallSummaryConsole -- Console: Pre-Install Summary: Pre-Installation Summary
+com.zerog.ia.installer.actions.CheckDiskSpace -- Check Free Disk Space
+
+
+Configuring MfgABPP on Platform
+
+MfgABPP_CP: C:\Products\JDA2017\config\platform\abpp\lib
+
+MfgABPP_CP_JARS: C:\Products\JDA2017\config\platform\abpp\lib\xalan-2.7.1\serializer.jar;C:\Products\JDA2017\config\platform\abpp\lib\xalan-2.7.1\xalan.jar;C:\Products\JDA2017\config\platform\abpp\lib\xerces-2.9.0\xercesImpl.jar;C:\Products\JDA2017\config\platform\abpp\lib\xerces-2.9.0\xml-apis.jar
+
+C:\Products\JDA2017\jre\bin\java.exe -classpath C:\Products\JDA2017\config\platform\abpp\lib;../InstallerData/IAClasses.zip;../InstallerData/Execute.zip;InstallerData/Execute.zip;../InstallerData/Resource1.zip;InstallerData/Resource1.zip;../InstallerData;InstallerData org.apache.tools.ant.Main -logfile "C:\Products\JDA2017\config\logs\MfgABPP_Configure.log" -buildfile "C:\Products\JDA2017\config\MfgABPP\temp\tmp\Platform_post_install.xml" create_MfgABPP_jar_for_webworks
+
+CONF_MfgABPP_STDOUT:
+C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows>cd/d C:\Products\JDA2017\config\bin\platform
+
+C:\Products\JDA2017\config\bin\platform>configureABPP.cmd installAbppApp -DPRODUCT_NAME=MfgABPP
+Configuring ABPP...
+
+
+CONF_MfgABPP_STDERR :
+
+CONF_MfgABPP_EXITCODE : 0
+Execution of ConfigABPP Server:
+
+CONF_FP_STDOUT :
+C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows>cd/d C:\Products\JDA2017\config\bin\platform
+
+C:\Products\JDA2017\config\bin\platform>configureABPP.cmd installAbppApp -DPRODUCT_NAME=FP
+Configuring ABPP...
+
+
+CONF_FP_STDERR:
+
+CONF_FP_EXITCODE : 0
+
+LoadPropertyFile: In getInstallStatusMessage()
+LoadPropertyFile: In install()
+LoadPropertiesFile: configFile = C:\Products\JDA2017\install\installer.properties
+Variable: name = USER_INSTALL_DIR, value = C:\Products\JDA2017
+Variable: name = USER_SHORTCUTS, value = C:\Users\j1013674\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\JDA 2017.1
+Variable: name = APPSERVER, value = weblogic
+Variable: name = JDA_JVM_BIT, value = 64
+Variable: name = JDA_WINOS_TYPE, value = windows64
+Variable: name = BEA_HOME, value = C:\Oracle\Middleware\Oracle_Home
+Variable: name = WEBLOGIC_HOME, value = C:\Oracle\Middleware\Oracle_Home\wlserver
+Variable: name = WAS_HOME, value =
+Variable: name = WEBWORKS_JAVA_HOME, value = C:\jdk1.80.112
+Variable: name = UNINSTALLER_JAVA_HOME, value = C:\Products\JDA2017\jre
+Variable: name = SERVER_HOST_NAME, value = 4nv9jc2j
+Variable: name = SERVER_STANDARD_PORT, value = 7001
+Variable: name = SERVER_SSL_PORT, value = 7002
+Variable: name = SERVER_ORB_PORT, value = 7001
+Variable: name = SERVER_SOAP_PORT, value =
+Variable: name = SERVER_CONFIG_NAME, value =
+Variable: name = APP_CONFIG_NAME, value =
+Variable: name = SERVER_PROFILE_NAME, value =
+Variable: name = SYSTEM_DB_NAME, value = SURESH6_JDA
+Variable: name = ORACLE_HOME, value = C:\Oracle\client
+Variable: name = LICENSE_FILE, value = C:\licenses\lic-2017.1-ALL.lic
+Variable: name = MONITOR_INSTALLED, value = no
+Variable: name = DB_HOST, value = in2npdlnxdb16
+Variable: name = DB_PORT, value = 1521
+Variable: name = DB_NAME, value = o11ut14
+Variable: name = DB_USERID, value = SURESH6_WWF
+Variable: name = DB_URL, value = //in2npdlnxdb16:1521/o11ut14
+Variable: name = DB_ENCRYPTED_PASSWORD, value = {E:AES}b3b88173a981d25d3286dbeba4db09c8
+Variable: name = ABPP_USERID, value = suresh6_abpp
+Variable: name = ABPP_ENCRYPTED_PASSWORD, value = {E:AES}cc65894a8ec03669f0a114cda7696999
+Variable: name = MONITOR_USERID, value = SURESH6_WWF
+Variable: name = CONNECTION_POOL_INITIAL, value = 5
+Variable: name = CONNECTION_POOL_MAX, value = 30
+Variable: name = CONNECTION_POOL_INCREMENT, value = 5
+Variable: name = HOST_ENTERPRISE, value = Company Name
+Variable: name = HOST_ENTERPRISE_ESCAPED, value = Company Name
+Variable: name = SUPPORTED_LANGUAGES, value = en
+Variable: name = EMAIL_SYSADMIN_ADDRESS, value =
+Variable: name = EMAIL_SYSTEM_ADDRESS, value =
+Variable: name = EMAIL_SMTP_HOST, value =
+Variable: name = CONTEXT_ROOT, value = jda
+Variable: name = FLEXIBLE_EDITOR_TABLESPACE, value = WWFDATA
+
+Executing FP Engine:
+
+#!/bin/sh
+cd C:\Products\JDA2017\FP
+chmod 777 *
+
+chmod_FP_STDOUT:
+
+chmod_FP_STDERR:
+
+chmod_FP_EXITCODE:
+
+C:\Products\JDA2017\FP\fp_engine.bin LAX_VM C:\jdk1.80.112\bin\java -f C:\Products\JDA2017\FP\FP_engine.properties
+
+FP engine exec:
+
+FP_EXECUTE_STDOUT :
+
+FP_EXECUTE_STDERR :
+
+FP_EXECUTE_EXITCODE : 0
+DumpDebugInfo C:\Products\JDA2017\installer_debug.txt
+Tue Jul 18 12:46:54 IST 2017
+
+
+InstallAnywhere Variables:
+/=$prop.file.separator$
+:=$prop.path.separator$
+;=$prop.path.separator$
+\=$prop.file.separator$
+ABPP_CONFIRM_PASSWORD=suresh6_abpp
+ABPP_DB_PASSWORD=suresh6_abpp
+ABPP_DB_PWD=suresh6_abpp
+ABPP_DB_PWD_CONFIRM=suresh6_abpp
+ABPP_DB_PWD_ENCRYPTED=000012137039244125154131050144022130065052054145175225
+ABPP_DB_PWD_ENCRYPTED_XOR=rtsdri7^`cqq
+ABPP_DB_TNS=o11ut14
+ABPP_DB_USER=suresh6_abpp
+ABPP_DB_VAR_1=suresh6_abpp
+ABPP_DB_VAR_3=o11ut14
+ABPP_ENCRYPTED_PASSWORD={E:AES}cc65894a8ec03669f0a114cda7696999
+ABPP_USERID=suresh6_abpp
+APP_CONFIG_NAME=
+APPSERVER=weblogic
+BATCH_RESULTS="Yes",""
+BATCH_RESULTS_1=Yes
+BATCH_RESULTS_2=
+BATCH_RESULTS_BOOLEAN_1=1
+BATCH_RESULTS_BOOLEAN_2=0
+BEA_HOME=C:\Oracle\Middleware\Oracle_Home
+CHOSEN_DIALOG_BUTTON=0
+CHOSEN_FEATURE_1=MfgSuite
+CHOSEN_FEATURE_LIST=MfgSuite
+CHOSEN_FEATURE_NUM=1
+CHOSEN_INSTALL_BUNDLE_1=MfgSuite
+CHOSEN_INSTALL_BUNDLE_LIST=MfgSuite
+CHOSEN_INSTALL_BUNDLE_NUM=1
+CHOSEN_INSTALL_FEATURE_1=MfgSuite
+CHOSEN_INSTALL_FEATURE_LIST=MfgSuite
+CHOSEN_INSTALL_FEATURE_NUM=1
+CHOSEN_INSTALL_SET=Typical
+CLEAR_TEXT_PASSWORD=suresh6_abpp
+COMMA=,
+COMPUTERNAME=4NV9JC2J
+CONF_FP_EXITCODE=0
+CONF_FP_STDERR=
+CONF_FP_STDOUT=
+C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows>cd/d C:\Products\JDA2017\config\bin\platform
+
+C:\Products\JDA2017\config\bin\platform>configureABPP.cmd installAbppApp -DPRODUCT_NAME=FP
+Configuring ABPP...
+
+CONF_MfgABPP_EXITCODE=0
+CONF_MfgABPP_STDERR=
+CONF_MfgABPP_STDOUT=
+C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows>cd/d C:\Products\JDA2017\config\bin\platform
+
+C:\Products\JDA2017\config\bin\platform>configureABPP.cmd installAbppApp -DPRODUCT_NAME=MfgABPP
+Configuring ABPP...
+
+CONF_UDF_EXITCODE=0
+CONF_UDF_STDERR=
+CONF_UDF_STDOUT=
+C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows>cd/d C:\Products\JDA2017\config\bin\platform
+
+C:\Products\JDA2017\config\bin\platform>configureABPP.cmd installAbppApp -DPRODUCT_NAME=UDF
+Configuring ABPP...
+
+CONNECTION_POOL_INCREMENT=5
+CONNECTION_POOL_INITIAL=5
+CONNECTION_POOL_MAX=30
+CONTEXT_ROOT=jda
+CUSTOMER=JDA
+DATABASE_INFO_6=o11ut14
+DB_ENCRYPTED_PASSWORD={E:AES}b3b88173a981d25d3286dbeba4db09c8
+DB_HOST=in2npdlnxdb16
+DB_NAME=o11ut14
+DB_PORT=1521
+DB_URL=//in2npdlnxdb16:1521/o11ut14
+DB_USERID=SURESH6_WWF
+DEBUG=1
+DEPENDENCY_FAILURES=
+DEPENDENCY_REPORT=
+DEPENDENCY_STATUS=success
+DEPENDENCY_SUCCESSES=
+DESKTOP=C:\Users\j1013674\Desktop
+DO_NOT_INSTALL=Do Not Install
+DOLLAR=$
+EMAIL_SMTP_HOST=
+EMAIL_SYSADMIN_ADDRESS=
+EMAIL_SYSTEM_ADDRESS=
+EMPTY_STRING=
+ENCRYPTED_PASSWORD={E:AES}cc65894a8ec03669f0a114cda7696999
+ENG_CHECK=false
+ENTITLEMENT_IDS=1002810000,1002811001,1002330000,1002320000,1002310000,1002321001,1002010000,1002011005,1002011000,1002110000,1002111003,1002111002,1002170000,1002190000,1002200000,1002150000,1002160000,1002161001,1002161002,1002180000,1002020000,1000450000,1002030000,1002080000,1002050000,1002590000,1002570000,1003260000,1003261002,1002130000,1003620002,1003730000,1002370000,1002380000,1002381001,1003310000,1003020000,1003021023,1003021020,1003810002,1003010000,1003610000,1003611004,1002800001,1002801001,1003080001,1000630002,1000490010,1003240000,1003220000,1003210000,1003230000,1003210001,1002210000,1002240000,1002230000,1002250000,1002550000,1002520000,1004431012,1003750000,1003040000,1002820000,1002820001,1003110000,1003110004,1003140000,1003160000,1003161001,1004560000,1004610000,1004611005,1004611004,1004720000,1004571006,1004571005,1004570000,1004750000,1004571004,1002320002,1002320003
+ENTITLEMENT_NAMES=JDA Platform - Runtime,JDA Platform - Developer,JDA Monitor,JDA Reporting,JDA Analytics,JDA Business Analysis,JDA Demand,JDA Demand 360,JDA Demand Classification,JDA Fulfillment,JDA Fulfillment-Material Alloc,JDA Fulfillment - Production,JDA Fulfillment - Allocation,JDA Predictive Analytics and New Product Intelligence,JDA Slow Mover Forecasting and Replenishment,JDA Dynamic Demand Response,JDA Order Optimization,JDA Order Optimization Forward Buy,JDA Replenishment Interval Optimization,JDA Flowcasting,JDA Markdown Optimization,JDA Promotions Management,JDA Promotions Optimization,JDA Demand Management Foundation,JDA Strategic Pricing,JDA Travel Price Optimization,JDA Revenue Mgmt Foundation,JDA Enterprise Supply Planning,JDA Enterprise Supply Planning with LPOpt,JDA Production and Sourcing Opt,JDA Inventory Optimization,JDA Sales and Operations Planning,JDA Collaborate,JDA Market Manager,JDA Market Manager - Multi-Enterprise,JDA Order Promiser,JDA Supply Chain Planner,JDA Supply Chain Planner with LpOPT Extension,JDA Supply Chain Planner with lpathfinder,JDA Manufacturing ABPP,JDA Factory Planner,JDA Supply Chain Strategist,JDA Supply Chain Strategist Analyzer,JDA Sequencing,JDA Sequencing Advanced Optimization,JDA Order Sequencing and Slotting,JDA Assortment,JDA Advertising,JDA Logistics Procurement,JDA Transportation Modeler,JDA Transportation Manager,JDA Transportation Planner,JDA Transportation Manager Proactive Monitoring,JDA Transportation Planning,JDA Freight Audit and Payment,JDA Freight Order Management,JDA Shipment Execution,JDA Tour Revenue Optimizer,JDA Rail Revenue Optimization,JDA InStock,JDA Retail Planning Dashboard,JDA Material Allocator,JDA Connect,JDA Connect for SAP HANA (TM),JDA Product Sourcing,JDA Contract Management,JDA Strategic Sourcing,JDA Compoonent Suplier Management,JDA CSM - Part Navigator,JDA Warehouse Management,JDA Warehouse Labor Management,JDA Workforce Modeling,JDA Time and Incentives,JDA Track and Trace,JDA Integrator for Dispatcher,JDA EMS-Event Mgmt for Dispatcher,JDA Dispatcher WMS,JDA Third Party Billing,JDA Extended Yard Management,JDA Business Analysis for Store Operations,JDA Business Analysis for Transportation
+EXTRACTOR_DIR=C:\Products
+EXTRACTOR_EXECUTABLE=C:\Products\installMfgFoundation.exe
+FLEXIBLE_EDITOR_TABLESPACE=WWFDATA
+FONTS=C:\Windows\Fonts
+FP_ENG=true
+FP_ENG1=true
+FP_ENGINE_VAR="4NV9JC2J","6163","fp_4NV9JC2J_tmapi_launcher"
+FP_ENGINE_VAR_1=4NV9JC2J
+FP_ENGINE_VAR_2=6163
+FP_ENGINE_VAR_3=fp_4NV9JC2J_tmapi_launcher
+FP_ENGINE_VAR_BOOLEAN_1=
+FP_ENGINE_VAR_BOOLEAN_2=
+FP_ENGINE_VAR_BOOLEAN_3=
+FP_EXECUTE_EXITCODE=0
+FP_EXECUTE_STDERR=
+FP_EXECUTE_STDOUT=
+FP_NAME=JDA Factory Planner
+FP_PRODUCT_ID=1003010000
+FP_PRODUCT_NAME=JDA Factory Planner
+FP_SERVICE=0
+FP_UI=true
+FP_UI1=true
+FREE_DISK_SPACE_BYTES=11391275008
+HOST_ENTERPRISE=Company Name
+HOST_ENTERPRISE_ESCAPED=Company Name
+I2_DATABASE_TYPE=Oracle
+I2_DATABASE_TYPE_1=Oracle
+I2_DOMAINNAME=jda.corp.local
+I2_ENCRYPTED=true
+I2_FLAG=true
+I2_FQDN=4NV9JC2J.jda.corp.local
+I2_FQDN_NO_DOTS=4NV9JC2J_jda_corp_local
+I2_HOSTNAME=4NV9JC2J
+I2_JDK_HOME=C:\jdk1.80.112
+I2_ORACLE_DRIVER=oracle.jdbc.driver.OracleDriver
+I2_ORACLE_HOST=in2npdlnxdb16
+I2_ORACLE_PORT=1521
+I2_SCENARIO_ENABLED=1
+I2_WEBCLIENT_TYPE=weblogic
+IA_CUSTOM_CODE_ZIP_SIZE=0
+INSTALL_DIR_SET=true
+INSTALL_DRIVE_ROOT=C:\
+INSTALL_SUCCESS=SUCCESS
+INSTALLER_LAUNCH_DIR=C:\Products
+INSTALLER_LOCALE=en
+INSTALLER_TEMP_DIR=C:\Users\j1013674\AppData\Local\Temp\341614.tmp
+INSTALLER_TITLE=JDA MfgFoundation 2017.1
+INSTALLER_UI=SWING
+INVOPT_ENTITLEMENTS=Replenishment Interval Optimization
+INVOPT_INSTALL_TYPE=
+INVOPT_NAME=JDA Inventory Planner
+INVOPT_NAME_BASIC=Basic
+INVOPT_NAME_IPA=Inventory Performance Analysis
+INVOPT_NAME_RIO=Replenishment Interval Optimization
+INVOPT_PRODUCT_NAME=JDA Inventory Optimization
+INVOPT_PWD=suresh6_abpp
+INVOPT_TNSNAME=o11ut14
+INVOPT_USER=suresh6_abpp
+IO_ENG=true
+IO_PRODUCT_ID_BASIC=2954
+IO_PRODUCT_ID_IPA=3479
+IO_PRODUCT_ID_RIO=1002161002
+IO_TYPE_BASIC=false
+IO_TYPE_IPA=false
+IO_TYPE_RIO=false
+IO_UI=true
+IS_RUNNING_WOW64=NO
+JAVA_DOT_HOME=C:\jdk1.80.112\jre
+JAVA_EXECUTABLE=C:\jdk1.80.112\bin\java.exe
+JAVA_HOME=C:\jdk1.80.112
+JDA_JVM_BIT=64
+JDA_WINOS_TYPE=windows64
+JDK_HOME=C:\jdk1.80.112
+lax.application.name=installMfgFoundation
+lax.class.path=../InstallerData/IAClasses.zip;../InstallerData/Execute.zip;InstallerData/Execute.zip;../InstallerData/Resource1.zip;InstallerData/Resource1.zip;../InstallerData;InstallerData
+lax.command.line.args=$CMD_LINE_ARGUMENTS$
+lax.control-key=true
+lax.installer.win32.internal.property.0=bin\java.exe
+lax.installer.windows.ui.default=GUI
+lax.main.class=com.zerog.ia.installer.Main
+lax.main.method=main
+lax.nl.current.vm=C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\bin\java.exe
+lax.nl.env.__COMPAT_LAYER=Installer
+lax.nl.env.__compat_layer=Installer
+lax.nl.env.ALLUSERSPROFILE=C:\ProgramData
+lax.nl.env.allusersprofile=C:\ProgramData
+lax.nl.env.APPDATA=C:\Users\j1013674\AppData\Roaming
+lax.nl.env.appdata=C:\Users\j1013674\AppData\Roaming
+lax.nl.env.burn_autoplay=C:\Program Files (x86)\Roxio\OEM\Roxio Burn\
+lax.nl.env.BURN_AUTOPLAY=C:\Program Files (x86)\Roxio\OEM\Roxio Burn\
+lax.nl.env.chassis=Laptop
+lax.nl.env.CHASSIS=Laptop
+lax.nl.env.classpath=C:\backup\Oracle\client\jdbc\lib\ojdbc7.jar;C:\backup\Oracle\client\jdbc\lib\ojdbc6.jar
+lax.nl.env.CLASSPATH=C:\backup\Oracle\client\jdbc\lib\ojdbc7.jar;C:\backup\Oracle\client\jdbc\lib\ojdbc6.jar
+lax.nl.env.commonprogramfiles=C:\Program Files (x86)\Common Files
+lax.nl.env.COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+lax.nl.env.COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+lax.nl.env.commonprogramfiles(x86)=C:\Program Files (x86)\Common Files
+lax.nl.env.COMMONPROGRAMW6432=C:\Program Files\Common Files
+lax.nl.env.commonprogramw6432=C:\Program Files\Common Files
+lax.nl.env.computername=4NV9JC2J
+lax.nl.env.COMPUTERNAME=4NV9JC2J
+lax.nl.env.comspec=C:\Windows\system32\cmd.exe
+lax.nl.env.COMSPEC=C:\Windows\system32\cmd.exe
+lax.nl.env.DEFLOGDIR=C:\ProgramData\McAfee\Endpoint Security\Logs
+lax.nl.env.deflogdir=C:\ProgramData\McAfee\Endpoint Security\Logs
+lax.nl.env.emc_autoplay=C:\Program Files (x86)\Common Files\Roxio Shared\OEM\
+lax.nl.env.EMC_AUTOPLAY=C:\Program Files (x86)\Common Files\Roxio Shared\OEM\
+lax.nl.env.exact_case.__COMPAT_LAYER=Installer
+lax.nl.env.exact_case.ALLUSERSPROFILE=C:\ProgramData
+lax.nl.env.exact_case.APPDATA=C:\Users\j1013674\AppData\Roaming
+lax.nl.env.exact_case.BURN_AUTOPLAY=C:\Program Files (x86)\Roxio\OEM\Roxio Burn\
+lax.nl.env.exact_case.chassis=Laptop
+lax.nl.env.exact_case.CLASSPATH=C:\backup\Oracle\client\jdbc\lib\ojdbc7.jar;C:\backup\Oracle\client\jdbc\lib\ojdbc6.jar
+lax.nl.env.exact_case.CommonProgramFiles=C:\Program Files (x86)\Common Files
+lax.nl.env.exact_case.CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+lax.nl.env.exact_case.CommonProgramW6432=C:\Program Files\Common Files
+lax.nl.env.exact_case.COMPUTERNAME=4NV9JC2J
+lax.nl.env.exact_case.ComSpec=C:\Windows\system32\cmd.exe
+lax.nl.env.exact_case.DEFLOGDIR=C:\ProgramData\McAfee\Endpoint Security\Logs
+lax.nl.env.exact_case.EMC_AUTOPLAY=C:\Program Files (x86)\Common Files\Roxio Shared\OEM\
+lax.nl.env.exact_case.HOMEDRIVE=C:
+lax.nl.env.exact_case.HOMEPATH=\Users\j1013674
+lax.nl.env.exact_case.LOCALAPPDATA=C:\Users\j1013674\AppData\Local
+lax.nl.env.exact_case.LOGONSERVER=\\IN2PRDVDC02
+lax.nl.env.exact_case.model=E5470
+lax.nl.env.exact_case.NUMBER_OF_PROCESSORS=8
+lax.nl.env.exact_case.ORACLE_HOME=C:\Oracle
+lax.nl.env.exact_case.OS=Windows_NT
+lax.nl.env.exact_case.Path=C:\oracle1210;C:\Program Files (x86)\IBM\RationalSDLC\common;C:\jdk1.80.112\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\12.0\DLLShared\;C:\Program Files (x86)\Roxio\OEM\AudioCore\;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Program Files (x86)\IBM\RationalSDLC\ClearCase\bin;C:\Strawberry\perl\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\c\bin;C:\Program Files (x86)\WebEx\PTools020000000;C:\Program Files\PuTTY\
+lax.nl.env.exact_case.PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+lax.nl.env.exact_case.PROCESSOR_ARCHITECTURE=x86
+lax.nl.env.exact_case.PROCESSOR_ARCHITEW6432=AMD64
+lax.nl.env.exact_case.PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+lax.nl.env.exact_case.PROCESSOR_LEVEL=6
+lax.nl.env.exact_case.PROCESSOR_REVISION=5e03
+lax.nl.env.exact_case.ProgramData=C:\ProgramData
+lax.nl.env.exact_case.ProgramFiles=C:\Program Files (x86)
+lax.nl.env.exact_case.ProgramFiles(x86)=C:\Program Files (x86)
+lax.nl.env.exact_case.ProgramW6432=C:\Program Files
+lax.nl.env.exact_case.PSModulePath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+lax.nl.env.exact_case.PUBLIC=C:\Users\Public
+lax.nl.env.exact_case.RATIONAL_ICU4J_DIR=C:\Program Files (x86)\IBM\RationalSDLC\common\java\icu
+lax.nl.env.exact_case.RATIONAL_ICU4J_VERSION=4_8
+lax.nl.env.exact_case.RCAUTOPLAY=C:\Program Files (x86)\Roxio\OEM\Roxio Central 5\
+lax.nl.env.exact_case.serial=4NV9JC2
+lax.nl.env.exact_case.SystemDrive=C:
+lax.nl.env.exact_case.SystemRoot=C:\Windows
+lax.nl.env.exact_case.TEMP=C:\Users\j1013674\AppData\Local\Temp
+lax.nl.env.exact_case.TMP=C:\Users\j1013674\AppData\Local\Temp
+lax.nl.env.exact_case.type=Latitude
+lax.nl.env.exact_case.UATDATA=C:\Windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+lax.nl.env.exact_case.USERDNSDOMAIN=JDA.CORP.LOCAL
+lax.nl.env.exact_case.USERDOMAIN=JDA
+lax.nl.env.exact_case.USERDOMAIN_ROAMINGPROFILE=JDA
+lax.nl.env.exact_case.USERNAME=j1013674
+lax.nl.env.exact_case.USERPROFILE=C:\Users\j1013674
+lax.nl.env.exact_case.VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+lax.nl.env.exact_case.windir=C:\Windows
+lax.nl.env.homedrive=C:
+lax.nl.env.HOMEDRIVE=C:
+lax.nl.env.HOMEPATH=\Users\j1013674
+lax.nl.env.homepath=\Users\j1013674
+lax.nl.env.localappdata=C:\Users\j1013674\AppData\Local
+lax.nl.env.LOCALAPPDATA=C:\Users\j1013674\AppData\Local
+lax.nl.env.LOGONSERVER=\\IN2PRDVDC02
+lax.nl.env.logonserver=\\IN2PRDVDC02
+lax.nl.env.MODEL=E5470
+lax.nl.env.model=E5470
+lax.nl.env.NUMBER_OF_PROCESSORS=8
+lax.nl.env.number_of_processors=8
+lax.nl.env.ORACLE_HOME=C:\Oracle
+lax.nl.env.oracle_home=C:\Oracle
+lax.nl.env.OS=Windows_NT
+lax.nl.env.os=Windows_NT
+lax.nl.env.PATH=C:\oracle1210;C:\Program Files (x86)\IBM\RationalSDLC\common;C:\jdk1.80.112\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\12.0\DLLShared\;C:\Program Files (x86)\Roxio\OEM\AudioCore\;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Program Files (x86)\IBM\RationalSDLC\ClearCase\bin;C:\Strawberry\perl\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\c\bin;C:\Program Files (x86)\WebEx\PTools020000000;C:\Program Files\PuTTY\
+lax.nl.env.path=C:\oracle1210;C:\Program Files (x86)\IBM\RationalSDLC\common;C:\jdk1.80.112\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\12.0\DLLShared\;C:\Program Files (x86)\Roxio\OEM\AudioCore\;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Program Files (x86)\IBM\RationalSDLC\ClearCase\bin;C:\Strawberry\perl\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\c\bin;C:\Program Files (x86)\WebEx\PTools020000000;C:\Program Files\PuTTY\
+lax.nl.env.pathext=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+lax.nl.env.PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+lax.nl.env.processor_architecture=x86
+lax.nl.env.PROCESSOR_ARCHITECTURE=x86
+lax.nl.env.PROCESSOR_ARCHITEW6432=AMD64
+lax.nl.env.processor_architew6432=AMD64
+lax.nl.env.PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+lax.nl.env.processor_identifier=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+lax.nl.env.processor_level=6
+lax.nl.env.PROCESSOR_LEVEL=6
+lax.nl.env.processor_revision=5e03
+lax.nl.env.PROCESSOR_REVISION=5e03
+lax.nl.env.PROGRAMDATA=C:\ProgramData
+lax.nl.env.programdata=C:\ProgramData
+lax.nl.env.PROGRAMFILES=C:\Program Files (x86)
+lax.nl.env.programfiles=C:\Program Files (x86)
+lax.nl.env.PROGRAMFILES(X86)=C:\Program Files (x86)
+lax.nl.env.programfiles(x86)=C:\Program Files (x86)
+lax.nl.env.PROGRAMW6432=C:\Program Files
+lax.nl.env.programw6432=C:\Program Files
+lax.nl.env.psmodulepath=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+lax.nl.env.PSMODULEPATH=C:\Windows\system32\WindowsPowerShell\v1.0\Modules\
+lax.nl.env.public=C:\Users\Public
+lax.nl.env.PUBLIC=C:\Users\Public
+lax.nl.env.RATIONAL_ICU4J_DIR=C:\Program Files (x86)\IBM\RationalSDLC\common\java\icu
+lax.nl.env.rational_icu4j_dir=C:\Program Files (x86)\IBM\RationalSDLC\common\java\icu
+lax.nl.env.rational_icu4j_version=4_8
+lax.nl.env.RATIONAL_ICU4J_VERSION=4_8
+lax.nl.env.RCAUTOPLAY=C:\Program Files (x86)\Roxio\OEM\Roxio Central 5\
+lax.nl.env.rcautoplay=C:\Program Files (x86)\Roxio\OEM\Roxio Central 5\
+lax.nl.env.SERIAL=4NV9JC2
+lax.nl.env.serial=4NV9JC2
+lax.nl.env.systemdrive=C:
+lax.nl.env.SYSTEMDRIVE=C:
+lax.nl.env.systemroot=C:\Windows
+lax.nl.env.SYSTEMROOT=C:\Windows
+lax.nl.env.TEMP=C:\Users\j1013674\AppData\Local\Temp
+lax.nl.env.temp=C:\Users\j1013674\AppData\Local\Temp
+lax.nl.env.TMP=C:\Users\j1013674\AppData\Local\Temp
+lax.nl.env.tmp=C:\Users\j1013674\AppData\Local\Temp
+lax.nl.env.TYPE=Latitude
+lax.nl.env.type=Latitude
+lax.nl.env.UATDATA=C:\Windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+lax.nl.env.uatdata=C:\Windows\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+lax.nl.env.USERDNSDOMAIN=JDA.CORP.LOCAL
+lax.nl.env.userdnsdomain=JDA.CORP.LOCAL
+lax.nl.env.userdomain=JDA
+lax.nl.env.USERDOMAIN=JDA
+lax.nl.env.USERDOMAIN_ROAMINGPROFILE=JDA
+lax.nl.env.userdomain_roamingprofile=JDA
+lax.nl.env.USERNAME=j1013674
+lax.nl.env.username=j1013674
+lax.nl.env.userprofile=C:\Users\j1013674
+lax.nl.env.USERPROFILE=C:\Users\j1013674
+lax.nl.env.VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+lax.nl.env.vbox_msi_install_path=C:\Program Files\Oracle\VirtualBox\
+lax.nl.env.WINDIR=C:\Windows
+lax.nl.env.windir=C:\Windows
+lax.nl.java.launcher.main.class=com.zerog.lax.LAX
+lax.nl.java.launcher.main.method=main
+lax.nl.java.option.additional=
+lax.nl.java.option.check.source=off
+lax.nl.java.option.java.heap.size.initial=51200000
+lax.nl.java.option.java.heap.size.max=204800000
+lax.nl.java.option.verify.mode=none
+lax.nl.valid.vm.list=1.8+
+lax.nl.win32.i386.microsoft.java.compiler=on
+lax.nl.win32.microsoftvm.min.version=3167
+lax.resource.dir=Windows
+lax.stderr.redirect=console
+lax.stdin.redirect=
+lax.stdout.redirect=console
+lax.user.dir=.
+lax.version=10.0
+LICENSE_FILE=C:\licenses\lic-2017.1-ALL.lic
+LICENSE_FILE1=PLATFORM_LIC_FILE$
+LICENSE_VALID=Yes
+LICENSE_VALIDATION_MSG=License validation succeeded. There are 438 days left before license expires.
+MAC_APPLE_MENU=
+MAC_CHEWABLE=
+MAC_CONTROL_PANELS=
+MAC_EXTENSIONS=
+MAC_PREFERENCES=
+MACX_DOCK=
+MACX_USER_APPLICATIONS=
+MfgABPP_CP=C:\Products\JDA2017\config\platform\abpp\lib
+MfgABPP_CP_JARS=C:\Products\JDA2017\config\platform\abpp\lib\xalan-2.7.1\serializer.jar;C:\Products\JDA2017\config\platform\abpp\lib\xalan-2.7.1\xalan.jar;C:\Products\JDA2017\config\platform\abpp\lib\xerces-2.9.0\xercesImpl.jar;C:\Products\JDA2017\config\platform\abpp\lib\xerces-2.9.0\xml-apis.jar
+MFGABPP_ENCRYTPED_PASSOWRD={E:AES}cc65894a8ec03669f0a114cda7696999
+MfgABPP_EXITCODE=0
+MFGABPP_NAME=JDA Manufacturing ABPP
+MFGABPP_PRODUCT_ID=1003810002
+MFGABPP_PRODUCT_ID_BASIC=3444
+MfgABPP_STDERR=
+MfgABPP_STDOUT=Buildfile: C:\Products\JDA2017\config\MfgABPP\temp\tmp\Platform_post_install.xml
+
+MFGABPP_UI=true
+MFGABPP_UI1=true
+MFGABPP_UPLOAD_DIR_1=C:\Products\JDA2017\config\MfgABPP\MfgABPP_upload
+MONITOR_INSTALLED=no
+MONITOR_USERID=SURESH6_WWF
+MS_UPDATE=0
+NULL=
+ODSOSTYPE=NT
+OP_ENG=true
+OP_PRODUCT_ID=1003310000
+OP_UI=true
+ORACLE_HOME=C:\Oracle\client
+OS400_INSTALL_DIR=/JDA MfgFoundation 2017.1
+OVERWRITE_IA_CHMOD=false
+PARENT_LICENSE_PATH=C:\Products\JDA2017\JDAPlatform.lic
+PLATFORM_INSTALL_OPT=0
+PLATFORM_LIC_FILE=JDAPlatform.lic
+PLATFORM_PRODUCT_ID=1002810000
+PRODUCT_ID=1002810000
+PRODUCT_NAME=JDA MfgFoundation 2017.1
+PRODUCT_RELEASE=2017.1.x
+PRODUCT_VERSION_NUMBER=2017.1.0.0
+PROGRAMS_DIR=C:\Program Files
+PROGRAMS_DIR_32=C:\Program Files (x86)
+PROGRAMS_DIR_64=C:\Program Files
+prop.awt.toolkit=sun.awt.windows.WToolkit
+prop.file.encoding=Cp1252
+prop.file.encoding.pkg=sun.io
+prop.file.separator=\
+prop.java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+prop.java.awt.printerjob=sun.awt.windows.WPrinterJob
+prop.java.class.path=C:\Users\j1013674\AppData\Local\Temp\I1500361785\InstallerData\IAClasses.zip;C:\Users\j1013674\AppData\Local\Temp\I1500361785\InstallerData\Execute.zip;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\InstallerData\Execute.zip;C:\Users\j1013674\AppData\Local\Temp\I1500361785\InstallerData\Resource1.zip;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\InstallerData\Resource1.zip;C:\Users\j1013674\AppData\Local\Temp\I1500361785\InstallerData;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\InstallerData;
+prop.java.class.version=52.0
+prop.java.endorsed.dirs=C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\endorsed
+prop.java.ext.dirs=C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\ext;C:\Windows\Sun\Java\lib\ext
+prop.java.home=C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre
+prop.java.io.tmpdir=C:\Users\j1013674\AppData\Local\Temp\
+prop.java.library.path=C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\oracle1210;C:\Program Files (x86)\IBM\RationalSDLC\common;C:\jdk1.80.112\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\Roxio Shared\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\DLLShared\;C:\Program Files (x86)\Common Files\Roxio Shared\OEM\12.0\DLLShared\;C:\Program Files (x86)\Roxio\OEM\AudioCore\;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Program Files (x86)\IBM\RationalSDLC\ClearCase\bin;C:\Strawberry\perl\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\c\bin;C:\Program Files (x86)\WebEx\PTools020000000;C:\Program Files\PuTTY\;.
+prop.java.runtime.name=Java(TM) SE Runtime Environment
+prop.java.runtime.version=1.8.0_51-b16
+prop.java.specification.name=Java Platform API Specification
+prop.java.specification.vendor=Oracle Corporation
+prop.java.specification.version=1.8
+prop.java.vendor=Oracle Corporation
+prop.java.vendor.url=http://java.oracle.com/
+prop.java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+prop.java.version=1.8.0_51
+prop.java.vm.info=mixed mode
+prop.java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+prop.java.vm.specification.name=Java Virtual Machine Specification
+prop.java.vm.specification.vendor=Oracle Corporation
+prop.java.vm.specification.version=1.8
+prop.java.vm.vendor=Oracle Corporation
+prop.java.vm.version=25.51-b03
+prop.line.separator=
+
+prop.os.arch=amd64
+prop.os.name=Windows 8.1
+prop.os.version=6.3
+prop.path.separator=;
+prop.sun.arch.data.model=64
+prop.sun.awt.enableExtraMouseButtons=true
+prop.sun.boot.class.path=C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\resources.jar;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\rt.jar;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\sunrsasign.jar;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\jsse.jar;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\jce.jar;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\charsets.jar;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\lib\jfr.jar;C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\classes
+prop.sun.boot.library.path=C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows\resource\jre\bin
+prop.sun.cpu.endian=little
+prop.sun.cpu.isalist=amd64
+prop.sun.desktop=windows
+prop.sun.io.unicode.encoding=UnicodeLittle
+prop.sun.java.command=com.zerog.lax.LAX C:/Users/j1013674/AppData/Local/Temp/I1500361785/Windows/installMfgFoundation.lax C:/Users/j1013674/AppData/Local/Temp/lax8344.tmp
+prop.sun.java.launcher=SUN_STANDARD
+prop.sun.jnu.encoding=Cp1252
+prop.sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+prop.sun.os.patch.level=
+prop.sun.stderr.encoding=cp437
+prop.sun.stdout.encoding=cp437
+prop.user.country=US
+prop.user.dir=C:\Users\j1013674\AppData\Local\Temp\I1500361785\Windows
+prop.user.home=C:\Users\j1013674
+prop.user.language=en
+prop.user.name=j1013674
+prop.user.script=
+prop.user.timezone=Asia/Calcutta
+prop.user.variant=
+PRV_ENCRYPTED_VARS=SCPO_PASSWORD_ENCRYPTED
+PRV_EXPORT_EXTRA_VARS= ABPP_DB_PWD_ENCRYPTED_XOR SCPO_PASSWORD_ENCRYPTED_XOR
+REQUIRED_DISK_SPACE_BYTES=127123636
+RESTART_NEEDED=NO
+SCP_ENG=true
+SCP_NAME=JDA Supply Chain Planner
+SCP_NAME_BASIC=JDA Supply Chain Planner
+SCP_NAME_IPATH=JDA Supply Chain Planner with Ipathfinder
+SCP_NAME_LPOPT=JDA Supply Chain Planner with LpOPT Extension
+SCP_PRODUCT_ID=1003020000
+SCP_PRODUCT_ID_IPATH=1003021020
+SCP_PRODUCT_ID_LPOPT=1003021023
+SCP_PRODUCT_NAME=JDA Supply Chain Planner with Ipathfinder
+SCP_UI=true
+SCPO_DB_HOST=in2npdlnxdb14
+SCPO_DB_PORT=1521
+SCPO_DB_SID=seq1212a
+SCPO_PASSWORD=win-scpo2017
+SCPO_PASSWORD_CONFIRM=win-scpo2017
+SCPO_PASSWORD_ENCRYPTED=000012237205152093107045196120126173136078116065021220
+SCPO_PASSWORD_ENCRYPTED_XOR=vho,rbqn3106
+SCPO_USER=win_scpo2017
+SERVER_CONFIG_NAME=
+SERVER_HOST_NAME=4nv9jc2j
+SERVER_ORB_PORT=7001
+SERVER_PROFILE_NAME=
+SERVER_SOAP_PORT=
+SERVER_SSL_PORT=7002
+SERVER_STANDARD_PORT=7001
+SHORTCUT_NAME=Shortcut
+SOP_PRODUCT_ID=3139
+SOP_UI=false
+STARTUP=C:\Users\j1013674\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+SUPPORTED_LANGUAGES=en
+SYSTEM=C:\Windows\system32
+SYSTEM_32=C:\Windows\SysWOW64
+SYSTEM_64=C:\Windows\system32
+SYSTEM_DB_NAME=SURESH6_JDA
+SYSTEM_DRIVE_ROOT=C:\
+TEMP_DIR=C:\Users\j1013674\AppData\Local\Temp
+UI_CHECK=false
+UNINSTALLER_JAVA_HOME=C:\Products\JDA2017\jre
+UNIX_OPT=
+UNIX_USER_HOME=C:\Users\j1013674
+UNIX_USR_BIN=
+UNIX_USR_LOCAL_BIN=
+USER_HOME=C:\Users\j1013674
+USER_INSTALL_DIR=C:\Products\JDA2017
+USER_MAGIC_FOLDER_1=
+USER_MAGIC_FOLDER_10=
+USER_MAGIC_FOLDER_2=
+USER_MAGIC_FOLDER_3=
+USER_MAGIC_FOLDER_4=
+USER_MAGIC_FOLDER_5=
+USER_MAGIC_FOLDER_6=
+USER_MAGIC_FOLDER_7=
+USER_MAGIC_FOLDER_8=
+USER_MAGIC_FOLDER_9=
+USER_SHORTCUTS=C:\Users\j1013674\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\JDA 2017.1
+USER_TMAPI_RESULT=SCPO
+USER_TMAPI_RESULT_1=
+USER_TMAPI_RESULT_2=SCPO
+USER_TMAPI_RESULT_3=
+USER_TMAPI_RESULT_BOOLEAN_1=0
+USER_TMAPI_RESULT_BOOLEAN_2=1
+USER_TMAPI_RESULT_BOOLEAN_3=0
+VERIFY_FOLDER_FILE=
+VERIFY_FOLDER_MESSAGE=
+VERIFY_FOLDER_NAME=
+VERIFY_FOLDER_NAME_NO_QUOTE=C:\Products\JDA2017
+WAS_HOME=
+WEBLOGIC_HOME=C:\Oracle\Middleware\Oracle_Home\wlserver
+WEBSERVICE_PORT="6164"
+WEBSERVICE_PORT_1=6164
+WEBSERVICE_PORT_BOOLEAN_1=
+WEBWORKS_JAVA_HOME=C:\jdk1.80.112
+WIN_COMMON_DESKTOP=C:\Users\Public\Desktop
+WIN_COMMON_PROGRAMS_MENU=C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+WIN_COMMON_START_MENU=C:\ProgramData\Microsoft\Windows\Start Menu
+WIN_COMMON_STARTUP=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+WIN_PROGRAMS_MENU=C:\Users\j1013674\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+WIN_QUICK_LAUNCH_BAR=C:\Users\j1013674\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\
+WIN_START_MENU=C:\Users\j1013674\AppData\Roaming\Microsoft\Windows\Start Menu
+WIN_WINDOWS=C:\Windows
+
+Magic Folders:
+Installer Temp Directory ($INSTALLER_TEMP_DIR$)=C:\Users\j1013674\AppData\Local\Temp\341614.tmp
+Temp Directory ($TEMP_DIR$)=C:\Users\j1013674\AppData\Local\Temp
+User Applications Folder ($MACX_USER_APPLICATIONS$)=
+The Dock ($MACX_DOCK$)=
+Windows Directory ($WIN_WINDOWS$)=C:\Windows
+Programs Folder ($PROGRAMS_DIR$)=C:\Program Files
+System Folder ($SYSTEM$)=C:\Windows\system32
+Shortcuts' Destination Folder ($USER_SHORTCUTS$)=C:\Users\j1013674\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\JDA 2017.1
+System Drive Root ($SYSTEM_DRIVE_ROOT$)=C:\
+Installation Drive Root ($INSTALL_DRIVE_ROOT$)=C:\
+User Install Folder ($USER_INSTALL_DIR$)=C:\Products\JDA2017
+Apple Menu Items ($MAC_APPLE_MENU$)=
+Control Panels Folder ($MAC_CONTROL_PANELS$)=
+Extensions Folder ($MAC_EXTENSIONS$)=
+Java Home ($JAVA_HOME$)=C:\jdk1.80.112
+/usr/local/bin ($UNIX_USR_LOCAL_BIN$)=
+Home Directory ($UNIX_USER_HOME$)=C:\Users\j1013674
+DO NOT INSTALL ($DO_NOT_INSTALL$)=Do Not Install
+$USER_MAGIC_FOLDER_1$ ($USER_MAGIC_FOLDER_1$)=
+$USER_MAGIC_FOLDER_2$ ($USER_MAGIC_FOLDER_2$)=
+$USER_MAGIC_FOLDER_3$ ($USER_MAGIC_FOLDER_3$)=
+$USER_MAGIC_FOLDER_4$ ($USER_MAGIC_FOLDER_4$)=
+$USER_MAGIC_FOLDER_5$ ($USER_MAGIC_FOLDER_5$)=
+/opt ($UNIX_OPT$)=
+/usr/bin ($UNIX_USR_BIN$)=
+Clean-Up at Startup Folder ($MAC_CHEWABLE$)=
+Preferences Folder ($MAC_PREFERENCES$)=
+$USER_MAGIC_FOLDER_6$ ($USER_MAGIC_FOLDER_6$)=
+$USER_MAGIC_FOLDER_7$ ($USER_MAGIC_FOLDER_7$)=
+$USER_MAGIC_FOLDER_8$ ($USER_MAGIC_FOLDER_8$)=
+$USER_MAGIC_FOLDER_9$ ($USER_MAGIC_FOLDER_9$)=
+Quick Launch Bar ($WIN_QUICK_LAUNCH_BAR$)=C:\Users\j1013674\AppData\Roaming\Microsoft\Internet Explorer\Quick Launch\
+$USER_MAGIC_FOLDER_10$ ($USER_MAGIC_FOLDER_10$)=
+All Users Desktop ($WIN_COMMON_DESKTOP$)=C:\Users\Public\Desktop
+All Users Startup ($WIN_COMMON_STARTUP$)=C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
+Programs Folder (64-bit) ($PROGRAMS_DIR_64$)=C:\Program Files
+All Users Programs Menu ($WIN_COMMON_PROGRAMS_MENU$)=C:\ProgramData\Microsoft\Windows\Start Menu\Programs
+Programs Folder (32-bit) ($PROGRAMS_DIR_32$)=C:\Program Files (x86)
+All Users Start Menu ($WIN_COMMON_START_MENU$)=C:\ProgramData\Microsoft\Windows\Start Menu
+System Folder (64-bit) ($SYSTEM_64$)=C:\Windows\system32
+System Folder (32-bit) ($SYSTEM_32$)=C:\Windows\SysWOW64
+Fonts Directory ($FONTS$)=C:\Windows\Fonts
+Desktop Folder ($DESKTOP$)=C:\Users\j1013674\Desktop
+Start Menu ($WIN_START_MENU$)=C:\Users\j1013674\AppData\Roaming\Microsoft\Windows\Start Menu
+Startup Folder ($STARTUP$)=C:\Users\j1013674\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+Programs Menu ($WIN_PROGRAMS_MENU$)=C:\Users\j1013674\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
+
+Java System Properties:
+-- listing properties --
+lax.nl.env.emc_autoplay=C:\Program Files (x86)\Common Files\R...
+file.encoding.pkg=sun.io
+lax.user.dir=.
+lax.nl.env.HOMEPATH=\Users\j1013674
+lax.resource.dir=Windows
+lax.application.name=installMfgFoundation
+lax.nl.env.TEMP=C:\Users\j1013674\AppData\Local\Temp
+java.home=C:\Users\j1013674\AppData\Local\Temp\...
+lax.nl.env.USERDOMAIN_ROAMINGPROFILE=JDA
+lax.nl.env.programfiles=C:\Program Files (x86)
+lax.nl.env.PROCESSOR_REVISION=5e03
+lax.nl.env.exact_case.Path=C:\oracle1210;C:\Program Files (x86)\...
+lax.nl.env.exact_case.__COMPAT_LAYER=Installer
+lax.nl.env.HOMEDRIVE=C:
+lax.nl.win32.microsoftvm.min.version=3167
+lax.nl.env.exact_case.PROCESSOR_ARCHITECTURE=x86
+lax.nl.env.OS=Windows_NT
+lax.main.class=com.zerog.ia.installer.Main
+java.endorsed.dirs=C:\Users\j1013674\AppData\Local\Temp\...
+lax.stderr.redirect=console
+lax.nl.env.exact_case.RATIONAL_ICU4J_VERSION=4_8
+lax.nl.env.exact_case.BURN_AUTOPLAY=C:\Program Files (x86)\Roxio\OEM\Roxi...
+lax.nl.env.systemroot=C:\Windows
+lax.nl.java.option.java.heap.size.max=204800000
+lax.nl.env.SYSTEMDRIVE=C:
+lax.nl.env.exact_case.ProgramFiles=C:\Program Files (x86)
+lax.nl.env.PROGRAMFILES=C:\Program Files (x86)
+sun.os.patch.level=
+java.vendor.url=http://java.oracle.com/
+lax.nl.env.VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+java.version=1.8.0_51
+lax.nl.env.WINDIR=C:\Windows
+sun.stdout.encoding=cp437
+lax.nl.env.programfiles(x86)=C:\Program Files (x86)
+lax.nl.env.exact_case.USERNAME=j1013674
+lax.nl.java.option.verify.mode=none
+lax.nl.env.__COMPAT_LAYER=Installer
+lax.nl.env.userdomain_roamingprofile=JDA
+lax.nl.env.logonserver=\\IN2PRDVDC02
+java.vendor.url.bug=http://bugreport.sun.com/bugreport/
+lax.nl.java.option.check.source=off
+lax.nl.env.homepath=\Users\j1013674
+lax.nl.env.exact_case.windir=C:\Windows
+lax.nl.env.COMSPEC=C:\Windows\system32\cmd.exe
+lax.nl.env.RATIONAL_ICU4J_DIR=C:\Program Files (x86)\IBM\RationalSD...
+user.name=j1013674
+lax.nl.env.processor_architecture=x86
+sun.io.unicode.encoding=UnicodeLittle
+lax.nl.env.ALLUSERSPROFILE=C:\ProgramData
+sun.jnu.encoding=Cp1252
+java.runtime.name=Java(TM) SE Runtime Environment
+lax.nl.env.model=E5470
+lax.nl.env.USERDOMAIN=JDA
+lax.nl.env.RCAUTOPLAY=C:\Program Files (x86)\Roxio\OEM\Roxi...
+lax.nl.env.exact_case.DEFLOGDIR=C:\ProgramData\McAfee\Endpoint Securi...
+lax.nl.env.SERIAL=4NV9JC2
+lax.nl.env.exact_case.PUBLIC=C:\Users\Public
+java.specification.name=Java Platform API Specification
+user.timezone=Asia/Calcutta
+user.script=
+path.separator=;
+lax.nl.env.exact_case.serial=4NV9JC2
+lax.nl.env.MODEL=E5470
+file.encoding=Cp1252
+lax.nl.env.systemdrive=C:
+lax.nl.env.USERNAME=j1013674
+lax.nl.env.PROGRAMDATA=C:\ProgramData
+lax.nl.env.allusersprofile=C:\ProgramData
+lax.nl.env.processor_revision=5e03
+sun.java.command=com.zerog.lax.LAX C:/Users/j1013674/A...
+lax.nl.env.exact_case.SystemRoot=C:\Windows
+lax.nl.env.exact_case.PSModulePath=C:\Windows\system32\WindowsPowerShell...
+lax.nl.env.vbox_msi_install_path=C:\Program Files\Oracle\VirtualBox\
+lax.nl.env.exact_case.PROCESSOR_ARCHITEW6432=AMD64
+lax.nl.env.commonprogramw6432=C:\Program Files\Common Files
+lax.nl.env.PUBLIC=C:\Users\Public
+lax.version=10.0
+lax.nl.env.USERDNSDOMAIN=JDA.CORP.LOCAL
+lax.nl.env.deflogdir=C:\ProgramData\McAfee\Endpoint Securi...
+lax.nl.env.exact_case.EMC_AUTOPLAY=C:\Program Files (x86)\Common Files\R...
+java.io.tmpdir=C:\Users\j1013674\AppData\Local\Temp\
+lax.nl.env.exact_case.chassis=Laptop
+lax.nl.env.username=j1013674
+lax.nl.env.exact_case.COMPUTERNAME=4NV9JC2J
+user.language=en
+line.separator=
+
+lax.nl.java.launcher.main.class=com.zerog.lax.LAX
+lax.nl.env.appdata=C:\Users\j1013674\AppData\Roaming
+lax.nl.env.exact_case.UATDATA=C:\Windows\CCM\UATData\D9F8C395-CAB8-...
+lax.nl.env.commonprogramfiles(x86)=C:\Program Files (x86)\Common Files
+lax.nl.env.windir=C:\Windows
+lax.nl.env.chassis=Laptop
+lax.command.line.args=$CMD_LINE_ARGUMENTS$
+java.vm.info=mixed mode
+lax.nl.env.exact_case.TMP=C:\Users\j1013674\AppData\Local\Temp
+lax.nl.env.exact_case.USERPROFILE=C:\Users\j1013674
+lax.nl.java.launcher.main.method=main
+sun.desktop=windows
+java.vm.specification.name=Java Virtual Machine Specification
+lax.nl.env.UATDATA=C:\Windows\CCM\UATData\D9F8C395-CAB8-...
+lax.nl.current.vm=C:\Users\j1013674\AppData\Local\Temp\...
+lax.nl.env.exact_case.TEMP=C:\Users\j1013674\AppData\Local\Temp
+lax.nl.env.os=Windows_NT
+lax.nl.env.PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3,...
+lax.nl.env.exact_case.ComSpec=C:\Windows\system32\cmd.exe
+lax.nl.env.commonprogramfiles=C:\Program Files (x86)\Common Files
+lax.nl.env.exact_case.LOCALAPPDATA=C:\Users\j1013674\AppData\Local
+lax.nl.env.serial=4NV9JC2
+lax.nl.env.processor_identifier=Intel64 Family 6 Model 94 Stepping 3,...
+lax.nl.env.SYSTEMROOT=C:\Windows
+lax.nl.env.programdata=C:\ProgramData
+lax.nl.env.exact_case.CLASSPATH=C:\backup\Oracle\client\jdbc\lib\ojdb...
+lax.nl.env.processor_architew6432=AMD64
+lax.nl.env.NUMBER_OF_PROCESSORS=8
+lax.nl.env.rational_icu4j_version=4_8
+lax.nl.env.computername=4NV9JC2J
+java.awt.printerjob=sun.awt.windows.WPrinterJob
+lax.nl.env.classpath=C:\backup\Oracle\client\jdbc\lib\ojdb...
+lax.nl.env.exact_case.VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+lax.nl.env.pathext=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JS...
+lax.stdout.redirect=console
+lax.nl.env.exact_case.ORACLE_HOME=C:\Oracle
+lax.nl.env.exact_case.CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+lax.nl.env.exact_case.USERDOMAIN=JDA
+lax.nl.env.public=C:\Users\Public
+lax.nl.env.exact_case.HOMEDRIVE=C:
+os.name=Windows 8.1
+lax.nl.env.rational_icu4j_dir=C:\Program Files (x86)\IBM\RationalSD...
+java.specification.vendor=Oracle Corporation
+lax.nl.env.exact_case.USERDOMAIN_ROAMINGPROFILE=JDA
+java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+lax.nl.env.localappdata=C:\Users\j1013674\AppData\Local
+lax.nl.env.exact_case.PROCESSOR_REVISION=5e03
+lax.nl.env.homedrive=C:
+sun.awt.enableExtraMouseButtons=true
+lax.nl.env.BURN_AUTOPLAY=C:\Program Files (x86)\Roxio\OEM\Roxi...
+java.library.path=C:\Users\j1013674\AppData\Local\Temp\...
+lax.nl.env.exact_case.SystemDrive=C:
+java.class.version=52.0
+lax.nl.env.COMMONPROGRAMFILES(X86)=C:\Program Files (x86)\Common Files
+lax.nl.env.EMC_AUTOPLAY=C:\Program Files (x86)\Common Files\R...
+lax.nl.env.exact_case.RCAUTOPLAY=C:\Program Files (x86)\Roxio\OEM\Roxi...
+lax.nl.env.exact_case.PROCESSOR_LEVEL=6
+lax.control-key=true
+lax.nl.env.COMPUTERNAME=4NV9JC2J
+lax.nl.env.type=Latitude
+lax.nl.env.COMMONPROGRAMW6432=C:\Program Files\Common Files
+lax.nl.win32.i386.microsoft.java.compiler=on
+lax.nl.env.path=C:\oracle1210;C:\Program Files (x86)\...
+lax.nl.env.TYPE=Latitude
+sun.boot.library.path=C:\Users\j1013674\AppData\Local\Temp\...
+lax.nl.env.number_of_processors=8
+sun.management.compiler=HotSpot 64-Bit Tiered Compilers
+lax.nl.env.PATH=C:\oracle1210;C:\Program Files (x86)\...
+user.variant=
+java.awt.graphicsenv=sun.awt.Win32GraphicsEnvironment
+lax.nl.env.PROCESSOR_ARCHITECTURE=x86
+lax.nl.env.exact_case.CommonProgramW6432=C:\Program Files\Common Files
+lax.nl.env.TMP=C:\Users\j1013674\AppData\Local\Temp
+lax.nl.env.exact_case.LOGONSERVER=\\IN2PRDVDC02
+lax.nl.env.exact_case.RATIONAL_ICU4J_DIR=C:\Program Files (x86)\IBM\RationalSD...
+lax.class.path=../InstallerData/IAClasses.zip;../Ins...
+lax.nl.env.burn_autoplay=C:\Program Files (x86)\Roxio\OEM\Roxi...
+lax.nl.env.processor_level=6
+lax.nl.env.comspec=C:\Windows\system32\cmd.exe
+lax.nl.env.LOCALAPPDATA=C:\Users\j1013674\AppData\Local
+lax.nl.env.USERPROFILE=C:\Users\j1013674
+lax.nl.env.exact_case.model=E5470
+lax.nl.env.tmp=C:\Users\j1013674\AppData\Local\Temp
+lax.main.method=main
+java.vm.specification.version=1.8
+lax.nl.java.option.additional=
+awt.toolkit=sun.awt.windows.WToolkit
+lax.nl.java.option.java.heap.size.initial=51200000
+sun.cpu.isalist=amd64
+lax.installer.win32.internal.property.0=bin\java.exe
+sun.stderr.encoding=cp437
+java.ext.dirs=C:\Users\j1013674\AppData\Local\Temp\...
+os.version=6.3
+lax.nl.env.DEFLOGDIR=C:\ProgramData\McAfee\Endpoint Securi...
+lax.nl.env.exact_case.OS=Windows_NT
+user.home=C:\Users\j1013674
+lax.nl.env.RATIONAL_ICU4J_VERSION=4_8
+java.vm.vendor=Oracle Corporation
+lax.nl.env.COMMONPROGRAMFILES=C:\Program Files (x86)\Common Files
+lax.nl.env.exact_case.ProgramData=C:\ProgramData
+lax.nl.env.exact_case.APPDATA=C:\Users\j1013674\AppData\Roaming
+lax.stdin.redirect=
+lax.nl.env.exact_case.CommonProgramFiles=C:\Program Files (x86)\Common Files
+user.dir=C:\Users\j1013674\AppData\Local\Temp\...
+lax.nl.env.psmodulepath=C:\Windows\system32\WindowsPowerShell...
+lax.nl.valid.vm.list=1.8+
+lax.nl.env.__compat_layer=Installer
+lax.nl.env.ORACLE_HOME=C:\Oracle
+sun.cpu.endian=little
+lax.nl.env.APPDATA=C:\Users\j1013674\AppData\Roaming
+java.vm.version=25.51-b03
+lax.nl.env.exact_case.USERDNSDOMAIN=JDA.CORP.LOCAL
+java.class.path=C:\Users\j1013674\AppData\Local\Temp\...
+os.arch=amd64
+lax.installer.windows.ui.default=GUI
+lax.nl.env.userprofile=C:\Users\j1013674
+lax.nl.env.userdnsdomain=JDA.CORP.LOCAL
+lax.nl.env.userdomain=JDA
+lax.nl.env.rcautoplay=C:\Program Files (x86)\Roxio\OEM\Roxi...
+lax.nl.env.PROCESSOR_LEVEL=6
+sun.java.launcher=SUN_STANDARD
+lax.nl.env.PROCESSOR_ARCHITEW6432=AMD64
+lax.nl.env.exact_case.HOMEPATH=\Users\j1013674
+java.vm.specification.vendor=Oracle Corporation
+file.separator=\
+lax.nl.env.uatdata=C:\Windows\CCM\UATData\D9F8C395-CAB8-...
+lax.nl.env.exact_case.PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JS...
+java.runtime.version=1.8.0_51-b16
+sun.boot.class.path=C:\Users\j1013674\AppData\Local\Temp\...
+lax.nl.env.exact_case.ALLUSERSPROFILE=C:\ProgramData
+lax.nl.env.programw6432=C:\Program Files
+lax.nl.env.PSMODULEPATH=C:\Windows\system32\WindowsPowerShell...
+lax.nl.env.exact_case.PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3,...
+user.country=US
+lax.nl.env.CHASSIS=Laptop
+lax.nl.env.PROGRAMFILES(X86)=C:\Program Files (x86)
+lax.nl.env.PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JS...
+lax.nl.env.PROGRAMW6432=C:\Program Files
+lax.nl.env.exact_case.NUMBER_OF_PROCESSORS=8
+lax.nl.env.exact_case.type=Latitude
+lax.nl.env.exact_case.ProgramFiles(x86)=C:\Program Files (x86)
+lax.nl.env.CLASSPATH=C:\backup\Oracle\client\jdbc\lib\ojdb...
+java.vendor=Oracle Corporation
+lax.nl.env.exact_case.ProgramW6432=C:\Program Files
+lax.nl.env.oracle_home=C:\Oracle
+lax.nl.env.LOGONSERVER=\\IN2PRDVDC02
+lax.nl.env.temp=C:\Users\j1013674\AppData\Local\Temp
+java.specification.version=1.8
+sun.arch.data.model=64
+
+Visual Tree:
+-- com.zerog.ia.installer.Installer -- JDA MfgFoundation 2017.1
+   |-- com.zerog.ia.installer.InstallSet -- Typical
+   |-- com.zerog.ia.installer.InstallBundle -- MfgSuite
+   |-- com.zerog.ia.installer.InstallComponent -- Common
+   |-- com.zerog.ia.installer.InstallComponent -- InstallAnywhere Uninstall Component
+   |-- com.zerog.ia.installer.VMComponent -- InstallAnywhere VM Component
+   |-- com.zerog.ia.installer.hosts.OSHost -- Operating System
+   |   |-- com.zerog.ia.installer.GhostDirectory -- JDA2017
+   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- JDA_patent_notices.docx
+   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- install
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- source.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- MfgFoundation_installer.properties
+   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: MfgSuite Version
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- mfgsuite.version
+   |   |   |   |-- com.zerog.ia.installer.actions.MoveFileAction -- Moving File: C:\Products\JDA2017\mfgsuite.version
+   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: MfgABPP
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- config
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- MfgABPP
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- tmp.jar
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_web.war
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_sh.jar
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_oracle.jar
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_custom.jar
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_bat.jar
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_base.war
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP.jar
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- i2ia.jar
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- log
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- temp
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: tmp.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: MfgABPP_bat.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: MfgABPP.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: MfgABPP_custom.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: MfgABPP_sh.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: MfgABPP_oracle.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- Platform_post_install.xml
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\config\MfgABPP\temp\Platform_post_install.xml
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- MfgABPP_install.properties
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: MfgABPP_install.properties
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: switch_odsx_jars.sh
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.AntRunner -- Executing ANT Script...
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.EditVariableTable -- InstallAnywhere Variable
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: set Platform jar into Classpath and call MfgABPP's post install xml file for Win
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.EditVariableTable -- InstallAnywhere Variable
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.Exec -- Execute Command: C:\jdk1.80.112\bin\java.exe -classpath C:\Products\JDA2017\config\platform\abpp\lib\xalan-2.7.1\serializer.jar;C:\Products\JDA2017\config\platform\abpp\lib\xalan-2.7.1\xalan.jar;C:\Products\JDA2017\config\platform\abpp\lib\xerces-2.9.0\xercesImpl.jar;C:\Products\JDA2017\config\platform\abpp\lib\xerces-2.9.0\xml-apis.jar;../InstallerData/IAClasses.zip;../InstallerData/Execute.zip;InstallerData/Execute.zip;../InstallerData/Resource1.zip;InstallerData/Resource1.zip;../InstallerData;InstallerData org.apache.tools.ant.Main -logfile "C:\Products\JDA2017\config\logs\MfgABPP_Configure.log" -buildfile "C:\Products\JDA2017\config\MfgABPP\temp\tmp\Platform_post_install.xml" create_MfgABPP_jar_for_webworks
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: set Platform jar into Classpath and call MfgABPP's post install xml file for Unix
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.EditVariableTable -- InstallAnywhere Variable
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.Exec -- Execute Command: C:\jdk1.80.112\bin\java -classpath C:\Products\JDA2017\config\platform\abpp\lib\xalan-2.7.1\serializer.jar;C:\Products\JDA2017\config\platform\abpp\lib\xalan-2.7.1\xalan.jar;C:\Products\JDA2017\config\platform\abpp\lib\xerces-2.9.0\xercesImpl.jar;C:\Products\JDA2017\config\platform\abpp\lib\xerces-2.9.0\xml-apis.jar;../InstallerData/IAClasses.zip;../InstallerData/Execute.zip;InstallerData/Execute.zip;../InstallerData/Resource1.zip;InstallerData/Resource1.zip;../InstallerData;InstallerData org.apache.tools.ant.Main -logfile "C:\Products\JDA2017\config\logs\MfgABPP_Configure.log" -buildfile "C:\Products\JDA2017\config\MfgABPP\temp\tmp\Platform_post_install.xml" create_MfgABPP_jar_for_webworks
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: File/Folder Move from MfgABPP install dir to Platform config dir
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\config\MfgABPP\bin\ods.owb
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.MoveFolderAction -- Moving Folder: C:\Products\JDA2017\config\MfgABPP\bin
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.MoveFolderAction -- Moving Folder: C:\Products\JDA2017\config\MfgABPP\batch
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.MoveFolderAction -- Moving Folder: C:\Products\JDA2017\config\MfgABPP\wsdl
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFolderAction -- Copying Folder: C:\Products\JDA2017\config\MfgABPP\temp\odsx\ODS_staging_scenarioId_enabled
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFolderAction -- Copying Folder: C:\Products\JDA2017\config\MfgABPP\lib
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: ods_ext.xml
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : properties
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Win file modify
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: MfgMDMenv.bat
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : MfgABPP
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : testdata
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Unix file modify
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: MfgMDMenv.sh
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : MfgABPP
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : testdata
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : cfg
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Copy CIS jar to MfgABPP WEB-INF
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\cis\cis-sdk\lib\cis.jar
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\cis\cis-sdk\lib\cis-util.jar
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\cis\cis-sdk\lib\cis-sso-spi.jar
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\cis\cis-sdk\lib\cis-sso.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Del jar file not needed for Platform deploy
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\web\WEB-INF\lib\jaxrpc.jar
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\web\WEB-INF\lib\mdap.jar
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\web\WEB-INF\lib\sajava.jar
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\web\WEB-INF\lib\trove-3.0.2.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Deploying MfgABPP on Platform
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Deploying MfgABPP on Platform
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Deploying MfgABPP on Platform
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\config\bin\platform\configureABPP.log
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.PrintToConsole -- Output Text to Console: ...
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- web
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- WEB-INF
+   |   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- lib
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: MfgABPP Version file
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- MfgABPP.version
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.MoveFileAction -- Moving File: C:\Products\JDA2017\config\MfgABPP\MfgABPP.version
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.MoveFileAction -- Moving File: C:\Products\JDA2017\config\MfgABPP\cfg\properties\log4j2-loggers.xml.body.MfgABPP
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Remove MfgABPP installer artifacts
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFolderAction -- Deleting Folder: C:\Products\JDA2017\config\MfgABPP\temp
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\i2ia.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_base.war
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_bat.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_custom.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_install.properties
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_install.properties.backup
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_oracle.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_web.war
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\Platform_post_install.xml
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\tmp.jar
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\bin\MfgABPP\drop_schema.bat
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\bin\MfgABPP\ods_generateMtt.bat
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFolderAction -- Deleting Folder: C:\Products\JDA2017\config\abpp
+   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP UI
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- config
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- bin
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirCont -- FP
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- ear
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- fp
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: fp.war
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- fp
+   |   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- fp.war
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- FP
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirCont -- FP
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- FP.version
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.MoveFileAction -- Moving File: C:\Products\JDA2017\config\FP\FP.version
+   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFolderAction -- Copying Folder: C:\Products\JDA2017\config\FP\wsdl
+   |   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: ConfigureABPP Windows
+   |   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Exe of configureABPP for FP
+   |   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\config\bin\platform\configureABPP.log
+   |   |   |   |   |-- com.zerog.ia.installer.actions.PrintToConsole -- Output Text to Console: Execution of ConfigABPP Server:...
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- install
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- application.xml.body.fp.was
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- application.xml.body.fp
+   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: UDF UI
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- config
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- UDF
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirCont -- UDF
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFolderAction -- Copying Folder: C:\Products\JDA2017\config\UDF\bin
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : UDF
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Exe of configureABPP for UDF
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Exe of configureABPP for UDF
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\config\bin\platform\configureABPP.log
+   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- FP
+LoadPropertyFile: In getInstallStatusMessage()
+   |   |   |   |-- com.zerog.ia.installer.actions.CustomAction -- Post Install File Cleanup
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP Engine With Platform
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- FP_engine.properties
+   |   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: FP_engine.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP Engine Without Platform
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- FP_engine.properties
+   |   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: FP_engine.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP Win engine exe with Platform
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- fp_engine.exe
+   |   |   |   |   |-- com.zerog.ia.installer.actions.Exec -- Execute Command: C:\Products\JDA2017\FP\fp_engine.exe LAX_VM C:\Products\JDA2017\jre\bin\java.exe -f C:\Products\JDA2017\FP\FP_engine.properties
+   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Cleanup exe
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\FP\fp_engine.exe
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP Win engine exe without Platform
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- fp_engine.exe
+   |   |   |   |   |-- com.zerog.ia.installer.actions.Exec -- Execute Command: C:\Products\JDA2017\FP\fp_engine.exe LAX_VM \jre\bin\java.exe -f C:\Products\JDA2017\FP\FP_engine.properties
+   |   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Cleanup exe
+   |   |   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\FP\fp_engine.exe
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP unix engine bin with Platform
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- fp_engine.bin
+   |   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: changing Enigne file permissions
+   |   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: changing Enigne file permissions
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP unix engine bin without platform
+   |   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- fp_engine.bin
+   |   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: changing Enigne file permissions
+   |   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: changing Enigne file permissions
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: with platform
+   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : windows_service
+   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : install
+   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : factory
+   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : config
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: without platform
+   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : windows_service
+   |   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : config
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\FP\FP_engine.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.PrintToConsole -- Output Text to Console: ...
+   |   |   |-- com.zerog.ia.installer.actions.DeleteFolderAction -- Deleting Folder: FP
+   |   |   |-- com.zerog.ia.installer.actions.DumpDebugInfo -- Output Debug Information
+   |-- com.zerog.ia.installer.Billboard -- installsplash1.jpg
+   |-- com.zerog.ia.installer.Billboard -- installsplash2.jpg
+   |-- com.zerog.ia.installer.Billboard -- installsplash3.jpg
+   |-- com.zerog.ia.installer.Billboard -- installsplash4.jpg
+
+Component Tree:
+-- com.zerog.ia.installer.Installer -- JDA MfgFoundation 2017.1
+   |-- com.zerog.ia.installer.InstallSet -- Typical
+   |   |-- com.zerog.ia.installer.InstallBundle -- MfgSuite
+   |   |   |-- com.zerog.ia.installer.InstallComponent -- Common
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- i2ia.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: tmp.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: MfgABPP.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: MfgABPP_bat.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: MfgABPP_custom.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: MfgABPP_sh.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: MfgABPP_oracle.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- fp_engine.exe
+   |   |   |   |-- com.zerog.ia.installer.actions.PrintToConsole -- Output Text to Console: ...
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_base.war
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_bat.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_custom.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_oracle.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_sh.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- MfgABPP_web.war
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- tmp.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: MfgABPP_install.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.Exec -- Execute Command: C:\jdk1.80.112\bin\java.exe -classpath C:\Products\JDA2017\config\platform\abpp\lib\xalan-2.7.1\serializer.jar;C:\Products\JDA2017\config\platform\abpp\lib\xalan-2.7.1\xalan.jar;C:\Products\JDA2017\config\platform\abpp\lib\xerces-2.9.0\xercesImpl.jar;C:\Products\JDA2017\config\platform\abpp\lib\xerces-2.9.0\xml-apis.jar;../InstallerData/IAClasses.zip;../InstallerData/Execute.zip;InstallerData/Execute.zip;../InstallerData/Resource1.zip;InstallerData/Resource1.zip;../InstallerData;InstallerData org.apache.tools.ant.Main -logfile "C:\Products\JDA2017\config\logs\MfgABPP_Configure.log" -buildfile "C:\Products\JDA2017\config\MfgABPP\temp\tmp\Platform_post_install.xml" create_MfgABPP_jar_for_webworks
+   |   |   |   |-- com.zerog.ia.installer.actions.PrintToConsole -- Output Text to Console: ...
+   |   |   |   |-- com.zerog.ia.installer.actions.AntRunner -- Executing ANT Script...
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\config\MfgABPP\temp\Platform_post_install.xml
+   |   |   |   |-- com.zerog.ia.installer.actions.EditVariableTable -- InstallAnywhere Variable
+   |   |   |   |-- com.zerog.ia.installer.actions.EditVariableTable -- InstallAnywhere Variable
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- MfgABPP_install.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- Platform_post_install.xml
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\config\MfgABPP\bin\ods.owb
+   |   |   |   |-- com.zerog.ia.installer.actions.MoveFolderAction -- Moving Folder: C:\Products\JDA2017\config\MfgABPP\bin
+   |   |   |   |-- com.zerog.ia.installer.actions.MoveFolderAction -- Moving Folder: C:\Products\JDA2017\config\MfgABPP\batch
+   |   |   |   |-- com.zerog.ia.installer.actions.MoveFolderAction -- Moving Folder: C:\Products\JDA2017\config\MfgABPP\wsdl
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFolderAction -- Copying Folder: C:\Products\JDA2017\config\MfgABPP\temp\odsx\ODS_staging_scenarioId_enabled
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFolderAction -- Copying Folder: C:\Products\JDA2017\config\MfgABPP\lib
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirCont -- FP
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFolderAction -- Copying Folder: C:\Products\JDA2017\config\FP\wsdl
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: ConfigureABPP Windows
+   |   |   |   |-- com.zerog.ia.installer.actions.PrintToConsole -- Output Text to Console: Execution of ConfigABPP Server:...
+   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: ods_ext.xml
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- FP_engine.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: FP_engine.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: MfgMDMenv.bat
+   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: MfgMDMenv.sh
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : MfgABPP
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : MfgABPP
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirCont -- UDF
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFolderAction -- Copying Folder: C:\Products\JDA2017\config\UDF\bin
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- config
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- UDF
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : UDF
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Exe of configureABPP for UDF
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : properties
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Deploying MfgABPP on Platform
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\cis\cis-sdk\lib\cis.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\cis\cis-sdk\lib\cis-util.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- lib
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- WEB-INF
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- web
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\cis\cis-sdk\lib\cis-sso.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\cis\cis-sdk\lib\cis-sso-spi.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : testdata
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\web\WEB-INF\lib\jaxrpc.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\web\WEB-INF\lib\mdap.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\web\WEB-INF\lib\sajava.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\web\WEB-INF\lib\trove-3.0.2.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.Exec -- Execute Command: C:\jdk1.80.112\bin\java -classpath C:\Products\JDA2017\config\platform\abpp\lib\xalan-2.7.1\serializer.jar;C:\Products\JDA2017\config\platform\abpp\lib\xalan-2.7.1\xalan.jar;C:\Products\JDA2017\config\platform\abpp\lib\xerces-2.9.0\xercesImpl.jar;C:\Products\JDA2017\config\platform\abpp\lib\xerces-2.9.0\xml-apis.jar;../InstallerData/IAClasses.zip;../InstallerData/Execute.zip;InstallerData/Execute.zip;../InstallerData/Resource1.zip;InstallerData/Resource1.zip;../InstallerData;InstallerData org.apache.tools.ant.Main -logfile "C:\Products\JDA2017\config\logs\MfgABPP_Configure.log" -buildfile "C:\Products\JDA2017\config\MfgABPP\temp\tmp\Platform_post_install.xml" create_MfgABPP_jar_for_webworks
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Deploying MfgABPP on Platform
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- fp_engine.bin
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Exe of configureABPP for FP
+   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: switch_odsx_jars.sh
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Exe of configureABPP for UDF
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : testdata
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- log
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFolderAction -- Deleting Folder: C:\Products\JDA2017\config\MfgABPP\temp
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\i2ia.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\Platform_post_install.xml
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_web.war
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_oracle.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_install.properties.backup
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_install.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_custom.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_bat.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP_base.war
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\MfgABPP.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\MfgABPP\tmp.jar
+   |   |   |   |-- com.zerog.ia.installer.actions.EditVariableTable -- InstallAnywhere Variable
+   |   |   |   |-- com.zerog.ia.installer.actions.Exec -- Execute Command: C:\Products\JDA2017\FP\fp_engine.exe LAX_VM C:\Products\JDA2017\jre\bin\java.exe -f C:\Products\JDA2017\FP\FP_engine.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\config\bin\platform\configureABPP.log
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\config\bin\platform\configureABPP.log
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: UDF UI
+   |   |   |   |-- com.zerog.ia.installer.actions.CopyFileAction -- Copying File: C:\Products\JDA2017\config\bin\platform\configureABPP.log
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- mfgsuite.version
+   |   |   |   |-- com.zerog.ia.installer.actions.MoveFileAction -- Moving File: C:\Products\JDA2017\mfgsuite.version
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFolderAction -- Deleting Folder: C:\Products\JDA2017\config\abpp
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- FP_engine.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\FP\fp_engine.exe
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Cleanup exe
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\FP\FP_engine.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- FP.version
+   |   |   |   |-- com.zerog.ia.installer.actions.MoveFileAction -- Moving File: C:\Products\JDA2017\config\FP\FP.version
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- FP
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP Engine With Platform
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: set Platform jar into Classpath and call MfgABPP's post install xml file for Win
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: set Platform jar into Classpath and call MfgABPP's post install xml file for Unix
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: File/Folder Move from MfgABPP install dir to Platform config dir
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Win file modify
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Copy CIS jar to MfgABPP WEB-INF
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Del jar file not needed for Platform deploy
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP Win engine exe with Platform
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: changing Enigne file permissions
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : cfg
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Unix file modify
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\bin\MfgABPP\drop_schema.bat
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\config\bin\MfgABPP\ods_generateMtt.bat
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Remove MfgABPP installer artifacts
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: MfgSuite Version
+   |   |   |   |-- com.zerog.ia.installer.actions.DumpDebugInfo -- Output Debug Information
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- MfgABPP.version
+   |   |   |   |-- com.zerog.ia.installer.actions.MoveFileAction -- Moving File: C:\Products\JDA2017\config\MfgABPP\MfgABPP.version
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: MfgABPP Version file
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: changing Enigne file permissions
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP unix engine bin with Platform
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- JDA_patent_notices.docx
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- install
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- source.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- MfgFoundation_installer.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.ExpandFile -- Archive: fp.war
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- install
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- application.xml.body.fp
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- application.xml.body.fp.was
+   |   |   |   |-- com.zerog.ia.installer.actions.MoveFileAction -- Moving File: C:\Products\JDA2017\config\MfgABPP\cfg\properties\log4j2-loggers.xml.body.MfgABPP
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallZipfile -- fp.war
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- fp
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: Deploying MfgABPP on Platform
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- temp
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- MfgABPP
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- config
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: MfgABPP
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- fp
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- ear
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- fp_engine.bin
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: changing Enigne file permissions
+   |   |   |   |-- com.zerog.ia.installer.actions.ExecuteScript -- Execute Script/Batch file: changing Enigne file permissions
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP unix engine bin without platform
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallFile -- fp_engine.exe
+   |   |   |   |-- com.zerog.ia.installer.actions.Exec -- Execute Command: C:\Products\JDA2017\FP\fp_engine.exe LAX_VM \jre\bin\java.exe -f C:\Products\JDA2017\FP\FP_engine.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFileAction -- Deleting File: C:\Products\JDA2017\FP\fp_engine.exe
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: Cleanup exe
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP Win engine exe without Platform
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : windows_service
+LoadPropertyFile: In getInstallStatusMessage()
+   |   |   |   |-- com.zerog.ia.installer.actions.CustomAction -- Post Install File Cleanup
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- bin
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirCont -- FP
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- config
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP UI
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : install
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : factory
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : config
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : windows_service
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: with platform
+   |   |   |   |-- com.zerog.ia.installer.actions.SpeedASCIIFileManipulator -- Modify Text File - Multiple Files: : config
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: without platform
+   |   |   |   |-- com.zerog.ia.installer.actions.ASCIIFileManipulator -- Modifying: FP_engine.properties
+   |   |   |   |-- com.zerog.ia.installer.actions.ActionGroup -- Action Group: FP Engine Without Platform
+   |   |   |   |-- com.zerog.ia.installer.actions.InstallDirectory -- FP
+   |   |   |   |-- com.zerog.ia.installer.actions.DeleteFolderAction -- Deleting Folder: FP
+   |   |   |-- com.zerog.ia.installer.InstallComponent -- InstallAnywhere Uninstall Component
+   |   |   |-- com.zerog.ia.installer.VMComponent -- InstallAnywhere VM Component
+   |   |   |-- com.zerog.ia.installer.Billboard -- installsplash1.jpg
+   |   |   |-- com.zerog.ia.installer.Billboard -- installsplash2.jpg
+   |   |   |-- com.zerog.ia.installer.Billboard -- installsplash3.jpg
+   |   |   |-- com.zerog.ia.installer.Billboard -- installsplash4.jpg
+   |-- com.zerog.ia.installer.InstallSet -- Advanced
+
+Pre-install Actions:
+
+Post-install Actions:
+com.zerog.ia.installer.actions.ActionGroup -- Action Group: Post install cleanup for Engines
+com.zerog.ia.installer.actions.ActionGroup -- Action Group: Post Install Actions
+com.zerog.ia.installer.actions.InstallFinishAction -- Panel: Install Complete: Install Complete
+com.zerog.ia.installer.actions.InstallFinishAction -- Panel: Install Complete: Install Complete
+com.zerog.ia.installer.actions.InstallCompleteActionConsole -- Console: Install Complete: Installation Complete
+com.zerog.ia.installer.actions.InstallFailedActionConsole -- Console: Install Failed: Install Complete
+Retrying Installables deferred in pass 0
+Deferral retries done because:
+There were no deferrals in the last pass.
+RepositoryManager: repository successfully written to stable storage
