@@ -1,0 +1,195 @@
+__________________________________________________________________________
+
+Tue Jun 20 15:44:58 IST 2017
+
+Free Memory: 2782 kB
+Total Memory: 15872 kB
+
+java.class.path:
+    C:\Users\j1011670\AppData\Local\Temp\I1497953694\InstallerData\IAClasses.zip
+    C:\Users\j1011670\AppData\Local\Temp\I1497953694\InstallerData\Execute.zip
+    C:\Users\j1011670\AppData\Local\Temp\I1497953694\Windows\InstallerData\Execute.zip
+    C:\Users\j1011670\AppData\Local\Temp\I1497953694\InstallerData\Resource1.zip
+    C:\Users\j1011670\AppData\Local\Temp\I1497953694\Windows\InstallerData\Resource1.zip
+    C:\Users\j1011670\AppData\Local\Temp\I1497953694\InstallerData
+    C:\Users\j1011670\AppData\Local\Temp\I1497953694\Windows\InstallerData
+
+ZGUtil.CLASS_PATH:
+    C:\Users\j1011670\AppData\Local\Temp\I1497953694\InstallerData\IAClasses.zip
+    C:\Users\j1011670\AppData\Local\Temp\I1497953694\InstallerData\Execute.zip
+    C:\Users\j1011670\AppData\Local\Temp\I1497953694\InstallerData
+
+sun.boot.class.path:
+    C:\Program Files (x86)\Java\jre1.8.0_91\lib\resources.jar
+    C:\Program Files (x86)\Java\jre1.8.0_91\lib\rt.jar
+    C:\Program Files (x86)\Java\jre1.8.0_91\lib\sunrsasign.jar
+    C:\Program Files (x86)\Java\jre1.8.0_91\lib\jsse.jar
+    C:\Program Files (x86)\Java\jre1.8.0_91\lib\jce.jar
+    C:\Program Files (x86)\Java\jre1.8.0_91\lib\charsets.jar
+    C:\Program Files (x86)\Java\jre1.8.0_91\lib\jfr.jar
+    C:\Program Files (x86)\Java\jre1.8.0_91\classes
+
+java.ext.dirs:
+    C:\Program Files (x86)\Java\jre1.8.0_91\lib\ext
+    C:\WINDOWS\Sun\Java\lib\ext
+
+java.version                  == 1.8.0_91 (Java 1)
+java.vm.name                  == Java HotSpot(TM) Client VM
+java.vm.vendor                == Oracle Corporation
+java.vm.version               == 25.91-b15
+java.vm.specification.name    == Java Virtual Machine Specification
+java.vm.specification.vendor  == Oracle Corporation
+java.vm.specification.version == 1.8
+java.specification.name       == Java Platform API Specification
+java.specification.vendor     == Oracle Corporation
+java.specification.version    == 1.8
+java.vendor                   == Oracle Corporation
+java.vendor.url               == http://java.oracle.com/
+java.class.version            == 52.0
+java.compiler                 == null
+java.home                     == C:\Program Files (x86)\Java\jre1.8.0_91
+java.io.tmpdir                == C:\Users\j1011670\AppData\Local\Temp\
+os.name                       == Windows 7
+os.arch                       == x86
+os.version                    == 6.1
+path.separator                == ;
+file.separator                == \
+file.encoding                 == Cp1252
+user.name                     == j1011670
+user.home                     == C:\Users\j1011670
+user.dir                      == C:\Users\j1011670\AppData\Local\Temp\I1497953694\Windows
+user.language                 == en
+user.region                   == null
+__________________________________________________________________________
+
+Install Begin: Tue Jun 20 15:44:57 IST 2017
+Install End: Tue Jun 20 15:44:58 IST 2017
+
+Installed by InstallAnywhere 10.0 Enterprise Build 3783
+
+
+User Interactions
+-----------------
+
+
+Summary
+-------
+
+Installation: Successful.
+
+35 Successes
+0 Warnings
+0 NonFatalErrors
+0 FatalErrors
+
+Action Notes:
+
+None
+
+Install Log Detail:
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           Getting OS architecture
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           Validating i2 license ... 
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           InstallAnywhere Variable
+                          Status: SUCCESSFUL
+
+Install Action:           Does a File exist?
+                          Status: SUCCESSFUL
+
