@@ -1,0 +1,111 @@
+7/12/17 7:03 AM	
+7/12/17 7:03 AM	Logging to M:\view\sequencing_20171_dailybuild_view1\Scheduling\Sequencing\quality\appscan\project/seqMonitor/SequencingMonitor_cli.log...
+7/12/17 7:03 AM	
+7/12/17 7:03 AM	login_file https://appscanenterprise:9443/ase C:\ProgramData\IBM\AppScanSource\config\ounceautod.token -acceptssl
+7/12/17 7:05 AM	>> 
+7/12/17 7:05 AM	Login timed out after 120s
+7/12/17 7:05 AM	---------------------------------------------------------------
+|	Logs in to the IBM Security AppScan Source Server using a key file.
+|
+|	Required Arguments:
+|	   server
+|	   key file
+|
+---------------------------------------------------------------
+7/12/17 7:05 AM	ls 
+7/12/17 7:05 AM	
+7/12/17 7:05 AM	29: SequencingMonitor (Application [local] [registered])
+7/12/17 7:06 AM	93: CM-CBP (Application [registered])
+7/12/17 7:06 AM	37: FP Server (Application [registered])
+7/12/17 7:06 AM	30: SequencingMappers (Application)
+7/12/17 7:06 AM	94: Platform_2018.1 (Application [registered])
+7/12/17 7:06 AM	38: ServiceBudgetOptimizer (Application [registered])
+7/12/17 7:06 AM	31: SequencingMonitor (Application [local] [registered])
+7/12/17 7:06 AM	95: MOCA (Application [registered])
+7/12/17 7:06 AM	39: Platform_AppScan (Application [registered])
+7/12/17 7:06 AM	32: SequencingMappers (Application [local])
+7/12/17 7:06 AM	35: ACT_82 (Application [registered])
+7/12/17 7:06 AM	36: FP 2016 UI (Application [registered])
+7/12/17 7:06 AM	40: SCP Engine (Application [registered])
+7/12/17 7:06 AM	41: op_ngdf (Application [registered])
+7/12/17 7:06 AM	42: Demand-AppScan (Application [registered])
+7/12/17 7:06 AM	43: op_engine (Application [registered])
+7/12/17 7:06 AM	44: SCPO-Demand-0606 (Application [registered])
+7/12/17 7:06 AM	45: SCPO-Fulfillment-0606 (Application [registered])
+7/12/17 7:06 AM	46: SCPO-Masterplanning-0606 (Application [registered])
+7/12/17 7:06 AM	47: SCPO-Strategy-0606 (Application [registered])
+7/12/17 7:06 AM	48: SCPO-DRM-0606 (Application [registered])
+7/12/17 7:06 AM	49: SCPO-Flowcasting-0606 (Application [registered])
+7/12/17 7:06 AM	50: MDAP_2017.1.00 (Application [registered])
+7/12/17 7:06 AM	51: SCPO-DDR-0606 (Application [registered])
+7/12/17 7:06 AM	52: SCPO-ESP-0606 (Application [registered])
+7/12/17 7:06 AM	53: SCPO-NPO-0606 (Application [registered])
+7/12/17 7:06 AM	54: SCPO-RMF-0606 (Application [registered])
+7/12/17 7:06 AM	55: SCPO-SOP-0606 (Application [registered])
+7/12/17 7:06 AM	56: MessageBroker_AppScan (Application [registered])
+7/12/17 7:06 AM	57: SCPO-Full (Application [registered])
+7/12/17 7:06 AM	58: JDA HANA Application (Application [registered])
+7/12/17 7:06 AM	59: SCPO-Orderpromiser-0606 (Application [registered])
+7/12/17 7:06 AM	60: Reporting_Appscan (Application [registered])
+7/12/17 7:06 AM	61: Common-AppScan (Application [registered])
+7/12/17 7:06 AM	62: Tactical-AppScan (Application [registered])
+7/12/17 7:06 AM	63: TBC_APPSCAN (Application [registered])
+7/12/17 7:06 AM	64: FOM_AppScan_New (Application [registered])
+7/12/17 7:06 AM	65: Orderpromiser-AppScan (Application [registered])
+7/12/17 7:06 AM	66: rhythm_server (Application [registered])
+7/12/17 7:06 AM	67: RMF-AppScan (Application [registered])
+7/12/17 7:06 AM	68: DRM-AppScan (Application [registered])
+7/12/17 7:06 AM	69: DDR-AppScan (Application [registered])
+7/12/17 7:06 AM	70: ESP-AppScan (Application [registered])
+7/12/17 7:06 AM	71: Flowcasting-AppScan (Application [registered])
+7/12/17 7:06 AM	72: Masterplanning-AppScan (Application [registered])
+7/12/17 7:06 AM	73: Fulfillment-AppScan (Application [registered])
+7/12/17 7:06 AM	74: Strategy-AppScan (Application [registered])
+7/12/17 7:06 AM	75: NPO-AppScan (Application [registered])
+7/12/17 7:06 AM	76: SOP-AppScan (Application [registered])
+7/12/17 7:06 AM	77: FP-Java (Application [registered])
+7/12/17 7:06 AM	78: FP-Java.tmp (Application [registered])
+7/12/17 7:06 AM	79: New_ServicesFramework (Application [registered])
+7/12/17 7:06 AM	80: secant2010 (Application [registered])
+7/12/17 7:06 AM	81: TMWeb (Application [registered])
+7/12/17 7:06 AM	82: APPSCAN_ASSORTMENT (Application [registered])
+7/12/17 7:07 AM	83: TM_Web (Application [registered])
+7/12/17 7:07 AM	84: Datamgmt-AppScan (Application [registered])
+7/12/17 7:07 AM	85: Assortment_74 (Application [registered])
+7/12/17 7:07 AM	86: CM-CKB (Application [registered])
+7/12/17 7:07 AM	87: CM-FloorPlanning (Application [registered])
+7/12/17 7:07 AM	88: CM-SpacePlanning (Application [registered])
+7/12/17 7:07 AM	89: Assortment (Application [registered])
+7/12/17 7:07 AM	90: CM-Assortment (Application [registered])
+7/12/17 7:07 AM	91: CM - SAPro (Application [registered])
+7/12/17 7:07 AM	92: ABPP_AppScan_2017.1 (Application [registered])
+7/12/17 7:07 AM	96: MCS (Application [registered])
+7/12/17 7:07 AM	97: Reporting (Application [registered])
+7/12/17 7:07 AM	98: Int (Application [registered])
+7/12/17 7:07 AM	99: Assortment_AppScan (Application [registered])
+7/12/17 7:07 AM	
+7/12/17 7:07 AM	oa M:\view\sequencing_20171_dailybuild_view1\Scheduling\Sequencing\quality\appscan\project/seqMonitor/SequencingMonitor.paf
+7/12/17 7:07 AM	
+7/12/17 7:07 AM	CRWSA1653E Error: You must log in first.
+7/12/17 7:07 AM	
+7/12/17 7:07 AM	scan 
+7/12/17 7:07 AM	
+7/12/17 7:07 AM	CRWSA1653E Error: You must log in first.
+7/12/17 7:07 AM	
+7/12/17 7:07 AM	pa 
+7/12/17 7:07 AM	
+7/12/17 7:07 AM	CRWSA1653E Error: You must log in first.
+7/12/17 7:07 AM	
+7/12/17 7:07 AM	report "OWASP Top 10 2013" html M:\view\sequencing_20171_dailybuild_view1\Scheduling\Sequencing\quality\appscan\reports/appscan-Monitor-OWASP.html
+7/12/17 7:07 AM	
+7/12/17 7:07 AM	CRWSA1653E Error: You must log in first.
+7/12/17 7:07 AM	
+7/12/17 7:07 AM	report Findings html M:\view\sequencing_20171_dailybuild_view1\Scheduling\Sequencing\quality\appscan\reports/appscan-Monitor-apifindings.html
+7/12/17 7:07 AM	
+7/12/17 7:07 AM	CRWSA1653E Error: You must log in first.
+7/12/17 7:07 AM	
+7/12/17 7:07 AM	report "Software Security Profile" html M:\view\sequencing_20171_dailybuild_view1\Scheduling\Sequencing\quality\appscan\reports/appscan-Monitor-profile.html
+7/12/17 7:07 AM	
+7/12/17 7:07 AM	CRWSA1653E Error: You must log in first.
+7/12/17 7:07 AM	
+7/12/17 7:07 AM	logout 
